@@ -6,6 +6,8 @@
 - Joint Pose and Expression Modeling for Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Joint_Pose_and_CVPR_2018_paper.pdf)]
 - 4DFAB: A Large Scale 4D Database for Facial Expression Analysis and Biometric Applications [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/3299.pdf)]
 - (workshop) Covariance Pooling for Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w10/Acharya_Covariance_Pooling_for_CVPR_2018_paper.pdf),[code](https://github.com/d-acharya/CovPoolFER)]
+- (workshop) Unsupervised Features for Facial Expression Intensity Estimation over Time [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w17/Awiszus_Unsupervised_Features_for_CVPR_2018_paper.pdf)]
+- (workshop) A Compact Deep Learning Model for Robust Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w41/Kuo_A_Compact_Deep_CVPR_2018_paper.pdf)]
 
 ### AAAI18
 -  ExprGAN: Facial Expression Editing with Controllable Expression Intensity [[paper](https://arxiv.org/pdf/1709.03842.pdf)],[[code](https://github.com/HuiDingUMD/ExprGAN)]
@@ -16,7 +18,15 @@ on-the-Fly Prediction [[paper](https://arxiv.org/pdf/1711.10914.pdf)]
 - Geometry Guided Adversarial Facial Expression Synthesis [[paper](https://arxiv.org/pdf/1712.03474.pdf)]
 
 ### CVPR17
+- Reliable Crowdsourcing and Deep Locality-Preserving Learning for Expression
+Recognition in the Wild [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Reliable_Crowdsourcing_and_CVPR_2017_paper.pdf)]
+- Emotion Recognition in Context [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kosti_Emotion_Recognition_in_CVPR_2017_paper.pdf)]
 - (workshop) Facial Expression Recognition Using Enhanced Deep 3D Convolutional Neural Networks [[paper](https://arxiv.org/pdf/1705.07871.pdf)]
+- (workshop) Estimation of Affective Level in the Wild
+With Multiple Memory Networks [[paper](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w33/papers/Li_Estimation_of_Affective_CVPR_2017_paper.pdf)]
+- (workshop) DyadGAN: Generating Facial Expressions in Dyadic Interactions [[paper](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w41/papers/Khan_DyadGAN_Generating_Facial_CVPR_2017_paper.pdf)]
+- (workshop) Personalized Automatic Estimation of Self-reported Pain Intensity
+from Facial Expressions [paper](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w41/papers/Picard_Personalized_Automatic_Estimation_CVPR_2017_paper.pdf)
 
 ### ICCV17
 - A Novel Space-Time Representation on the Positive Semidefinite Cone
@@ -38,6 +48,14 @@ Neural Networks and Conditional Random Fields [[paper](https://arxiv.org/pdf/170
 
 ### CVPR16
 - LOMo: Latent Ordinal Model for Facial Analysis in Videos [[paper](http://www.grvsharma.com/hpresources/lomo_cvpr16_arxiv.pdf)]
+- Facial Expression Intensity Estimation Using Ordinal Information [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhao_Facial_Expression_Intensity_CVPR_2016_paper.pdf)],[[Supplementary](http://openaccess.thecvf.com/content_cvpr_2016/supplemental/Zhao_Facial_Expression_Intensity_2016_CVPR_supplemental.pdf)]
+- EmotioNet: An accurate, real-time algorithm for the automatic annotation of a
+million facial expressions in the wild [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Benitez-Quiroz_EmotioNet_An_Accurate_CVPR_2016_paper.pdf)],[[Supplementary](http://openaccess.thecvf.com/content_cvpr_2016/supplemental/Benitez-Quiroz_EmotioNet_An_Accurate_2016_CVPR_supplemental.pdf)]
+- Multimodal Spontaneous Emotion Corpus for Human Behavior Analysis [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Multimodal_Spontaneous_Emotion_CVPR_2016_paper.pdf)]
+- (workshop) Automatic Recognition of Emotions and Membership in Group Videos [[paper](http://openaccess.thecvf.com/content_cvpr_2016_workshops/w28/papers/Mou_Automatic_Recognition_of_CVPR_2016_paper.pdf)]
+- (workshop) Extended DISFA Dataset: Investigating Posed and Spontaneous Facial
+Expressions [[paper](http://openaccess.thecvf.com/content_cvpr_2016_workshops/w28/papers/Mavadati_Extended_DISFA_Dataset_CVPR_2016_paper.pdf)]
+
 
 
 ### ECCV16
@@ -50,10 +68,12 @@ Recognition [[paper](https://arxiv.org/pdf/1607.06997.pdf)]
 ### ICCV15
 - Joint Fine-Tuning in Deep Neural Networks
 for Facial Expression Recognition [[paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Jung_Joint_Fine-Tuning_in_ICCV_2015_paper.pdf)]
+- Pairwise Conditional Random Forests for Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Dapogny_Pairwise_Conditional_Random_ICCV_2015_paper.pdf)]
 
 ### CVPR14
 - Learning Expressionlets on Spatio-Temporal Manifold for Dynamic Facial
 Expression Recognition [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Liu_Learning_Expressionlets_on_2014_CVPR_paper.pdf)]
+- Facial Expression Recognition via a Boosted Deep Belief Network [paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Liu_Facial_Expression_Recognition_2014_CVPR_paper.pdf)
 
 ### CVPR13
 - Capturing Complex Spatio-Temporal Relations among Facial
@@ -63,6 +83,11 @@ Muscles for Facial Expression Recognition [[paper](http://f4k.dieei.unict.it/pro
 - (submission to IJCAI-ECAI 2018) Geometry-Contrastive Generative Adversarial Network for Facial Expression Synthesis [[paper](https://arxiv.org/abs/1802.01822)]
 -  Deep Facial Expression Recognition: A Survey [[paper](https://arxiv.org/pdf/1804.08348.pdf)]
 -  (ACM Computing Surveys) Facial Expression Analysis under Partial Occlusion: A Survey [[paper](https://arxiv.org/pdf/1802.08784.pdf)]
+-  Expression Empowered ResiDen Network for Facial Action Unit Detection [[paper](https://arxiv.org/pdf/1806.04957.pdf)]
+-  Deep Covariance Descriptors for Facial
+Expression Recognition [[paper](https://arxiv.org/pdf/1805.03869.pdf)]
+- Fine-Grained Facial Expression Analysis Using
+Dimensional Emotion Model [[paper](https://arxiv.org/pdf/1805.01024.pdf)]
 
 ## Domain Adaptation (DA)
 
