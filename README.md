@@ -13,6 +13,28 @@
 -  Learning Spatio-temporal Features with Partial Expression Sequences for
 on-the-Fly Prediction [[paper](https://arxiv.org/pdf/1711.10914.pdf)]
 
+### FG18
+- Multi-Channel Pose-Aware Convolution Neural Networks for Multi-View Facial Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373867)]
+- Automatic 4D Facial Expression Recognition using Dynamic
+Geometrical Image Network [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373807)]
+- ExpNet: Landmark-Free, Deep, 3D Facial Expressions [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373820)]
+- Perceptual Facial Expression Representation [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373828)]
+- Emotion-Preserving Representation Learning via Generative Adversarial Network
+for Multi-view Facial Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373839)]
+- Spotting the Details: The Various Facets of Facial Expressions [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373842)]
+- Identity-Adaptive Facial Expression Recognition Through Expression Regeneration Using Conditional Generative Adversarial Networks [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373843)]
+- Hand-crafted Feature Guided Deep Learning for Facial Expression
+Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373861)]
+- Accurate Facial Parts Localization and Deep Learning for 3D Facial Expression
+Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373868)]
+- Changes in Facial Expression as Biometric: A
+Database and Benchmarks of Identification [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373891)]
+- LTP-ML : Micro-Expression Detection by Recognition of Local temporal Pattern of Facial Movements [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373893)]
+- From Macro to Micro Expression Recognition: Deep Learning on Small Datasets
+Using Transfer Learning  [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373896)]
+
+
+
 ### ACMM MM18
 - Geometry Guided Adversarial Facial Expression Synthesis [[paper](https://arxiv.org/pdf/1712.03474.pdf)]
 
@@ -44,6 +66,13 @@ Expression Recognition [[paper](https://arxiv.org/pdf/1609.06591.pdf)]
 Recognition [[paper](https://cse.sc.edu/~mengz/papers/FG2017.pdf)]
 - (workshop) Spatio-Temporal Facial Expression Recognition Using Convolutional
 Neural Networks and Conditional Random Fields [[paper](https://arxiv.org/pdf/1703.06995.pdf)]
+- Head Pose and Expression Transfer using Facial Status Score [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7961793)]
+- Sayette Group Formation Task (GFT)
+Spontaneous Facial Expression Database [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7961794)]
+- Curriculum Learning for Facial Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7961783)]
+- Implicit Media Tagging and Affect Prediction from RGB-D video of
+spontaneous facial expressions [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7961813)]
+
 
 ### CVPR16
 - LOMo: Latent Ordinal Model for Facial Analysis in Videos [[paper](http://www.grvsharma.com/hpresources/lomo_cvpr16_arxiv.pdf)]
@@ -54,8 +83,6 @@ million facial expressions in the wild [[paper](http://openaccess.thecvf.com/con
 - (workshop) Automatic Recognition of Emotions and Membership in Group Videos [[paper](http://openaccess.thecvf.com/content_cvpr_2016_workshops/w28/papers/Mou_Automatic_Recognition_of_CVPR_2016_paper.pdf)]
 - (workshop) Extended DISFA Dataset: Investigating Posed and Spontaneous Facial
 Expressions [[paper](http://openaccess.thecvf.com/content_cvpr_2016_workshops/w28/papers/Mavadati_Extended_DISFA_Dataset_CVPR_2016_paper.pdf)]
-
-
 
 ### ECCV16
 - Peak-Piloted Deep Network for Facial Expression
@@ -68,6 +95,10 @@ Recognition [[paper](https://arxiv.org/pdf/1607.06997.pdf)]
 - Joint Fine-Tuning in Deep Neural Networks
 for Facial Expression Recognition [[paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Jung_Joint_Fine-Tuning_in_ICCV_2015_paper.pdf)]
 - Pairwise Conditional Random Forests for Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Dapogny_Pairwise_Conditional_Random_ICCV_2015_paper.pdf)]
+
+### FG15
+- Pairwise Linear Regression: An Efficient and Fast Multi-view Facial
+Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7163101)]
 
 ### CVPR14
 - Learning Expressionlets on Spatio-Temporal Manifold for Dynamic Facial
@@ -87,6 +118,42 @@ Muscles for Facial Expression Recognition [[paper](http://f4k.dieei.unict.it/pro
 Expression Recognition [[paper](https://arxiv.org/pdf/1805.03869.pdf)]
 - Fine-Grained Facial Expression Analysis Using
 Dimensional Emotion Model [[paper](https://arxiv.org/pdf/1805.01024.pdf)]
+- VGAN-Based Image Representation Learning
+for Privacy-Preserving Facial Expression Recognition [[paper](https://arxiv.org/pdf/1803.07100v1.pdf)]
+
+### Cross-Dataset FER (or other similar Cross-Dataset tasks)
+- ICPR 18 Deep Emotion Transfer Network for Cross-database Facial Expression Recognition 
+- FG 2018 Deep Unsupervised Domain Adaptation for Face Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373866)]
+- FG 2018 Cross-generating GAN for Facial Identity Preserving [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373821)]
+- ACM MM 2017 Learning a Target Sample Re-Generator for Cross-Database
+Micro-Expression Recognition [[paper](http://delivery.acm.org.eproxy1.lib.hku.hk/10.1145/3130000/3123367/p872-zong.pdf?ip=147.8.31.43&id=3123367&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1530995868_a68a36c7e90bd77d93e1fa5c2795db17#URLTOKEN#)]
+- TIP 2018 Domain Regeneration for Cross-Database
+Micro-Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8268553)]
+- CVPR 2013 Selective Transfer Machine for Personalized Facial Action Unit Detection [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=6619295)]
+- TPAMI 2017 Selective Transfer Machine for Personalized
+Facial Expression Analysis [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7442563)]
+- ICONIP 2016 Cross-Database Facial Expression Recognition
+via Unsupervised Domain Adaptive
+Dictionary Learning [[paper](https://link-springer-com.eproxy1.lib.hku.hk/content/pdf/10.1007%2F978-3-319-46672-9.pdf)](P428)
+- IEEE TRANSACTIONS ON AFFECTIVE COMPUTING 2018 Cross-Domain Color Facial Expression Recognition Using Transductive Transfer
+Subspace Learning [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7465718)]
+- FG2018 Unsupervised Domain Adaptation with Regularized Optimal Transport
+for Multimodal 2D+3D Facial Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373808)]
+- ICB2016 Discriminative Feature Adaptation
+for Cross-Domain Facial Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7550085)]
+- ICB2015 A Transfer Learning Approach to Cross-Database Facial Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7139098)]
+- ICRA2011 Cross-dataset facial expression recognition [[paper](https://ieeexplore.ieee.org/document/5979705/)]
+- Neurocomputing2016 Transfer subspace learning for cross-dataset facial expression recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231216304623)]
+- IEEE TRANSACTIONS ON MULTIMEDIA 2016 A Deep Neural Network-Driven Feature Learning Method for Multi-view
+Facial Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7530823)](Cross-view facial expression
+recognition)
+- CVPR2014 Constrained Deep Transfer Feature Learning and its Applications [[paper](https://arxiv.org/pdf/1709.08128.pdf)](Cross-view facial expression
+recognition)
+- IEEE SIGNAL PROCESSING LETTERS 2016 Cross-Corpus Speech Emotion Recognition Based on Domain-Adaptive Least-Squares Regression [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7425198)]
+- ICMI2017 Cross-Modality Interaction between EEG Signals and Facial
+Expression [[paper](http://delivery.acm.org.eproxy1.lib.hku.hk/10.1145/3140000/3137034/icmi17-dc-111.pdf?ip=147.8.31.43&id=3137034&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1530995113_e379f7ad86d3c2ead3f959f909b4d496)]
+- ACM MM 2017 Integrated Face Analytics Networks through
+Cross-Dataset Hybrid Training[[paper](http://delivery.acm.org.eproxy1.lib.hku.hk/10.1145/3130000/3123438/p1531-li.pdf?ip=147.8.31.43&id=3123438&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1530997759_33591edce0f41f32f5c70d5902b2dd01#URLTOKEN#)]
 
 ### Datasets
 - [Jaffe](http://www.kasrl.org/jaffe.html)
@@ -118,10 +185,22 @@ Dimensional Emotion Model [[paper](https://arxiv.org/pdf/1805.01024.pdf)]
 - Deep Visual Domain Adaptation: A Survey [[paper](https://arxiv.org/pdf/1802.03601.pdf)]
 
 ### CVPR18
+- Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification [[paper](https://arxiv.org/pdf/1711.07027v3.pdf)]
 - Residual Parameter Transfer for Deep Domain Adaptation [[paper](https://arxiv.org/pdf/1711.07714.pdf)]
 - Unsupervised Cross-dataset Person Re-identification by Transfer Learning of Spatial-Temporal Patterns [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lv_Unsupervised_Cross-Dataset_Person_CVPR_2018_paper.pdf)], [[code](https://github.com/ahangchen/TFusion)]
 - Deep Cocktail Network:
 Multi-source Unsupervised Domain Adaptation with Category Shift ([paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Deep_Cocktail_Network_CVPR_2018_paper.pdf))
+- Detach and Adapt: Learning Cross-Domain Disentangled Deep Representation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Detach_and_Adapt_CVPR_2018_paper.pdf)]
+- Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.pdf)],[[code](https://github.com/mil-tokyo/MCD_DA)]
+- Adversarial Feature Augmentation for Unsupervised Domain Adaptation [[paper](https://arxiv.org/pdf/1711.08561.pdf)],[[code](https://github.com/ricvolpi/adversarial-feature-augmentation)]
+- Duplex Generative Adversarial Network for Unsupervised Domain Adaptation [[paper](http://vipl.ict.ac.cn/uploadfile/upload/2018041610083083.pdf)],[[code](http://vipl.ict.ac.cn/view_database.php?id=6)]
+- Generate To Adapt: Aligning Domains using Generative Adversarial Networks [[paper](https://arxiv.org/pdf/1704.01705.pdf)],[[code](https://github.com/yogeshbalaji/Generate_To_Adapt)]
+- Conditional Generative Adversarial Network for Structured Domain Adaptation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hong_Conditional_Generative_Adversarial_CVPR_2018_paper.pdf)]
+
+### AAAI18
+-  Wasserstein Distance Guided Representation Learning
+for Domain Adaptation [[paper](https://arxiv.org/pdf/1707.01217.pdf)],[[code](https://github.com/RockySJ/WDGRL)]
+- Deep Asymmetric Transfer Network for Unbalanced Domain Adaptation [[paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/DATN.pdf)]
 
 ### IJCAI18
 - Unsupervised Cross-Modality Domain Adaptation of ConvNets for Biomedical Image Segmentations with Adversarial Loss [[paper](https://arxiv.org/pdf/1804.10916.pdf)]
