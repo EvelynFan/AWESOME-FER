@@ -1,6 +1,5 @@
 ## Facial Expression Recognition (FER)
 
-
 ### CVPR18
 - Facial Expression Recognition by De-expression Residue Learning [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Facial_Expression_Recognition_CVPR_2018_paper.pdf)]
 - Joint Pose and Expression Modeling for Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Joint_Pose_and_CVPR_2018_paper.pdf)]
@@ -88,6 +87,30 @@ Muscles for Facial Expression Recognition [[paper](http://f4k.dieei.unict.it/pro
 Expression Recognition [[paper](https://arxiv.org/pdf/1805.03869.pdf)]
 - Fine-Grained Facial Expression Analysis Using
 Dimensional Emotion Model [[paper](https://arxiv.org/pdf/1805.01024.pdf)]
+
+### Datasets
+- [Jaffe](http://www.kasrl.org/jaffe.html)
+- [FER-2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)
+- [MMI Facial Expression Database](https://www.mmifacedb.eu/)
+- [Cohn-Kanade Expression Database](http://www.pitt.edu/~emotion/ck-spread.htm)
+- [Oulu-CASIA NIR&VIS facial expression database](http://www.cse.oulu.fi/CMV/Downloads/Oulu-CASIA)
+- [Multi-PIE](http://www.flintbox.com/public/project/4742/)
+- [BU-3DFE (Binghamton University 3D Facial Expression) Database](http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)
+- [Real-world Affective Faces (RAF) Database](http://www.whdeng.cn/RAF/model1.html)
+- [AffectNet](http://mohammadmahoor.com/affectnet/)
+- [EmotioNet Database](http://cbcsl.ece.ohio-state.edu/dbform_emotionet.html)
+- [The Radboud Faces Database (RaFD)](http://www.socsci.ru.nl:8180/RaFD2/RaFD)
+- [Aff-Wild data](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)
+
+### Challenges
+- [Emotion Recognition in the Wild Challenge @ ICMI](https://sites.google.com/view/emotiw2018)
+- [Audio/Visual Emotion Challenge (AVEC) @ ACM MM](https://sites.google.com/view/avec2018)
+- [Facial Expression Recognition and Analysis Challenge (FERA) @ FG](http://www.fg2017.org/index.php/challenges/)
+- [One-Minute Gradual-Emotion Behavior Challenge @ IJCNN](https://www2.informatik.uni-hamburg.de/wtm/OMG-EmotionChallenge/)
+- [EmotioNet Challenge](http://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/index.html)
+- [Real Versus Fake Expressed Emotions @ ICCV](http://openaccess.thecvf.com/ICCV2017_workshops/ICCV2017_W44.py)
+- [Affect-in-the-Wild Challenge @ CVPR](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)
+
 
 ## Domain Adaptation (DA)
 
