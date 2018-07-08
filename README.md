@@ -2,7 +2,7 @@
 
 ### CVPR18
 - Facial Expression Recognition by De-expression Residue Learning [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Facial_Expression_Recognition_CVPR_2018_paper.pdf)]
-- Joint Pose and Expression Modeling for Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Joint_Pose_and_CVPR_2018_paper.pdf)]
+- Joint Pose and Expression Modeling for Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Joint_Pose_and_CVPR_2018_paper.pdf)],[[code](https://github.com/FFZhang1231/Facial-expression-recognition)]
 - 4DFAB: A Large Scale 4D Database for Facial Expression Analysis and Biometric Applications [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/3299.pdf)]
 - (workshop) Covariance Pooling for Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w10/Acharya_Covariance_Pooling_for_CVPR_2018_paper.pdf),[code](https://github.com/d-acharya/CovPoolFER)]
 - (workshop) Unsupervised Features for Facial Expression Intensity Estimation over Time [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w17/Awiszus_Unsupervised_Features_for_CVPR_2018_paper.pdf)]
@@ -126,7 +126,7 @@ for Privacy-Preserving Facial Expression Recognition [[paper](https://arxiv.org/
 - FG 2018 Deep Unsupervised Domain Adaptation for Face Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373866)]
 - FG 2018 Cross-generating GAN for Facial Identity Preserving [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373821)]
 - ACM MM 2017 Learning a Target Sample Re-Generator for Cross-Database
-Micro-Expression Recognition [[paper](http://delivery.acm.org.eproxy1.lib.hku.hk/10.1145/3130000/3123367/p872-zong.pdf?ip=147.8.31.43&id=3123367&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1530995868_a68a36c7e90bd77d93e1fa5c2795db17#URLTOKEN#)]
+Micro-Expression Recognition [[paper](https://arxiv.org/pdf/1707.08645.pdf)]
 - TIP 2018 Domain Regeneration for Cross-Database
 Micro-Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8268553)]
 - CVPR 2013 Selective Transfer Machine for Personalized Facial Action Unit Detection [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=6619295)]
@@ -143,7 +143,7 @@ for Multimodal 2D+3D Facial Expression Recognition [[paper](https://ieeexplore-i
 for Cross-Domain Facial Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7550085)]
 - ICB2015 A Transfer Learning Approach to Cross-Database Facial Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7139098)]
 - ICRA2011 Cross-dataset facial expression recognition [[paper](https://ieeexplore.ieee.org/document/5979705/)]
-- Neurocomputing2016 Transfer subspace learning for cross-dataset facial expression recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231216304623)]
+- Neurocomputing2016 Transfer subspace learning for cross-dataset facial expression recognition [[paper](https://ac-els-cdn-com.eproxy1.lib.hku.hk/S0925231216304623/1-s2.0-S0925231216304623-main.pdf?_tid=dd93f446-9503-481b-9fd4-0a8011ac55cc&acdnat=1531015927_ff7fb7e1b50c81933244378c57033099)]
 - IEEE TRANSACTIONS ON MULTIMEDIA 2016 A Deep Neural Network-Driven Feature Learning Method for Multi-view
 Facial Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7530823)](Cross-view facial expression
 recognition)
