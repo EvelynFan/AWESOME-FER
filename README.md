@@ -4,7 +4,7 @@
 - Facial Expression Recognition by De-expression Residue Learning [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Facial_Expression_Recognition_CVPR_2018_paper.pdf)]
 - Joint Pose and Expression Modeling for Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Joint_Pose_and_CVPR_2018_paper.pdf)],[[code](https://github.com/FFZhang1231/Facial-expression-recognition)]
 - 4DFAB: A Large Scale 4D Database for Facial Expression Analysis and Biometric Applications [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/3299.pdf)]
-- (workshop) Covariance Pooling for Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w10/Acharya_Covariance_Pooling_for_CVPR_2018_paper.pdf),[code](https://github.com/d-acharya/CovPoolFER)]
+- (workshop) Covariance Pooling for Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w10/Acharya_Covariance_Pooling_for_CVPR_2018_paper.pdf)],[[code](https://github.com/d-acharya/CovPoolFER)]
 - (workshop) Unsupervised Features for Facial Expression Intensity Estimation over Time [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w17/Awiszus_Unsupervised_Features_for_CVPR_2018_paper.pdf)]
 - (workshop) A Compact Deep Learning Model for Robust Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w41/Kuo_A_Compact_Deep_CVPR_2018_paper.pdf)]
 
@@ -154,7 +154,7 @@ recognition)
 Expression [[paper](http://delivery.acm.org.eproxy1.lib.hku.hk/10.1145/3140000/3137034/icmi17-dc-111.pdf?ip=147.8.31.43&id=3137034&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1530995113_e379f7ad86d3c2ead3f959f909b4d496)]
 - ACM MM 2017 Integrated Face Analytics Networks through
 Cross-Dataset Hybrid Training[[paper](http://delivery.acm.org.eproxy1.lib.hku.hk/10.1145/3130000/3123438/p1531-li.pdf?ip=147.8.31.43&id=3123438&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1530997759_33591edce0f41f32f5c70d5902b2dd01#URLTOKEN#)]
-
+- Multi-task Mid-level Feature Alignment Network for Unsupervised Cross-Dataset Person Re-Identification [[paper](https://arxiv.org/pdf/1807.01440v1.pdf)]
 ### Datasets
 - [Jaffe](http://www.kasrl.org/jaffe.html)
 - [FER-2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)
@@ -214,6 +214,10 @@ ADAPTATION [[paper](https://arxiv.org/pdf/1802.08735.pdf)],[[code](https://githu
 
 ### ICCV17
 - Associative Domain Adaptation [[paper](https://arxiv.org/pdf/1708.00938.pdf)],[[Supplementary](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Haeusser_Associative_Domain_Adaptation_ICCV_2017_supplemental.pdf)],[[code](https://github.com/haeusser/learning_by_association)]
+
+## Image to Video Adaptation
+- (IEEE TRANSACTIONS ON CYBERNETICS 17) Semi-supervised image-to-video adaptation for video action recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7433457)]
+- (CVPR 2012) Exploiting Web Images for Event Recognition in Consumer Videos: A Multiple Source Domain Adaptation Approach [[paper](http://www.ee.columbia.edu/ln/dvmm/pubs/files/CVPR_Event.pdf)]
 
 ## Generative Adversarial Nets (GAN) --- Image & Video & Face
 
