@@ -1,4 +1,5 @@
 ## Facial Expression Recognition (FER)
+
 ### ICML18 
 - Video Prediction with Appearance and Motion Conditions [[paper](https://arxiv.org/pdf/1807.02635.pdf)],[[project](https://sites.google.com/vision.snu.ac.kr/icml2018-video-prediction)]
 
@@ -182,6 +183,11 @@ Cross-Dataset Hybrid Training[[paper](http://delivery.acm.org.eproxy1.lib.hku.hk
 
 
 ## Domain Adaptation (DA)
+
+### [[transfer Xlearn Lib code](https://github.com/thuml/Xlearn)]
+- (ICML 2015) Learning Transferable Features with Deep Adaptation Networks [[paper](https://arxiv.org/pdf/1502.02791.pdf)]
+- (NIPS 2016) Unsupervised Domain Adaptation with Residual Transfer Networks [[paper](https://arxiv.org/pdf/1602.04433.pdf)]
+- (ICML 2017) Deep Transfer Learning with Joint Adaptation Networks [[paper](https://arxiv.org/abs/1605.06636)]
 
 ### Neurocomputing18
 - Deep Visual Domain Adaptation: A Survey [[paper](https://arxiv.org/pdf/1802.03601.pdf)]
