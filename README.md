@@ -244,4 +244,6 @@ Identity Preserving Frontal View Synthesis [[paper](http://openaccess.thecvf.com
 ### Others
 - Global and Local Consistent Age Generative Adversarial Networks [[paper](https://arxiv.org/pdf/1801.08390.pdf)]
 
+## Others
+- SGD算法比较(AdaGrad,Adam,Momentum,RMSProp,etc.) [link](https://blog.slinuxer.com/2016/09/sgd-comparison)
 
