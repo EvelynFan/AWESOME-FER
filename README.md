@@ -1,4 +1,14 @@
-##  :cat: Facial Expression Recognition (FER) :cat:
+[Facial Expression Recognition (FER)](#facial-expression-recognition)
+[Cross-Dataset FER](#cross-dataset-fer)
+[FER Datasets](#fer-datasets)
+[FER Challenges](#fer-challenges)
+[Common Domain Adaptation](#common-domain-adaptation)
+[Other Cross-Domain Tasks](#other-cross-domain-tasks)
+[Image to Video Adaptation](#image-to-video-adaptation)
+[GAN on Image/Video/Face](#gan-on-image/video/face)
+
+
+## Facial Expression Recognition
 
 ### ECCV18 
 - Facial Expression Recognition with Inconsistently Annotated Datasets 
@@ -38,7 +48,6 @@ Database and Benchmarks of Identification [[paper](https://ieeexplore-ieee-org.e
 - LTP-ML : Micro-Expression Detection by Recognition of Local temporal Pattern of Facial Movements [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373893)][:dizzy:]
 - From Macro to Micro Expression Recognition: Deep Learning on Small Datasets
 Using Transfer Learning  [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373896)][:dizzy:]
-
 
 
 ### ACMM MM18
@@ -127,7 +136,7 @@ Dimensional Emotion Model [[paper](https://arxiv.org/pdf/1805.01024.pdf)][:dizzy
 - VGAN-Based Image Representation Learning
 for Privacy-Preserving Facial Expression Recognition [[paper](https://arxiv.org/pdf/1803.07100v1.pdf)][:dizzy:]
 
-### :cat: Cross-Dataset FER (or other similar Cross-Dataset tasks) :cat:
+## Cross-Dataset FER 
 - ICPR 18 Deep Emotion Transfer Network for Cross-database Facial Expression Recognition 
 - FG 2018 Deep Unsupervised Domain Adaptation for Face Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373866)][:dizzy::dizzy::dizzy:]
 - FG 2018 Cross-generating GAN for Facial Identity Preserving [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373821)][:dizzy:]
@@ -161,7 +170,7 @@ Expression [[paper](http://delivery.acm.org.eproxy1.lib.hku.hk/10.1145/3140000/3
 - ACM MM 2017 Integrated Face Analytics Networks through
 Cross-Dataset Hybrid Training[[paper](http://delivery.acm.org.eproxy1.lib.hku.hk/10.1145/3130000/3123438/p1531-li.pdf?ip=147.8.31.43&id=3123438&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1530997759_33591edce0f41f32f5c70d5902b2dd01#URLTOKEN#)][:dizzy::dizzy:]
 
-### Datasets
+## FER Datasets
 - [Jaffe](http://www.kasrl.org/jaffe.html)
 - [FER-2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)
 - [MMI Facial Expression Database](https://www.mmifacedb.eu/)
@@ -175,7 +184,7 @@ Cross-Dataset Hybrid Training[[paper](http://delivery.acm.org.eproxy1.lib.hku.hk
 - [The Radboud Faces Database (RaFD)](http://www.socsci.ru.nl:8180/RaFD2/RaFD)
 - [Aff-Wild data](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)
 
-### Challenges
+## FER Challenges
 - [Emotion Recognition in the Wild Challenge @ ICMI](https://sites.google.com/view/emotiw2018)
 - [Audio/Visual Emotion Challenge (AVEC) @ ACM MM](https://sites.google.com/view/avec2018)
 - [Facial Expression Recognition and Analysis Challenge (FERA) @ FG](http://www.fg2017.org/index.php/challenges/)
@@ -184,7 +193,7 @@ Cross-Dataset Hybrid Training[[paper](http://delivery.acm.org.eproxy1.lib.hku.hk
 - [Real Versus Fake Expressed Emotions @ ICCV](http://openaccess.thecvf.com/ICCV2017_workshops/ICCV2017_W44.py)
 - [Affect-in-the-Wild Challenge @ CVPR](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)
 
-## :cat: Common Domain Adaptation (DA) :cat:
+## Common Domain Adaptation 
 
 ### [[transfer Xlearn Lib code](https://github.com/thuml/Xlearn)]
 - (ICML 2015) Learning Transferable Features with Deep Adaptation Networks [[paper](https://arxiv.org/pdf/1502.02791.pdf)][:dizzy::dizzy:]
@@ -221,7 +230,7 @@ ADAPTATION [[paper](https://arxiv.org/pdf/1802.08735.pdf)],[[code](https://githu
 - Associative Domain Adaptation [[paper](https://arxiv.org/pdf/1708.00938.pdf)],[[Supplementary](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Haeusser_Associative_Domain_Adaptation_ICCV_2017_supplemental.pdf)],[[code](https://github.com/haeusser/learning_by_association)][:dizzy::dizzy::dizzy:]
 
 
-## :cat: Cross-Domain/Cross-Dataset Tasks :cat:
+## Other Cross-Domain Tasks
 
 ### CVPR18
 - Deep Cost-Sensitive and Order-Preserving Feature Learning for Cross-Population Age Estimation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Deep_Cost-Sensitive_and_CVPR_2018_paper.pdf)][:dizzy::dizzy:]
@@ -240,12 +249,12 @@ in unlabeled videos [[paper](https://arxiv.org/pdf/1708.02191.pdf)][:dizzy::dizz
 -  Multi-task Mid-level Feature Alignment Network for Unsupervised Cross-Dataset Person Re-Identification [[paper](https://arxiv.org/pdf/1807.01440v1.pdf)][:dizzy::dizzy:]
 
 
-## :cat: Image to Video Adaptation :cat:
+## Image to Video Adaptation 
 - (IEEE TRANSACTIONS ON CYBERNETICS 17) Semi-supervised image-to-video adaptation for video action recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7433457)][:dizzy::dizzy:]
 - (CVPR 2012) Exploiting Web Images for Event Recognition in Consumer Videos: A Multiple Source Domain Adaptation Approach [[paper](http://www.ee.columbia.edu/ln/dvmm/pubs/files/CVPR_Event.pdf)][:dizzy:]
 - (IJCAI18) Exploiting Images for Video Recognition with Hierarchical Generative Adversarial Networks [[paper](https://arxiv.org/pdf/1805.04384.pdf)][:dizzy::dizzy::dizzy:]
 
-## :cat: Generative Adversarial Nets (GAN) --- Image & Video & Face :cat:
+## GAN on Image/Video/Face 
 
 ### CVPR18
 - StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf)],[[code](https://github.com/yunjey/StarGAN)][:dizzy::dizzy::dizzy:]
@@ -256,7 +265,8 @@ in unlabeled videos [[paper](https://arxiv.org/pdf/1708.02191.pdf)][:dizzy::dizz
 Identity Preserving Frontal View Synthesis [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Beyond_Face_Rotation_ICCV_2017_paper.pdf)][:dizzy::dizzy:]
 
 
-## :cat: Face Age/Pose/Eye Gaze Estimation, Human Action Recognition, etc. :cat:
+## Others  
+(Face Age/Pose/Eye Gaze Estimation, Human Action Recognition, etc.)
 
 ### CVPR18
 - Learning Face Age Progression: A Pyramid Architecture of GANs[[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Learning_Face_Age_CVPR_2018_paper.pdf)],[[supp](http://openaccess.thecvf.com/content_cvpr_2018/Supplemental/3633-supp.pdf)]
