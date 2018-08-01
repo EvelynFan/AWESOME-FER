@@ -229,7 +229,7 @@ for Domain Adaptation [[paper](https://arxiv.org/pdf/1707.01217.pdf)],[[code](ht
 ADAPTATION [[paper](https://arxiv.org/pdf/1802.08735.pdf)],[[code](https://github.com/RuiShu/dirt-t)]
 
 ### CVPR17
-- Adversarial Discriminative Domain Adaptation [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf)]
+- Adversarial Discriminative Domain Adaptation [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf)]:cat:
 
 ### ICCV17
 - Associative Domain Adaptation [[paper](https://arxiv.org/pdf/1708.00938.pdf)],[[Supplementary](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Haeusser_Associative_Domain_Adaptation_ICCV_2017_supplemental.pdf)],[[code](https://github.com/haeusser/learning_by_association)]
