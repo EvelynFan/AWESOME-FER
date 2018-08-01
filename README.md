@@ -1,11 +1,18 @@
-[Facial Expression Recognition (FER)](#facial-expression-recognition)
-[Cross-Dataset FER](#cross-dataset-fer)
-[FER Datasets](#fer-datasets)
-[FER Challenges](#fer-challenges)
-[Common Domain Adaptation](#common-domain-adaptation)
-[Other Cross-Domain Tasks](#other-cross-domain-tasks)
-[Image to Video Adaptation](#image-to-video-adaptation)
-[GAN on Image/Video/Face](#gan-on-image/video/face)
+:cat:[Facial Expression Recognition (FER)](#facial-expression-recognition)  
+
+:cat:[Cross-Dataset FER](#cross-dataset-fer)  
+
+:cat:[FER Datasets](#fer-datasets)
+
+:cat:[FER Challenges](#fer-challenges)
+
+:cat:[Common Domain Adaptation](#common-domain-adaptation)
+
+:cat:[Other Cross-Domain Tasks](#other-cross-domain-tasks)
+
+:cat:[Image to Video Adaptation](#image-to-video-adaptation)
+
+:cat:[GAN on Images](#gan-on-images)
 
 
 ## Facial Expression Recognition
@@ -254,7 +261,7 @@ in unlabeled videos [[paper](https://arxiv.org/pdf/1708.02191.pdf)][:dizzy::dizz
 - (CVPR 2012) Exploiting Web Images for Event Recognition in Consumer Videos: A Multiple Source Domain Adaptation Approach [[paper](http://www.ee.columbia.edu/ln/dvmm/pubs/files/CVPR_Event.pdf)][:dizzy:]
 - (IJCAI18) Exploiting Images for Video Recognition with Hierarchical Generative Adversarial Networks [[paper](https://arxiv.org/pdf/1805.04384.pdf)][:dizzy::dizzy::dizzy:]
 
-## GAN on Image/Video/Face 
+## GAN on Images
 
 ### CVPR18
 - StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf)],[[code](https://github.com/yunjey/StarGAN)][:dizzy::dizzy::dizzy:]
