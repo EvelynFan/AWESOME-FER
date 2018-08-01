@@ -1,5 +1,8 @@
 ## Facial Expression Recognition (FER)
 
+### ECCV18 
+- Facial Expression Recognition with Inconsistently Annotated Datasets 
+
 ### ICML18 
 - Video Prediction with Appearance and Motion Conditions [[paper](https://arxiv.org/pdf/1807.02635.pdf)],[[project](https://sites.google.com/vision.snu.ac.kr/icml2018-video-prediction)]
 
@@ -181,6 +184,12 @@ Cross-Dataset Hybrid Training[[paper](http://delivery.acm.org.eproxy1.lib.hku.hk
 - [Real Versus Fake Expressed Emotions @ ICCV](http://openaccess.thecvf.com/ICCV2017_workshops/ICCV2017_W44.py)
 - [Affect-in-the-Wild Challenge @ CVPR](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)
 
+## Some papers about Face Age/Pose Estimation &  Eye Gaze Estimation & Human Action Recognition
+
+### CVPR18
+- Learning Face Age Progression: A Pyramid Architecture of GANs[[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Learning_Face_Age_CVPR_2018_paper.pdf)],[[supp](http://openaccess.thecvf.com/content_cvpr_2018/Supplemental/3633-supp.pdf)]
+- A Hierarchical Generative Model for Eye Image Synthesis and Eye Gaze Estimation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_A_Hierarchical_Generative_CVPR_2018_paper.pdf)]
+
 
 ## Domain Adaptation (DA)
 
@@ -193,6 +202,7 @@ Cross-Dataset Hybrid Training[[paper](http://delivery.acm.org.eproxy1.lib.hku.hk
 - Deep Visual Domain Adaptation: A Survey [[paper](https://arxiv.org/pdf/1802.03601.pdf)]
 
 ### CVPR18
+- Deep Cost-Sensitive and Order-Preserving Feature Learning for Cross-Population Age Estimation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Deep_Cost-Sensitive_and_CVPR_2018_paper.pdf)]
 - Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification [[paper](https://arxiv.org/pdf/1711.07027v3.pdf)]
 - Residual Parameter Transfer for Deep Domain Adaptation [[paper](https://arxiv.org/pdf/1711.07714.pdf)]
 - Unsupervised Cross-dataset Person Re-identification by Transfer Learning of Spatial-Temporal Patterns [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lv_Unsupervised_Cross-Dataset_Person_CVPR_2018_paper.pdf)], [[code](https://github.com/ahangchen/TFusion)]
@@ -204,6 +214,7 @@ Multi-source Unsupervised Domain Adaptation with Category Shift ([paper](http://
 - Duplex Generative Adversarial Network for Unsupervised Domain Adaptation [[paper](http://vipl.ict.ac.cn/uploadfile/upload/2018041610083083.pdf)],[[code](http://vipl.ict.ac.cn/view_database.php?id=6)]
 - Generate To Adapt: Aligning Domains using Generative Adversarial Networks [[paper](https://arxiv.org/pdf/1704.01705.pdf)],[[code](https://github.com/yogeshbalaji/Generate_To_Adapt)]
 - Conditional Generative Adversarial Network for Structured Domain Adaptation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hong_Conditional_Generative_Adversarial_CVPR_2018_paper.pdf)]
+- Feature Generating Networks for Zero-Shot Learning [[paper](https://arxiv.org/pdf/1712.00981.pdf)]
 
 ### AAAI18
 -  Wasserstein Distance Guided Representation Learning
@@ -222,6 +233,8 @@ ADAPTATION [[paper](https://arxiv.org/pdf/1802.08735.pdf)],[[code](https://githu
 
 ### ICCV17
 - Associative Domain Adaptation [[paper](https://arxiv.org/pdf/1708.00938.pdf)],[[Supplementary](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Haeusser_Associative_Domain_Adaptation_ICCV_2017_supplemental.pdf)],[[code](https://github.com/haeusser/learning_by_association)]
+-  Unsupervised domain adaptation for face recognition
+in unlabeled videos [[paper](https://arxiv.org/pdf/1708.02191.pdf)]
 
 ## Image to Video Adaptation
 - (IEEE TRANSACTIONS ON CYBERNETICS 17) Semi-supervised image-to-video adaptation for video action recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7433457)]
