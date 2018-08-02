@@ -6,6 +6,8 @@
 
 :cat:[FER Challenges](#fer-challenges)
 
+:cat:[Affective Level Estimation](#affective-level-estimation)
+
 :cat:[Common Domain Adaptation](#common-domain-adaptation)
 
 :cat:[Other Cross-Domain Tasks](#other-cross-domain-tasks)
@@ -199,6 +201,57 @@ Cross-Dataset Hybrid Training[[paper](http://delivery.acm.org.eproxy1.lib.hku.hk
 - [EmotioNet Challenge](http://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/index.html)
 - [Real Versus Fake Expressed Emotions @ ICCV](http://openaccess.thecvf.com/ICCV2017_workshops/ICCV2017_W44.py)
 - [Affect-in-the-Wild Challenge @ CVPR](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)
+
+## Affective Level Estimation
+
+### Dataset
+- AffectNet [[Website](http://mohammadmahoor.com/affectnet/)]
+- (IEEE TRANSACTIONS ON AFFECTIVE COMPUTING) AffectNet: A Database for Facial Expression,
+Valence, and Arousal Computing in the Wild [[paper](https://arxiv.org/pdf/1708.03985.pdf)]
+- EMOTIC dataset [[Website](http://sunai.uoc.edu/emotic/download.html)]
+- (CVPR17) Emotion Recognition in Context [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kosti_Emotion_Recognition_in_CVPR_2017_paper.pdf)][[Supp](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Kosti_Emotion_Recognition_in_2017_CVPR_supplemental.pdf)]
+- (CVPR17 workshop) EMOTIC: Emotions in Context Dataset 
+- Aff-Wild DATASET[[Website](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)]
+- Deep Affect Prediction in-the-wild: Aff-Wild Database and Challenge,
+Deep Architectures, and Beyond [[paper](https://arxiv.org/pdf/1804.10938.pdf)]
+- (CVPR17 workshop) Aff-Wild: Valence and Arousal ‘in-the-wild’ Challenge [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/cvpr_workshop_faces_in_the_wild_(1).pdf)]
+- HAPPEI dataset
+
+### Challenges
+- Group-level happiness intensity recognition @ EmotiW16 [[Website](https://sites.google.com/site/emotiw2016/challenge-details)]
+- First Affect-in-the-Wild Challenge [[Website](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)]
+
+### Related Works
+- (ICMI16) Happiness level prediction with sequential inputs via multiple regressions [[paper](http://delivery.acm.org.eproxy.lib.hku.hk/10.1145/3000000/2997636/p487-li.pdf?ip=147.8.31.43&id=2997636&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1533198632_af2e30ccb84d213b21a64266ab16bc8b)]
+- (CVPR17 workshop) Estimation of Affective Level in the Wild With Multiple Memory Networks [[paper](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w33/papers/Li_Estimation_of_Affective_CVPR_2017_paper.pdf)]
+- (ICMI16) Group Happiness Assessment Using Geometric Features
+and Dataset Balancing [[paper](http://vintage.winklerbros.net/Publications/emotiw2016.pdf)]
+- (ICMI17) Group Emotion Recognition with Individual Facial Emotion
+CNNs and Global Image Based CNNs [[paper](https://pengxj.github.io/files/icmi17-paper.pdf)]
+- Feature Extraction via Recurrent Random Deep
+Ensembles and its Application in Gruop-level
+Happiness Estimation [[paper](https://arxiv.org/pdf/1707.09871.pdf)]
+- (ICPR18) Deep Spatiotemporal Representation of the Face
+for Automatic Pain Intensity Estimation [[paper](https://arxiv.org/pdf/1806.06793.pdf)]
+- Learning Pain from Action Unit Combinations:
+A Weakly Supervised Approach via Multiple
+Instance Learning [[paper](https://arxiv.org/pdf/1712.01496.pdf)]
+- (CVPR17) Personalized Automatic Estimation of Self-reported Pain Intensity
+from Facial Expressions [[paper](https://arxiv.org/pdf/1706.07154.pdf)]
+- (ICIP17) REGULARIZING FACE VERIFICATION NETS FOR PAIN INTENSITY REGRESSION [[paper](https://arxiv.org/pdf/1702.06925.pdf)]
+- (CVPR17 Workshop) Recurrent Convolutional Neural Network Regression for Continuous Pain Intensity Estimation in Video [[paper](https://arxiv.org/pdf/1605.00894.pdf)]
+- (ICCV17 Workshop) SmileNet: Registration-Free Smiling Face Detection In The Wild [[paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w23/Jang_SmileNet_Registration-Free_Smiling_ICCV_2017_paper.pdf)][[project](https://sites.google.com/view/sensingfeeling/)]
+- Embedded Implementation of a Deep Learning
+Smile Detector [[paper](https://arxiv.org/pdf/1807.10570.pdf)]
+- Smile detection in the wild based on transfer learnin [[paper](https://arxiv.org/pdf/1802.02185.pdf)]
+- Multi-Instance Dynamic Ordinal Random Fields for
+Weakly-supervised Facial Behavior Analysis [[paper](https://arxiv.org/pdf/1803.00907.pdf)]
+- (FG17) Generic to Specific Recognition Models for Group Membership
+Analysis in Videos [[paper](https://www.repository.cam.ac.uk/bitstream/handle/1810/274276/MouEtAl_FG17_Accepted.pdf?sequence=3)]
+- (Neurocomputing18)Facial expression intensity estimation using Siamese and triplet
+networks [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0925231218307926/1-s2.0-S0925231218307926-main.pdf?_tid=1d157b21-6d6d-4476-8e1d-57ca2fcf8252&acdnat=1533201613_e02292ed92af320bd26447ad1d349612)]
+- (Neurocomputing16) A new descriptor of gradients Self-Similarity for smile detection
+in unconstrained scenarios [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0925231215014812/1-s2.0-S0925231215014812-main.pdf?_tid=ecccca49-644a-46f8-a5b4-6ed4c5fced2b&acdnat=1533202351_822998183c1e602b7006e0d7f7f124f1)]
 
 ## Common Domain Adaptation 
 
