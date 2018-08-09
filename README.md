@@ -21,6 +21,7 @@
 
 ### ECCV18 
 - Facial Expression Recognition with Inconsistently Annotated Datasets 
+- Contemplating Visual Emotions: Understanding and Overcoming Dataset Bias [[paper](https://arxiv.org/pdf/1808.02212.pdf)]
 
 ### ICML18 
 - Video Prediction with Appearance and Motion Conditions [[paper](https://arxiv.org/pdf/1807.02635.pdf)],[[project](https://sites.google.com/vision.snu.ac.kr/icml2018-video-prediction)][:dizzy::dizzy:]
@@ -61,6 +62,11 @@ Using Transfer Learning  [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk
 
 ### ACMM MM18
 - Geometry Guided Adversarial Facial Expression Synthesis [[paper](https://arxiv.org/pdf/1712.03474.pdf)][:dizzy::dizzy::dizzy:]
+
+### IEEE Trans on Affective Computing18
+- Unsupervised adaptation of a person-specific
+manifold of facial expressions [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8294217)][:dizzy::dizzy::dizzy:]
+
 
 ### CVPR17
 - Reliable Crowdsourcing and Deep Locality-Preserving Learning for Expression
@@ -252,6 +258,18 @@ Analysis in Videos [[paper](https://www.repository.cam.ac.uk/bitstream/handle/18
 networks [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0925231218307926/1-s2.0-S0925231218307926-main.pdf?_tid=1d157b21-6d6d-4476-8e1d-57ca2fcf8252&acdnat=1533201613_e02292ed92af320bd26447ad1d349612)]
 - (Neurocomputing16) A new descriptor of gradients Self-Similarity for smile detection
 in unconstrained scenarios [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0925231215014812/1-s2.0-S0925231215014812-main.pdf?_tid=ecccca49-644a-46f8-a5b4-6ed4c5fced2b&acdnat=1533202351_822998183c1e602b7006e0d7f7f124f1)]
+- (IEEE trans on Affective Computing11) Continuous Prediction of Spontaneous Affect from Multiple Cues and Modalities in Valence-Arousal Space [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=5740839)]
+- (IEEE trans on Affective Computing18)Visually Interpretable Representation Learning for
+Depression Recognition from Facial Images [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8344107)][:dizzy::dizzy::dizzy::dizzy:]
+
+
+### Happiness
+
+- (ACM Transactions on Intelligent Systems and Technology18) The Effect of Pets on Happiness: A Large-Scale Multi-Factor
+Analysis Using Social Multimedia [[paper](http://delivery.acm.org.eproxy.lib.hku.hk/10.1145/3210000/3200751/a60-peng.pdf?ip=147.8.204.164&id=3200751&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1533733444_6049e63f292ec50cf0fd27cb12a9572f#URLTOKEN#)]
+- (ICMSS '17) Happy Index: Analysis Based on Automatic Recognition of
+Emotion Flow [[paper](http://delivery.acm.org.eproxy.lib.hku.hk/10.1145/3040000/3034961/p157-Qian.pdf?ip=147.8.204.164&id=3034961&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1533733721_35e65c9ce21191d0062befc7e0aa5644#URLTOKEN#)]
+
 
 ## Common Domain Adaptation 
 
