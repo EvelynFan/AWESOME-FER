@@ -241,6 +241,11 @@ Deep Architectures, and Beyond [[paper](https://arxiv.org/pdf/1804.10938.pdf)]
 - (IEEE TRANSACTIONS ON AFFECTIVE COMPUTING13) DISFA: A Spontaneous Facial
 Action Intensity Database [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=6475933)]
 - GENKI-4K [[Website](http://mplab.ucsd.edu/wordpress/?page_id=398)](smile&non-smile)
+- Proposed Methods validated using GENKI-4K :
+- (ICCVW17) 95.76 SmileNet: Registration-Free Smiling Face Detection In The Wild [[paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w23/Jang_SmileNet_Registration-Free_Smiling_ICCV_2017_paper.pdf)][[project](https://sites.google.com/view/sensingfeeling/)]
+- (Machine Vision and Applications17) 92.05 Smile detection in the wild with deep convolutional neural
+networks [[paper](https://link-springer-com.eproxy.lib.hku.hk/content/pdf/10.1007%2Fs00138-016-0817-z.pdf)]
+- (ACPR15) 94.6 Facial smile detection based on deep learning features. [[paper](http://www.nlpr.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2015/KHZ2015ACPR.pdf)]
 - AFFECTIVA-MIT AM-FED [[Website](https://www.affectiva.com/facial-expression-dataset/)](smile&non-smile)
 - Affectiva-MIT Facial Expression Dataset (AM-FED): Naturalistic and
 Spontaneous Facial Expressions Collected In-the-Wild [[paper](https://affect.media.mit.edu/pdfs/13.McDuff-etal-AMFED.pdf)]
@@ -295,7 +300,17 @@ Emotion Flow [[paper](http://delivery.acm.org.eproxy.lib.hku.hk/10.1145/3040000/
 Recognition [[paper](https://arxiv.org/pdf/1508.06535.pdf)]
 - Embedded Implementation of a Deep Learning
 Smile Detector [[paper](https://arxiv.org/pdf/1807.10570.pdf)]
-- Smile detection in the wild based on transfer learnin [[paper](https://arxiv.org/pdf/1802.02185.pdf)]
+- Smile detection in the wild based on transfer learning [[paper](https://arxiv.org/pdf/1802.02185.pdf)]
+
+### Facial Action Unit Intensity Estimation
+
+- (CVPR 2017) Deep Structured Learning for Facial Action Unit Intensity Estimation [[paper](https://arxiv.org/pdf/1704.04481.pdf)]
+- (IEEE
+Transactions on Affective Computing17) Copula Ordinal Regression Framework
+for Joint Estimation of Facial Action Unit Intensity[[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/07983431.pdf)]
+- (CVPR16) Copula Ordinal Regression
+for Joint Estimation of Facial Action Unit Intensity [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/copula_ordinal_regression__cvpr2016_final.pdf)]
+- (Pattern Recognition Letters14) Estimating smile intensity: A better way [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0167865514003080/1-s2.0-S0167865514003080-main.pdf?_tid=466ea9bb-1959-4710-ab74-07ed82680a91&acdnat=1534058715_90dafa3071b2a1097c2252da015b3c78)] [:dizzy::dizzy::dizzy::dizzy]
 
 ## Common Domain Adaptation 
 
