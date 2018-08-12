@@ -321,14 +321,15 @@ for Facial Action Unit Intensity Estimation [[paper](http://openaccess.thecvf.co
 - (CVPR 17) Action Unit Detection with Region Adaptation, Multi-labeling Learning and
 Optimal Temporal Fusing [[paper](https://arxiv.org/pdf/1704.03067.pdf)]
 - (ICCV 17) Deep Facial Action Unit Recognition from Partially Labeled Data [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Deep_Facial_Action_ICCV_2017_paper.pdf)]
-- (CVPR 16) Deep Region and Multi-label Learning for Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhao_Deep_Region_and_CVPR_2016_paper.pdf)] [[code](https://github.com/zkl20061823/DRML)]
+- (CVPR 16) Deep Region and Multi-label Learning for Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhao_Deep_Region_and_CVPR_2016_paper.pdf)] [[code](https://github.com/zkl20061823/DRML)] [[code2](https://github.com/AlexHex7/DRML_pytorch)]
 - (CVPR 16) Constrained Joint Cascade Regression Framework for Simultaneous Facial
 Action Unit Recognition and Facial Landmark Detection [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Wu_Constrained_Joint_Cascade_CVPR_2016_paper.pdf)]
 - (IEEE
 Transactions on Affective Computing17) Copula Ordinal Regression Framework
 for Joint Estimation of Facial Action Unit Intensity[[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/07983431.pdf)]
 - (CVPR16) Copula Ordinal Regression
-for Joint Estimation of Facial Action Unit Intensity [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/copula_ordinal_regression__cvpr2016_final.pdf)]
+for Joint Estimation of Facial Action Unit Intensity [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/copula_ordinal_regression__cvpr2016_final.pdf)] [[code](https://github.com/RWalecki/copula_ordinal_regression)]
+- (CVPR 15) Latent Trees for Estimating Intensity of Facial Action Units [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/kaltwang2015latent.pdf)][[code](https://github.com/kaltwang/latenttrees)]
 - (ICCV 15) Learning to transfer: transferring latent task structures and its application to
 person-specific facial action unit detection [[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Almaev_Learning_to_Transfer_ICCV_2015_paper.pdf)]
 -  (ICCV 15) Multi-conditional Latent Variable Model for Joint Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Eleftheriadis_Multi-Conditional_Latent_Variable_ICCV_2015_paper.pdf)]
@@ -339,6 +340,7 @@ person-specific facial action unit detection [[paper](http://openaccess.thecvf.c
 - Conditional Adversarial Synthesis of 3D Facial Action Units [[paper](https://arxiv.org/pdf/1802.07421.pdf)] [:dizzy::dizzy::dizzy:]
 - (NIPS 16)Incremental Boosting Convolutional Neural Network
 for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1707.05395.pdf)]
+- Projects  [[Computer Expression Recognition Toolbox](http://mplab.ucsd.edu/~marni/Projects/CERT.htm)]  [[TAUD 2011](https://ibug.doc.ic.ac.uk/resources/temporal-based-action-unit-detection/)] [[LAUD 2010](https://ibug.doc.ic.ac.uk/resources/laud-programme-20102011/)] [[Openface](https://github.com/TadasBaltrusaitis/OpenFace)] [[Openface-Paper](OpenFace: an open source facial behavior analysis toolkit)]
 
 ## Common Domain Adaptation 
 
