@@ -304,13 +304,41 @@ Smile Detector [[paper](https://arxiv.org/pdf/1807.10570.pdf)]
 
 ### Facial Action Unit Intensity Estimation
 
+- (BMVC18) Joint Action Unit localisation and intensity
+estimation through heatmap regression [[paper](https://arxiv.org/pdf/1805.03487.pdf)] [[code](https://github.com/ESanchezLozano/Action-Units-Heatmaps)] [:dizzy::dizzy::dizzy::dizzy:]
+- (ECCV18) Deep Adaptive Attention for Joint Facial Action
+Unit Detection and Face Alignment[[paper](https://arxiv.org/pdf/1803.05588.pdf)] 
+- (CVPR 18) Weakly-supervised Deep Convolutional Neural Network Learning
+for Facial Action Unit Intensity Estimation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Weakly-Supervised_Deep_Convolutional_CVPR_2018_paper.pdf)]
+- (CVPR 18) Learning Facial Action Units from Web Images with
+Scalable Weakly Supervised Clustering [[paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0237.pdf)]
+- (CVPR 18) Classifier Learning with Prior Probabilities
+for Facial Action Unit Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Classifier_Learning_With_CVPR_2018_paper.pdf)]
+- (CVPR 18) Bilateral Ordinal Relevance Multi-instance Regression
+for Facial Action Unit Intensity Estimation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Bilateral_Ordinal_Relevance_CVPR_2018_paper.pdf)]
+- (CVPR 18) Weakly Supervised Facial Action Unit Recognition through Adversarial Training [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Peng_Weakly_Supervised_Facial_CVPR_2018_paper.pdf)]
 - (CVPR 2017) Deep Structured Learning for Facial Action Unit Intensity Estimation [[paper](https://arxiv.org/pdf/1704.04481.pdf)]
+- (CVPR 17) Action Unit Detection with Region Adaptation, Multi-labeling Learning and
+Optimal Temporal Fusing [[paper](https://arxiv.org/pdf/1704.03067.pdf)]
+- (ICCV 17) Deep Facial Action Unit Recognition from Partially Labeled Data [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Deep_Facial_Action_ICCV_2017_paper.pdf)]
+- (CVPR 16) Deep Region and Multi-label Learning for Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhao_Deep_Region_and_CVPR_2016_paper.pdf)] [[code](https://github.com/zkl20061823/DRML)]
+- (CVPR 16) Constrained Joint Cascade Regression Framework for Simultaneous Facial
+Action Unit Recognition and Facial Landmark Detection [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Wu_Constrained_Joint_Cascade_CVPR_2016_paper.pdf)]
 - (IEEE
 Transactions on Affective Computing17) Copula Ordinal Regression Framework
 for Joint Estimation of Facial Action Unit Intensity[[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/07983431.pdf)]
 - (CVPR16) Copula Ordinal Regression
 for Joint Estimation of Facial Action Unit Intensity [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/copula_ordinal_regression__cvpr2016_final.pdf)]
-- (Pattern Recognition Letters14) Estimating smile intensity: A better way [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0167865514003080/1-s2.0-S0167865514003080-main.pdf?_tid=466ea9bb-1959-4710-ab74-07ed82680a91&acdnat=1534058715_90dafa3071b2a1097c2252da015b3c78)] [:dizzy::dizzy::dizzy::dizzy]
+- (ICCV 15) Learning to transfer: transferring latent task structures and its application to
+person-specific facial action unit detection [[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Almaev_Learning_to_Transfer_ICCV_2015_paper.pdf)]
+-  (ICCV 15) Multi-conditional Latent Variable Model for Joint Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Eleftheriadis_Multi-Conditional_Latent_Variable_ICCV_2015_paper.pdf)]
+-  (ICCV 15) Confidence Preserving Machine for Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Zeng_Confidence_Preserving_Machine_ICCV_2015_paper.pdf)]
+- Joint Patch and Multi-label Learning for Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_cvpr_2015/papers/Zhao_Joint_Patch_and_2015_CVPR_paper.pdf)]
+- (Pattern Recognition Letters14) Estimating smile intensity: A better way [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0167865514003080/1-s2.0-S0167865514003080-main.pdf?_tid=466ea9bb-1959-4710-ab74-07ed82680a91&acdnat=1534058715_90dafa3071b2a1097c2252da015b3c78)] [:dizzy::dizzy::dizzy::dizzy:]
+- (nccv15) Deep Learning based FACS Action Unit Occurrence and Intensity Estimation [[paper](http://www.nccv2015.nl/papers/nccv2015_p11.pdf)]
+- Conditional Adversarial Synthesis of 3D Facial Action Units [[paper](https://arxiv.org/pdf/1802.07421.pdf)] [:dizzy::dizzy::dizzy:]
+- (NIPS 16)Incremental Boosting Convolutional Neural Network
+for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1707.05395.pdf)]
 
 ## Common Domain Adaptation 
 
