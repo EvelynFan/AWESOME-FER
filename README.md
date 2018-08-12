@@ -39,7 +39,7 @@
 -  Learning Spatio-temporal Features with Partial Expression Sequences for
 on-the-Fly Prediction [[paper](https://arxiv.org/pdf/1711.10914.pdf)][:dizzy:]
 
-### FG18
+### FG18 (Access Provided by Authenticated Institutes)
 - Multi-Channel Pose-Aware Convolution Neural Networks for Multi-View Facial Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373867)][:dizzy:]
 - Automatic 4D Facial Expression Recognition using Dynamic
 Geometrical Image Network [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373807)][:dizzy:]
@@ -63,10 +63,21 @@ Using Transfer Learning  [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk
 ### ACMM MM18
 - Geometry Guided Adversarial Facial Expression Synthesis [[paper](https://arxiv.org/pdf/1712.03474.pdf)][:dizzy::dizzy::dizzy:]
 
-### IEEE Trans on Affective Computing18
+### IEEE Trans on Affective Computing18 (Access Provided by Authenticated Institutes)
 - Unsupervised adaptation of a person-specific
 manifold of facial expressions [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8294217)][:dizzy::dizzy::dizzy:]
-
+- Multi-velocity neural networks for facial
+expression recognition in videos [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7942120)][:dizzy::dizzy::dizzy:]
+- Multi-Objective based Spatio-Temporal
+Feature Representation Learning Robust to
+Expression Intensity Variations for Facial
+Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7904596)]
+- Visually Interpretable Representation Learning for
+Depression Recognition from Facial Images [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8344107)][:dizzy::dizzy::dizzy::dizzy:]
+- An Adaptive Bayesian Source Separation
+Method for Intensity Estimation of Facial AUs [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7933209)][:dizzy::dizzy::dizzy::dizzy:]
+- Facial Expression Recognition in Video
+with Multiple Feature Fusion [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7518582)][:dizzy::dizzy:]
 
 ### CVPR17
 - Reliable Crowdsourcing and Deep Locality-Preserving Learning for Expression
@@ -150,6 +161,10 @@ Expression Recognition [[paper](https://arxiv.org/pdf/1805.03869.pdf)][:dizzy:]
 Dimensional Emotion Model [[paper](https://arxiv.org/pdf/1805.01024.pdf)][:dizzy:]
 - VGAN-Based Image Representation Learning
 for Privacy-Preserving Facial Expression Recognition [[paper](https://arxiv.org/pdf/1803.07100v1.pdf)][:dizzy:]
+- (MIT16) Predicting Perceived Emotions in Animated GIFs
+with 3D Convolutional Neural Networks [[paper](https://affect.media.mit.edu/pdfs/16.Chen-etal-ISM.pdf)]
+- (MIT CSAIL18) Controllable Image-to-Video Translation:
+A Case Study on Facial Expression Generation [[paper](https://arxiv.org/pdf/1808.02992.pdf)] 
 
 ## Cross-Dataset FER 
 - ICPR 18 Deep Emotion Transfer Network for Cross-database Facial Expression Recognition 
@@ -221,7 +236,15 @@ Valence, and Arousal Computing in the Wild [[paper](https://arxiv.org/pdf/1708.0
 - Deep Affect Prediction in-the-wild: Aff-Wild Database and Challenge,
 Deep Architectures, and Beyond [[paper](https://arxiv.org/pdf/1804.10938.pdf)]
 - (CVPR17 workshop) Aff-Wild: Valence and Arousal ‘in-the-wild’ Challenge [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/cvpr_workshop_faces_in_the_wild_(1).pdf)]
-- HAPPEI dataset
+- HAPPEI dataset (happiness intensity)
+- DISFA [[Website](http://www.engr.du.edu/mmahoor/DISFA.htm)](AUs)
+- (IEEE TRANSACTIONS ON AFFECTIVE COMPUTING13) DISFA: A Spontaneous Facial
+Action Intensity Database [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=6475933)]
+- GENKI-4K [[Website](http://mplab.ucsd.edu/wordpress/?page_id=398)](smile&non-smile)
+- AFFECTIVA-MIT AM-FED [[Website](https://www.affectiva.com/facial-expression-dataset/)](smile&non-smile)
+- Affectiva-MIT Facial Expression Dataset (AM-FED): Naturalistic and
+Spontaneous Facial Expressions Collected In-the-Wild [[paper](https://affect.media.mit.edu/pdfs/13.McDuff-etal-AMFED.pdf)]
+
 
 ### Challenges
 - Group-level happiness intensity recognition @ EmotiW16 [[Website](https://sites.google.com/site/emotiw2016/challenge-details)]
@@ -246,10 +269,6 @@ Instance Learning [[paper](https://arxiv.org/pdf/1712.01496.pdf)]
 from Facial Expressions [[paper](https://arxiv.org/pdf/1706.07154.pdf)]
 - (ICIP17) REGULARIZING FACE VERIFICATION NETS FOR PAIN INTENSITY REGRESSION [[paper](https://arxiv.org/pdf/1702.06925.pdf)]
 - (CVPR17 Workshop) Recurrent Convolutional Neural Network Regression for Continuous Pain Intensity Estimation in Video [[paper](https://arxiv.org/pdf/1605.00894.pdf)]
-- (ICCV17 Workshop) SmileNet: Registration-Free Smiling Face Detection In The Wild [[paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w23/Jang_SmileNet_Registration-Free_Smiling_ICCV_2017_paper.pdf)][[project](https://sites.google.com/view/sensingfeeling/)]
-- Embedded Implementation of a Deep Learning
-Smile Detector [[paper](https://arxiv.org/pdf/1807.10570.pdf)]
-- Smile detection in the wild based on transfer learnin [[paper](https://arxiv.org/pdf/1802.02185.pdf)]
 - Multi-Instance Dynamic Ordinal Random Fields for
 Weakly-supervised Facial Behavior Analysis [[paper](https://arxiv.org/pdf/1803.00907.pdf)]
 - (FG17) Generic to Specific Recognition Models for Group Membership
@@ -259,17 +278,24 @@ networks [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0925231218307926/1-s
 - (Neurocomputing16) A new descriptor of gradients Self-Similarity for smile detection
 in unconstrained scenarios [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0925231215014812/1-s2.0-S0925231215014812-main.pdf?_tid=ecccca49-644a-46f8-a5b4-6ed4c5fced2b&acdnat=1533202351_822998183c1e602b7006e0d7f7f124f1)]
 - (IEEE trans on Affective Computing11) Continuous Prediction of Spontaneous Affect from Multiple Cues and Modalities in Valence-Arousal Space [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=5740839)]
-- (IEEE trans on Affective Computing18)Visually Interpretable Representation Learning for
-Depression Recognition from Facial Images [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8344107)][:dizzy::dizzy::dizzy::dizzy:]
 
 
-### Happiness
+
+### Happiness (smile intensity estimation)
 
 - (ACM Transactions on Intelligent Systems and Technology18) The Effect of Pets on Happiness: A Large-Scale Multi-Factor
 Analysis Using Social Multimedia [[paper](http://delivery.acm.org.eproxy.lib.hku.hk/10.1145/3210000/3200751/a60-peng.pdf?ip=147.8.204.164&id=3200751&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1533733444_6049e63f292ec50cf0fd27cb12a9572f#URLTOKEN#)]
 - (ICMSS '17) Happy Index: Analysis Based on Automatic Recognition of
 Emotion Flow [[paper](http://delivery.acm.org.eproxy.lib.hku.hk/10.1145/3040000/3034961/p157-Qian.pdf?ip=147.8.204.164&id=3034961&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1533733721_35e65c9ce21191d0062befc7e0aa5644#URLTOKEN#)]
-
+- (ICPR 2012)Group Expression Intensity Estimation in Videos via Gaussian Processes [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=6460925)]
+- A Novel Approach to Detect Smile [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=6406670)]
+- (ICCV17 Workshop) SmileNet: Registration-Free Smiling Face Detection In The Wild [[paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w23/Jang_SmileNet_Registration-Free_Smiling_ICCV_2017_paper.pdf)][[project](https://sites.google.com/view/sensingfeeling/)]
+- (ACII17) Smiling from Adolescence to Old Age: A Large Observational Study [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8273585)]
+- Deep Convolutional Neural Networks for Smile
+Recognition [[paper](https://arxiv.org/pdf/1508.06535.pdf)]
+- Embedded Implementation of a Deep Learning
+Smile Detector [[paper](https://arxiv.org/pdf/1807.10570.pdf)]
+- Smile detection in the wild based on transfer learnin [[paper](https://arxiv.org/pdf/1802.02185.pdf)]
 
 ## Common Domain Adaptation 
 
