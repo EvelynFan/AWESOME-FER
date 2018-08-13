@@ -249,6 +249,10 @@ networks [[paper](https://link-springer-com.eproxy.lib.hku.hk/content/pdf/10.100
 - AFFECTIVA-MIT AM-FED [[Website](https://www.affectiva.com/facial-expression-dataset/)](smile&non-smile)
 - Affectiva-MIT Facial Expression Dataset (AM-FED): Naturalistic and
 Spontaneous Facial Expressions Collected In-the-Wild [[paper](https://affect.media.mit.edu/pdfs/13.McDuff-etal-AMFED.pdf)]
+- Binghamton
+Pittsburgh 4D Spontaneous Expression datase (BP4D) [[Website](http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)]
+- The UNBC-McMaster Shoulder Pain Expression
+Archive Database
 
 
 ### Challenges
@@ -304,6 +308,10 @@ Smile Detector [[paper](https://arxiv.org/pdf/1807.10570.pdf)]
 
 ### Facial Action Unit Intensity Estimation
 
+-(FG18) Edge Convolutional Network for Facial Action Intensity Estimation [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373827)]
+- (FG17) Pose-independent Facial Action Unit Intensity Regression Based on
+Multi-task Deep Transfer Learning [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7961835)]
+- (FG15) How much training data for facial action unit detection? [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7163106)]
 - (BMVC18) Joint Action Unit localisation and intensity
 estimation through heatmap regression [[paper](https://arxiv.org/pdf/1805.03487.pdf)] [[code](https://github.com/ESanchezLozano/Action-Units-Heatmaps)] [:dizzy::dizzy::dizzy::dizzy:]
 - (ECCV18) Deep Adaptive Attention for Joint Facial Action
