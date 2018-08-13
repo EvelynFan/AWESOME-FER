@@ -306,9 +306,24 @@ Recognition [[paper](https://arxiv.org/pdf/1508.06535.pdf)]
 Smile Detector [[paper](https://arxiv.org/pdf/1807.10570.pdf)]
 - Smile detection in the wild based on transfer learning [[paper](https://arxiv.org/pdf/1802.02185.pdf)]
 
+### Painful Expression Intensity Estimation
+- (CVPRW16)Recurrent Convolutional Neural Network Regression for Continuous Pain
+Intensity Estimation in Video[[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7789681)][:dizzy::dizzy::dizzy:]
+- (CVPRW15)Pain Recognition using Spatiotemporal Oriented Energy of Facial Muscles[[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7301340)]
+- (CVPR17) Personalized Automatic Estimation of Self-reported Pain Intensity
+from Facial Expressions [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8015020)][:dizzy::dizzy:]
+- (FG15)Weakly Supervised Pain Localization using Multiple Instance Learning [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=6553762)]
+- (ICIP17) REGULARIZING FACE VERIFICATION NETS FOR PAIN INTENSITY REGRESSION [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8296449)][[code](https://github.com/happynear/PainRegression)]
+- (ICME13) PAIN DETECTION THROUGH SHAPE AND APPEARANCE FEATURES [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=6607608)]
+- (ICPR14) Pain Intensity Evaluation Through Facial Action
+Units [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=6977516)]
+- (ieee trans on affective computing) Automatic Pain Assessment with Facial
+Activity Descriptors [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7423704)]
+
+
 ### Facial Action Unit Intensity Estimation
 
--(FG18) Edge Convolutional Network for Facial Action Intensity Estimation [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373827)]
+- (FG18) Edge Convolutional Network for Facial Action Intensity Estimation [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373827)]
 - (FG17) Pose-independent Facial Action Unit Intensity Regression Based on
 Multi-task Deep Transfer Learning [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7961835)]
 - (FG15) How much training data for facial action unit detection? [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7163106)]
