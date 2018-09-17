@@ -322,7 +322,9 @@ Activity Descriptors [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stam
 
 
 ### Facial Action Unit Intensity Estimation
-
+- (TPAMI15) Discriminant Functional Learning of Color
+Features for the Recognition of Facial Action
+Units and their Intensities [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8454901)]
 - (FG18) Edge Convolutional Network for Facial Action Intensity Estimation [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373827)]
 - (FG17) Pose-independent Facial Action Unit Intensity Regression Based on
 Multi-task Deep Transfer Learning [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7961835)]
