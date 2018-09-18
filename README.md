@@ -20,8 +20,10 @@
 ## Facial Expression Recognition
 
 ### ECCV18 
-- Facial Expression Recognition with Inconsistently Annotated Datasets 
+- Facial Expression Recognition with Inconsistently Annotated Datasets [[paper](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Jiabei_Zeng_Facial_Expression_Recognition_ECCV_2018_paper.pdf)]
 - Contemplating Visual Emotions: Understanding and Overcoming Dataset Bias [[paper](https://arxiv.org/pdf/1808.02212.pdf)]
+- Deep Multi-Task Learning to Recognise Subtle
+Facial Expressions of Mental States [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guosheng_Hu_Deep_Multi-Task_Learning_ECCV_2018_paper.pdf)]
 
 ### ICML18 
 - Video Prediction with Appearance and Motion Conditions [[paper](https://arxiv.org/pdf/1807.02635.pdf)],[[project](https://sites.google.com/vision.snu.ac.kr/icml2018-video-prediction)][:dizzy::dizzy:]
@@ -322,6 +324,10 @@ Activity Descriptors [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stam
 
 
 ### Facial Action Unit Intensity Estimation
+- (ECCV18) Deep Structure Inference Network for Facial
+Action Unit Recognition [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ciprian_Corneanu_Deep_Structure_Inference_ECCV_2018_paper.pdf)]
+- (FG15) Deep Learning based FACS Action Unit Occurrence and Intensity
+Estimation [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7284873)]
 - (TPAMI15) Discriminant Functional Learning of Color
 Features for the Recognition of Facial Action
 Units and their Intensities [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8454901)]
@@ -366,6 +372,41 @@ person-specific facial action unit detection [[paper](http://openaccess.thecvf.c
 - (NIPS 16)Incremental Boosting Convolutional Neural Network
 for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1707.05395.pdf)]
 - Projects  [[Computer Expression Recognition Toolbox](http://mplab.ucsd.edu/~marni/Projects/CERT.htm)]  [[TAUD 2011](https://ibug.doc.ic.ac.uk/resources/temporal-based-action-unit-detection/)] [[LAUD 2010](https://ibug.doc.ic.ac.uk/resources/laud-programme-20102011/)] [[Openface](https://github.com/TadasBaltrusaitis/OpenFace)] [[Openface-Paper](OpenFace: an open source facial behavior analysis toolkit)]
+
+## Attention
+- (CVPR18) Non-local Neural Networks [[paper](https://arxiv.org/pdf/1711.07971.pdf)]
+- (ECCV18) Interaction-aware Spatio-temporal Pyramid
+Attention Networks for Action Classification [[paper](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Yang_Du_Interaction-aware_Spatio-temporal_Pyramid_ECCV_2018_paper.pdf)]
+- (ECCV18) CBAM: Convolutional Block Attention Module [[paper](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf)]
+- (CVPR18) Attentive Fashion Grammar Network for
+Fashion Landmark Detection and Clothing Category Classification[[paper](http://web.cs.ucla.edu/~yuanluxu/publications/fashion_grammar_cvpr18.pdf)]
+- (CVPR18) Attention-Aware Compositional Network for Person Re-identification [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Attention-Aware_Compositional_Network_CVPR_2018_paper.pdf)]
+- (ICCV17) A Coarse-Fine Network for Keypoint Localization [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_A_Coarse-Fine_Network_ICCV_2017_paper.pdf)]
+- Video-based Person Re-identification via 3D Convolutional Networks
+and Non-local Attention [[paper](https://arxiv.org/pdf/1807.05073.pdf)]
+- (AAAI19) Dual Attention Network for Scene Segmentation [[paper](https://arxiv.org/pdf/1809.02983.pdf)]
+- (ECCV18) Small-scale Pedestrian Detection Based on
+Topological Line Localization and Temporal
+Feature Aggregation [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tao_Song_Small-scale_Pedestrian_Detection_ECCV_2018_paper.pdf)]
+- (ECCV2018) CornerNet: Detecting Objects as
+Paired Keypoints [[paper](https://arxiv.org/pdf/1808.01244.pdf)][[code](https://github.com/umich-vl/CornerNet)]
+- (ECCV2018) DeepPhys: Video-Based Physiological
+Measurement Using Convolutional
+Attention Networks [[paper](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Weixuan_Chen_DeepPhys_Video-Based_Physiological_ECCV_2018_paper.pdf)]
+- (ECCV18) Video Object Segmentation with Joint Re-identification and
+Attention-Aware Mask Propagation [[paper](https://davischallenge.org/challenge2018/papers/DAVIS-Semisupervised-Challenge-2nd-Team.pdf)]
+- (ECCV18) Mancs: A Multi-task Attentional Network with
+Curriculum Sampling for Person
+Re-identification [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Cheng_Wang_Mancs_A_Multi-task_ECCV_2018_paper.pdf)]
+- (ECCV18) Deep Imbalanced Attribute Classification using
+Visual Attention Aggregation [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Nikolaos_Sarafianos_Deep_Imbalanced_Attribute_ECCV_2018_paper.pdf)]
+- (ECCV18) Deep Adversarial Attention Alignment for
+Unsupervised Domain Adaptation:
+the Benefit of Target Expectation Maximization [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guoliang_Kang_Deep_Adversarial_Attention_ECCV_2018_paper.pdf)]
+- (ECCV18) Deep Adaptive Attention for Joint Facial Action
+Unit Detection and Face Alignment [[paper](https://arxiv.org/pdf/1803.05588.pdf)]
+
+
 
 ## Common Domain Adaptation 
 
@@ -448,6 +489,7 @@ Identity Preserving Frontal View Synthesis [[paper](http://openaccess.thecvf.com
 
 ### Others
 - Global and Local Consistent Age Generative Adversarial Networks [[paper](https://arxiv.org/pdf/1801.08390.pdf)]
+
 
 
 
