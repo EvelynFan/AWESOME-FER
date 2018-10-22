@@ -262,7 +262,7 @@ Archive Database
 - First Affect-in-the-Wild Challenge [[Website](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)]
 
 ### Related Works
-- (ICMI16) Happiness level prediction with sequential inputs via multiple regressions [[paper](http://delivery.acm.org.eproxy.lib.hku.hk/10.1145/3000000/2997636/p487-li.pdf?ip=147.8.31.43&id=2997636&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1533198632_af2e30ccb84d213b21a64266ab16bc8b)]
+- (ICMI16) Happiness level prediction with sequential inputs via multiple regressions [[paper](http://delivery.acm.org.eproxy.lib.hku.hk/10.1145/3000000/2997636/p487-li.pdf?ip=147.8.204.164&id=2997636&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1537261553_003215203b29995f2e1f0ca6091bcef6)]
 - (CVPR17 workshop) Estimation of Affective Level in the Wild With Multiple Memory Networks [[paper](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w33/papers/Li_Estimation_of_Affective_CVPR_2017_paper.pdf)]
 - (ICMI16) Group Happiness Assessment Using Geometric Features
 and Dataset Balancing [[paper](http://vintage.winklerbros.net/Publications/emotiw2016.pdf)]
@@ -323,7 +323,13 @@ Units [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=
 Activity Descriptors [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7423704)]
 
 
-### Facial Action Unit Intensity Estimation
+### Facial Action Unit Estimation
+- (BMVC18) Identity-based Adversarial Training of Deep
+CNNs for Facial Action Unit Recognition [[paper[http://bmvc2018.org/contents/papers/0741.pdf]]
+- (FG2017) EAC-Net: A Region-based Deep Enhancing and Cropping Approach for
+Facial Action Unit Detection [[paper](https://arxiv.org/pdf/1702.02925.pdf)]
+- (TIP16) Joint Patch and Multi-label Learning for Facial
+Action Unit and Holistic Expression Recognition [[paper](http://www.humansensing.cs.cmu.edu/sites/default/files/07471506.pdf)]
 - (ECCV18) Deep Structure Inference Network for Facial
 Action Unit Recognition [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ciprian_Corneanu_Deep_Structure_Inference_ECCV_2018_paper.pdf)]
 - (FG15) Deep Learning based FACS Action Unit Occurrence and Intensity
@@ -374,6 +380,17 @@ for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1707.05395.pdf
 - Projects  [[Computer Expression Recognition Toolbox](http://mplab.ucsd.edu/~marni/Projects/CERT.htm)]  [[TAUD 2011](https://ibug.doc.ic.ac.uk/resources/temporal-based-action-unit-detection/)] [[LAUD 2010](https://ibug.doc.ic.ac.uk/resources/laud-programme-20102011/)] [[Openface](https://github.com/TadasBaltrusaitis/OpenFace)] [[Openface-Paper](OpenFace: an open source facial behavior analysis toolkit)]
 
 ## Attention
+- (ACM MM17) Fine-Grained Recognition via Attribute-Guided Attentive
+Feature Aggregation [[paper](http://delivery.acm.org.eproxy.lib.hku.hk/10.1145/3130000/3123358/p1032-yan.pdf?ip=147.8.31.43&id=3123358&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1540166942_7e6707193038d68bed7b735df5ab6d3b)]
+- (ACM MM18) visual spatial attention network for relationship detection [[paper](https://dl.acm.org/citation.cfm?id=3240611)]
+- (ACM MM18) Attribute-Aware Attention Model for Fine-grained Representation Learning [[paper](https://dl.acm.org/citation.cfm?id=3240550)]
+- (ACM MM18) Attention-based Multi-Patch Aggregation for Image Aesthetic Assessment [[paper](https://dl.acm.org/citation.cfm?id=3240554)]
+- (ACM MM18) Attention-based Pyramid Aggregation Network
+for Visual Place Recognition [[paper](https://arxiv.org/pdf/1808.00288.pdf)]
+- (CVPR18) Attention-Aware Compositional Network for Person Re-identification [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Attention-Aware_Compositional_Network_CVPR_2018_paper.pdf)]
+- (CVPR18) PiCANet: Learning Pixel-wise Contextual Attention for Saliency Detection [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_PiCANet_Learning_Pixel-Wise_CVPR_2018_paper.pdf)]
+- (CVPR18) Emotional Attention: A Study of Image Sentiment and Visual Attention [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Fan_Emotional_Attention_A_CVPR_2018_paper.pdf)]
+- (CVPR16) Learning Deep Features for Discriminative Localization [[paper](https://arxiv.org/pdf/1512.04150.pdf)][[code](https://github.com/metalbubble/CAM)]
 - (CVPR18) Non-local Neural Networks [[paper](https://arxiv.org/pdf/1711.07971.pdf)]
 - (ECCV18) Interaction-aware Spatio-temporal Pyramid
 Attention Networks for Action Classification [[paper](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Yang_Du_Interaction-aware_Spatio-temporal_Pyramid_ECCV_2018_paper.pdf)]
