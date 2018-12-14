@@ -2,6 +2,8 @@
 
 :cat:[Cross-Dataset FER](#cross-dataset-fer)  
 
+:cat:[Differences in FER](#differences-in-fer)  
+
 :cat:[FER Datasets](#fer-datasets)
 
 :cat:[FER Challenges](#fer-challenges)
@@ -69,11 +71,11 @@ Database and Benchmarks of Identification [[paper](https://ieeexplore-ieee-org.e
 - From Macro to Micro Expression Recognition: Deep Learning on Small Datasets
 Using Transfer Learning  [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373896)][:dizzy:]
 
-
 ### ACMM MM18
 - Geometry Guided Adversarial Facial Expression Synthesis [[paper](https://arxiv.org/pdf/1712.03474.pdf)][:dizzy::dizzy::dizzy:]
 
 ### IEEE Trans on Affective Computing18 (Access Provided by Authenticated Institutes)
+- Facial Expression Recognition with Identity and Emotion Joint Learning [[paper](https://ieeexplore.ieee.org/document/8528894)]
 - Unsupervised adaptation of a person-specific
 manifold of facial expressions [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8294217)][:dizzy::dizzy::dizzy:]
 - Multi-velocity neural networks for facial
@@ -161,6 +163,11 @@ Expression Recognition [[paper](https://www.cv-foundation.org/openaccess/content
 Muscles for Facial Expression Recognition [[paper](http://f4k.dieei.unict.it/proceedings/CVPR13/data/papers/4989d422.pdf)][:dizzy:]
 
 ### Others
+- Visual Saliency Maps Can Apply to Facial Expression Recognition [[paper](https://arxiv.org/pdf/1811.04544.pdf)]
+- (IEEE Access18) SMEConvNet: A Convolutional Neural Network
+for Spotting Spontaneous Facial
+Micro-Expression From Long Videos [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8522030)]
+- (Google AI) A Compact Embedding for Facial Expression Similarity [[paper](https://arxiv.org/pdf/1811.11283.pdf)]
 - (submission to IJCAI-ECAI 2018) Geometry-Contrastive Generative Adversarial Network for Facial Expression Synthesis [[paper](https://arxiv.org/abs/1802.01822)][:dizzy::dizzy::dizzy:]
 -  Deep Facial Expression Recognition: A Survey [[paper](https://arxiv.org/pdf/1804.08348.pdf)][:dizzy::dizzy:]
 -  (ACM Computing Surveys) Facial Expression Analysis under Partial Occlusion: A Survey [[paper](https://arxiv.org/pdf/1802.08784.pdf)][:dizzy:]
@@ -171,12 +178,18 @@ Expression Recognition [[paper](https://arxiv.org/pdf/1805.03869.pdf)][:dizzy:]
 Dimensional Emotion Model [[paper](https://arxiv.org/pdf/1805.01024.pdf)][:dizzy:]
 - VGAN-Based Image Representation Learning
 for Privacy-Preserving Facial Expression Recognition [[paper](https://arxiv.org/pdf/1803.07100v1.pdf)][:dizzy:]
+- Non-Volume Preserving-based Feature Fusion Approach
+to Group-Level Expression Recognition on Crowd Videos [[paper](https://arxiv.org/pdf/1811.11849.pdf)]
 - (MIT16) Predicting Perceived Emotions in Animated GIFs
 with 3D Convolutional Neural Networks [[paper](https://affect.media.mit.edu/pdfs/16.Chen-etal-ISM.pdf)]
 - (MIT CSAIL18) Controllable Image-to-Video Translation:
 A Case Study on Facial Expression Generation [[paper](https://arxiv.org/pdf/1808.02992.pdf)] 
 
 ## Cross-Dataset FER 
+- Cross-database non-frontal facial expression
+recognition based on transductive deep transfer
+learning [[paper](https://arxiv.org/pdf/1811.12774.pdf)]
+- Unsupervised Domain Adaptation for Facial Expression Recognition Using Generative Adversarial Networks [[paper](https://www.hindawi.com/journals/cin/2018/7208794/)]
 - ICPR 18 Deep Emotion Transfer Network for Cross-database Facial Expression Recognition 
 - FG 2018 Deep Unsupervised Domain Adaptation for Face Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373866)][:dizzy::dizzy::dizzy:]
 - FG 2018 Cross-generating GAN for Facial Identity Preserving [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373821)][:dizzy:]
@@ -210,6 +223,9 @@ Expression [[paper](http://delivery.acm.org.eproxy1.lib.hku.hk/10.1145/3140000/3
 - ACM MM 2017 Integrated Face Analytics Networks through
 Cross-Dataset Hybrid Training[[paper](http://delivery.acm.org.eproxy1.lib.hku.hk/10.1145/3130000/3123438/p1531-li.pdf?ip=147.8.31.43&id=3123438&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1530997759_33591edce0f41f32f5c70d5902b2dd01#URLTOKEN#)][:dizzy::dizzy:]
 
+## Differences in FER
+- Differences in Facial Emotional Recognition Between Patients With the First-Episode Psychosis, Multi-episode Schizophrenia, and Healthy Controls [[paper](https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/differences-in-facial-emotional-recognition-between-patients-with-the-firstepisode-psychosis-multiepisode-schizophrenia-and-healthy-controls/08C019C4C4E210BFBBDEA950031BA5E3)]
+
 ## FER Datasets
 - [Jaffe](http://www.kasrl.org/jaffe.html)
 - [FER-2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)
@@ -223,6 +239,7 @@ Cross-Dataset Hybrid Training[[paper](http://delivery.acm.org.eproxy1.lib.hku.hk
 - [EmotioNet Database](http://cbcsl.ece.ohio-state.edu/dbform_emotionet.html)
 - [The Radboud Faces Database (RaFD)](http://www.socsci.ru.nl:8180/RaFD2/RaFD)
 - [Aff-Wild data](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)
+- A novel database of Children’s Spontaneous Facial Expressions (LIRIS-CSE) [[paper](https://arxiv.org/pdf/1812.01555.pdf)]
 
 ## FER Challenges
 - [Emotion Recognition in the Wild Challenge @ ICMI](https://sites.google.com/view/emotiw2018)
@@ -301,7 +318,7 @@ in unconstrained scenarios [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S09
 
 
 ### Happiness (smile intensity estimation)
-
+- (Multimedia Tools and Applications18) Smile intensity recognition in real time videos: fuzzy system approach[[paper](https://link.springer.com/article/10.1007/s11042-018-6890-8)]
 - (ACM Transactions on Intelligent Systems and Technology18) The Effect of Pets on Happiness: A Large-Scale Multi-Factor
 Analysis Using Social Multimedia [[paper](http://delivery.acm.org.eproxy.lib.hku.hk/10.1145/3210000/3200751/a60-peng.pdf?ip=147.8.204.164&id=3200751&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1533733444_6049e63f292ec50cf0fd27cb12a9572f#URLTOKEN#)]
 - (ICMSS '17) Happy Index: Analysis Based on Automatic Recognition of
@@ -333,7 +350,9 @@ Activity Descriptors [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stam
 
 ### Facial Action Unit Estimation
 - (BMVC18) Identity-based Adversarial Training of Deep
-CNNs for Facial Action Unit Recognition [[paper[http://bmvc2018.org/contents/papers/0741.pdf]]
+CNNs for Facial Action Unit Recognition [[paper][http://bmvc2018.org/contents/papers/0741.pdf]]
+- (ICCV17) DeepCoder: Semi-parametric Variational Autoencoders
+for Automatic Facial Action Coding [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/tran_deepcoder_semi-parametric_variational_iccv_2017_paper.pdf)]
 - (FG2017) EAC-Net: A Region-based Deep Enhancing and Cropping Approach for
 Facial Action Unit Detection [[paper](https://arxiv.org/pdf/1702.02925.pdf)]
 - (TIP16) Joint Patch and Multi-label Learning for Facial
