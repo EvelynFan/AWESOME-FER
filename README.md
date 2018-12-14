@@ -16,8 +16,6 @@
 
 :cat:[Image to Video Adaptation](#image-to-video-adaptation)
 
-:cat:[GAN on Images](#gan-on-images)
-
 :cat:[Attention](#attention)
 
 ## Facial Expression Recognition
@@ -512,28 +510,4 @@ in unlabeled videos [[paper](https://arxiv.org/pdf/1708.02191.pdf)][:dizzy::dizz
 - (IEEE TRANSACTIONS ON CYBERNETICS 17) Semi-supervised image-to-video adaptation for video action recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7433457)][:dizzy::dizzy:]
 - (CVPR 2012) Exploiting Web Images for Event Recognition in Consumer Videos: A Multiple Source Domain Adaptation Approach [[paper](http://www.ee.columbia.edu/ln/dvmm/pubs/files/CVPR_Event.pdf)][:dizzy:]
 - (IJCAI18) Exploiting Images for Video Recognition with Hierarchical Generative Adversarial Networks [[paper](https://arxiv.org/pdf/1805.04384.pdf)][:dizzy::dizzy::dizzy:]
-
-## GAN on Images
-
-### CVPR18
-- StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf)],[[code](https://github.com/yunjey/StarGAN)][:dizzy::dizzy::dizzy:]
-- Exploring Disentangled Feature Representation Beyond Face Identification [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Exploring_Disentangled_Feature_CVPR_2018_paper.pdf)][:dizzy::dizzy:]
-
-### ICCV17
-- Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and
-Identity Preserving Frontal View Synthesis [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Beyond_Face_Rotation_ICCV_2017_paper.pdf)][:dizzy::dizzy:]
-
-
-## Others  
-(Face Age/Pose/Eye Gaze Estimation, Human Action Recognition, etc.)
-
-### CVPR18
-- Learning Face Age Progression: A Pyramid Architecture of GANs[[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Learning_Face_Age_CVPR_2018_paper.pdf)],[[supp](http://openaccess.thecvf.com/content_cvpr_2018/Supplemental/3633-supp.pdf)]
-- A Hierarchical Generative Model for Eye Image Synthesis and Eye Gaze Estimation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_A_Hierarchical_Generative_CVPR_2018_paper.pdf)]
-
-### Others
-- Global and Local Consistent Age Generative Adversarial Networks [[paper](https://arxiv.org/pdf/1801.08390.pdf)]
-
-
-
 
