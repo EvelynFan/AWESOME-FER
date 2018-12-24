@@ -21,7 +21,7 @@
 ## Facial Expression Recognition
 
 ### AAAI19
--CycleEmotionGAN: Emotional Semantic Consistency Preserved CycleGAN for Adapting
+- CycleEmotionGAN: Emotional Semantic Consistency Preserved CycleGAN for Adapting
 Image Emotions [[paper]()]
 
 ### ACM MM18
@@ -75,9 +75,6 @@ Database and Benchmarks of Identification [[paper](https://ieeexplore-ieee-org.e
 - LTP-ML : Micro-Expression Detection by Recognition of Local temporal Pattern of Facial Movements [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373893)][:dizzy:]
 - From Macro to Micro Expression Recognition: Deep Learning on Small Datasets
 Using Transfer Learning  [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373896)][:dizzy:]
-
-### ACMM MM18
-- Geometry Guided Adversarial Facial Expression Synthesis [[paper](https://arxiv.org/pdf/1712.03474.pdf)][:dizzy::dizzy::dizzy:]
 
 ### IEEE Trans on Affective Computing18 (Access Provided by Authenticated Institutes)
 - Facial Expression Recognition with Identity and Emotion Joint Learning [[paper](https://ieeexplore.ieee.org/document/8528894)]
