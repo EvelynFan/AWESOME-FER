@@ -244,7 +244,33 @@ Cross-Dataset Hybrid Training[[paper](http://delivery.acm.org.eproxy1.lib.hku.hk
 - A novel database of Children’s Spontaneous Facial Expressions (LIRIS-CSE) [[paper](https://arxiv.org/pdf/1812.01555.pdf)]
 
 ## FER Challenges
-- [Emotion Recognition in the Wild Challenge @ ICMI](https://sites.google.com/view/emotiw2018)
+- [Emotion Recognition in the Wild Challenge (EmotiW) @ ICMI](https://sites.google.com/view/emotiw2018)
+    + [EmotiW 2018](https://sites.google.com/view/emotiw2018)
+        * [Details](https://arxiv.org/pdf/1808.07773.pdf)
+        * Multi-Feature Based Emotion Recognition for Video Clips [[paper](http://delivery.acm.org/10.1145/3270000/3264989/p630-liu.pdf?ip=118.140.125.72&id=3264989&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E65B561F191013DD0&__acm__=1545619250_535c23ee84805ca9482eaf3dc8bc1590)]
+        * Video-based Emotion Recognition Using Deeply-Supervised Neural Networks [[paper](https://dl.acm.org/citation.cfm?id=3264978)]
+        * Multiple Spatio-temporal Feature Learning for Video-based Emotion Recognition in the Wild [[paper](https://dl.acm.org/citation.cfm?id=3264992)]
+        * An Occam’s Razor View on Learning Audiovisual Emotion
+Recognition with Small Training Sets [[paper](https://arxiv.org/pdf/1808.02668.pdf)]
+        * Group-Level Emotion Recognition Using Hybrid Deep Models Based on Faces, Scenes, Skeletons and Visual Attentions [[paper](https://dl.acm.org/citation.cfm?id=3264990)]
+        * Cascade Attention Networks For Group Emotion Recognition with Face, Body and Image Cues [[paper](https://dl.acm.org/citation.cfm?id=3264991)]
+        * Group-Level Emotion Recognition using Deep Models with A Four-stream Hybrid Network [[paper](https://dl.acm.org/citation.cfm?id=3264987)]
+        * 
+An Attention Model for group-level emotion recognition[[paper](https://arxiv.org/abs/1807.03380)]
+        
+    + [EmotiW 2017](https://sites.google.com/site/emotiwchallenge/)
+        * [Details](https://drive.google.com/file/d/1-mVVbabm8ePTMJKwO0itdMXB3j5vEw7h/view)
+        * Learning supervised scoring ensemble for emotion recognition in the wild [[paper](https://dl.acm.org/citation.cfm?id=3143009)]
+        * Convolutional neural networks pretrained on large face recognition datasets for emotion classification from video [[paper](https://arxiv.org/abs/1711.04598)]
+        * Temporal Multimodal Fusion
+for Video Emotion Classification in the Wild [[paper](https://arxiv.org/pdf/1709.07200.pdf)]
+        * Emotion recognition with multimodal features and temporal models [[paper](https://dl.acm.org/citation.cfm?doid=3136755.3143016)]
+        * Audio-visual emotion recognition using deep transfer learning and multiple temporal models [[paper](https://dl.acm.org/citation.cfm?doid=3136755.3143012)]
+
+    + [EmotiW 2016](https://sites.google.com/site/emotiw2016/)
+    + [EmotiW 2015](https://cs.anu.edu.au/few/emotiw2015.html)
+    + [EmotiW 2014](https://cs.anu.edu.au/few/emotiw2014.html)
+    + [EmotiW 2013](https://cs.anu.edu.au/few/emotiw.html)
 - [Audio/Visual Emotion Challenge (AVEC) @ ACM MM](https://sites.google.com/view/avec2018)
 - [Facial Expression Recognition and Analysis Challenge (FERA) @ FG](http://www.fg2017.org/index.php/challenges/)
 - [One-Minute Gradual-Emotion Behavior Challenge @ IJCNN](https://www2.informatik.uni-hamburg.de/wtm/OMG-EmotionChallenge/)
@@ -318,8 +344,8 @@ in unconstrained scenarios [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S09
 - (IEEE trans on Affective Computing11) Continuous Prediction of Spontaneous Affect from Multiple Cues and Modalities in Valence-Arousal Space [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=5740839)]
 
 
-
 ### Happiness (smile intensity estimation)
+- (IEEE Transactions on Pattern Analysis and Machine Intelligence 09) Toward Practical Smile Detection [[paper](https://ieeexplore.ieee.org/document/4785473)]
 - (Multimedia Tools and Applications18) Smile intensity recognition in real time videos: fuzzy system approach[[paper](https://link.springer.com/article/10.1007/s11042-018-6890-8)]
 - (ACM Transactions on Intelligent Systems and Technology18) The Effect of Pets on Happiness: A Large-Scale Multi-Factor
 Analysis Using Social Multimedia [[paper](http://delivery.acm.org.eproxy.lib.hku.hk/10.1145/3210000/3200751/a60-peng.pdf?ip=147.8.204.164&id=3200751&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1533733444_6049e63f292ec50cf0fd27cb12a9572f#URLTOKEN#)]
@@ -335,6 +361,7 @@ Recognition [[paper](https://arxiv.org/pdf/1508.06535.pdf)]
 Smile Detector [[paper](https://arxiv.org/pdf/1807.10570.pdf)]
 - Smile detection in the wild based on transfer learning [[paper](https://arxiv.org/pdf/1802.02185.pdf)]
 - Appearance-based smile intensity estimation by cascaded support vector machines [[paper](https://www.researchgate.net/publication/220745420_Appearance-Based_Smile_Intensity_Estimation_by_Cascaded_Support_Vector_Machines/download)]
+- Smile detection in the wild with deep convolutional neural networks [[paper](https://link.springer.com/article/10.1007/s00138-016-0817-z)]
 - Fast and Robust Smile Intensity Estimation by Cascaded
 Support Vector Machines [[paper](http://www.ijcte.org/papers/640-W00031.pdf)]
 
