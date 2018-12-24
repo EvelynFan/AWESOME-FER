@@ -20,6 +20,10 @@
 
 ## Facial Expression Recognition
 
+### AAAI19
+-CycleEmotionGAN: Emotional Semantic Consistency Preserved CycleGAN for Adapting
+Image Emotions [[paper]()]
+
 ### ACM MM18
 - Fast and Light Manifold CNN based 3D Facial Expression Recognition across Pose Variations [[paper](https://dl.acm.org/citation.cfm?id=3240568)]
 - Facial Expression Recognition in the Wild: A Cycle-Consistent Adversarial Attention Transfer Approach [[paper](https://dl.acm.org/citation.cfm?id=3240574)]
@@ -48,6 +52,9 @@ Facial Expressions of Mental States [[paper](http://openaccess.thecvf.com/conten
 -  ExprGAN: Facial Expression Editing with Controllable Expression Intensity [[paper](https://arxiv.org/pdf/1709.03842.pdf)],[[code](https://github.com/HuiDingUMD/ExprGAN)][:dizzy:]
 -  Learning Spatio-temporal Features with Partial Expression Sequences for
 on-the-Fly Prediction [[paper](https://arxiv.org/pdf/1711.10914.pdf)][:dizzy:]
+
+### IJCAI18
+- Personality-Aware Personalized Emotion Recognition from Physiological Signals [[paper](https://www.ijcai.org/proceedings/2018/0230.pdf)]
 
 ### FG18 (Access Provided by Authenticated Institutes)
 - Multi-Channel Pose-Aware Convolution Neural Networks for Multi-View Facial Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373867)][:dizzy:]
@@ -330,6 +337,9 @@ Recognition [[paper](https://arxiv.org/pdf/1508.06535.pdf)]
 - Embedded Implementation of a Deep Learning
 Smile Detector [[paper](https://arxiv.org/pdf/1807.10570.pdf)]
 - Smile detection in the wild based on transfer learning [[paper](https://arxiv.org/pdf/1802.02185.pdf)]
+- Appearance-based smile intensity estimation by cascaded support vector machines [[paper](https://www.researchgate.net/publication/220745420_Appearance-Based_Smile_Intensity_Estimation_by_Cascaded_Support_Vector_Machines/download)]
+- Fast and Robust Smile Intensity Estimation by Cascaded
+Support Vector Machines [[paper](http://www.ijcte.org/papers/640-W00031.pdf)]
 
 ### Painful Expression Intensity Estimation
 - (CVPRW16)Recurrent Convolutional Neural Network Regression for Continuous Pain
@@ -348,7 +358,7 @@ Activity Descriptors [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stam
 
 ### Facial Action Unit Estimation
 - (BMVC18) Identity-based Adversarial Training of Deep
-CNNs for Facial Action Unit Recognition [[paper][http://bmvc2018.org/contents/papers/0741.pdf]]
+CNNs for Facial Action Unit Recognition [[paper](http://bmvc2018.org/contents/papers/0741.pdf)]
 - (ICCV17) DeepCoder: Semi-parametric Variational Autoencoders
 for Automatic Facial Action Coding [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/tran_deepcoder_semi-parametric_variational_iccv_2017_paper.pdf)]
 - (FG2017) EAC-Net: A Region-based Deep Enhancing and Cropping Approach for
