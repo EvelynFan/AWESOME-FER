@@ -255,15 +255,13 @@ Recognition with Small Training Sets [[paper](https://arxiv.org/pdf/1808.02668.p
         * Group-Level Emotion Recognition Using Hybrid Deep Models Based on Faces, Scenes, Skeletons and Visual Attentions [[paper](https://dl.acm.org/citation.cfm?id=3264990)]
         * Cascade Attention Networks For Group Emotion Recognition with Face, Body and Image Cues [[paper](https://dl.acm.org/citation.cfm?id=3264991)]
         * Group-Level Emotion Recognition using Deep Models with A Four-stream Hybrid Network [[paper](https://dl.acm.org/citation.cfm?id=3264987)]
-        * 
-An Attention Model for group-level emotion recognition[[paper](https://arxiv.org/abs/1807.03380)]
+        * An Attention Model for group-level emotion recognition[[paper](https://arxiv.org/abs/1807.03380)]
         
     + [EmotiW 2017](https://sites.google.com/site/emotiwchallenge/)
         * [Details](https://drive.google.com/file/d/1-mVVbabm8ePTMJKwO0itdMXB3j5vEw7h/view)
         * Learning supervised scoring ensemble for emotion recognition in the wild [[paper](https://dl.acm.org/citation.cfm?id=3143009)]
         * Convolutional neural networks pretrained on large face recognition datasets for emotion classification from video [[paper](https://arxiv.org/abs/1711.04598)]
-        * Temporal Multimodal Fusion
-for Video Emotion Classification in the Wild [[paper](https://arxiv.org/pdf/1709.07200.pdf)]
+        * Temporal Multimodal Fusion for Video Emotion Classification in the Wild [[paper](https://arxiv.org/pdf/1709.07200.pdf)]
         * Emotion recognition with multimodal features and temporal models [[paper](https://dl.acm.org/citation.cfm?doid=3136755.3143016)]
         * Audio-visual emotion recognition using deep transfer learning and multiple temporal models [[paper](https://dl.acm.org/citation.cfm?doid=3136755.3143012)]
 
