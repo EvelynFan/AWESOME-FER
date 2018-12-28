@@ -165,6 +165,8 @@ Expression Recognition [[paper](https://www.cv-foundation.org/openaccess/content
 Muscles for Facial Expression Recognition [[paper](http://f4k.dieei.unict.it/proceedings/CVPR13/data/papers/4989d422.pdf)][:dizzy:]
 
 ### Others
+- (IEEE Transactions on Image Processing18) Occlusion aware facial expression recognition using
+CNN with attention mechanism [[paper](https://ieeexplore.ieee.org/document/8576656)]
 - Visual Saliency Maps Can Apply to Facial Expression Recognition [[paper](https://arxiv.org/pdf/1811.04544.pdf)]
 - (IEEE Access18) SMEConvNet: A Convolutional Neural Network
 for Spotting Spontaneous Facial
