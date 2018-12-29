@@ -366,6 +366,7 @@ Smile Detector [[paper](https://arxiv.org/pdf/1807.10570.pdf)]
 Support Vector Machines [[paper](http://www.ijcte.org/papers/640-W00031.pdf)]
 
 ### Painful Expression Intensity Estimation
+- (ICMI17) Cumulative Attributes for Pain Intensity Estimation [[paper](http://delivery.acm.org.eproxy.lib.hku.hk/10.1145/3140000/3136789/icmi17-sl-1970.pdf?ip=147.8.31.43&id=3136789&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1546047885_fc745f38ec1bb057ab8b2a0fc1062812)]
 - (CVPRW16)Recurrent Convolutional Neural Network Regression for Continuous Pain
 Intensity Estimation in Video[[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7789681)][:dizzy::dizzy::dizzy:]
 - (CVPRW15)Pain Recognition using Spatiotemporal Oriented Energy of Facial Muscles[[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7301340)]
@@ -381,12 +382,15 @@ Activity Descriptors [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stam
 
 
 ### Facial Action Unit Estimation
+- (TIP18) Facial Action Unit Recognition and Intensity Estimation Enhanced Through Label Dependencies [[paper](https://www.researchgate.net/publication/328548884_Facial_Action_Unit_Recognition_and_Intensity_Estimation_Enhanced_Through_Label_Dependencies)]
 - (BMVC18) Identity-based Adversarial Training of Deep
 CNNs for Facial Action Unit Recognition [[paper](http://bmvc2018.org/contents/papers/0741.pdf)]
 - (ICCV17) DeepCoder: Semi-parametric Variational Autoencoders
 for Automatic Facial Action Coding [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/tran_deepcoder_semi-parametric_variational_iccv_2017_paper.pdf)]
 - (FG2017) EAC-Net: A Region-based Deep Enhancing and Cropping Approach for
 Facial Action Unit Detection [[paper](https://arxiv.org/pdf/1702.02925.pdf)]
+- (Journal of Visual Communication and Image Representation 17) A joint dictionary learning and regression model for intensity estimation
+of facial AUs [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S1047320317301025/1-s2.0-S1047320317301025-main.pdf?_tid=737aee87-67c5-4beb-91bd-41f50c1c9d70&acdnat=1546048938_0bd273b5c0735d2eb21dd54502420008)]
 - (TIP16) Joint Patch and Multi-label Learning for Facial
 Action Unit and Holistic Expression Recognition [[paper](http://www.humansensing.cs.cmu.edu/sites/default/files/07471506.pdf)]
 - (ECCV18) Deep Structure Inference Network for Facial
@@ -397,9 +401,14 @@ Estimation [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.js
 Features for the Recognition of Facial Action
 Units and their Intensities [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8454901)]
 - (FG18) Edge Convolutional Network for Facial Action Intensity Estimation [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373827)]
+- (FG17) Support Vector Regression of Sparse Dictionary-Based Features for View-Independent Action Unit Intensity Estimation [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7961832)]
 - (FG17) Pose-independent Facial Action Unit Intensity Regression Based on
 Multi-task Deep Transfer Learning [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7961835)]
+- Region-based facial representation for real-time Action Units intensity detection across datasets [[paper](https://link-springer-com.eproxy.lib.hku.hk/content/pdf/10.1007%2Fs10044-017-0645-4.pdf)]
+- (ACII17) Local-Global Ranking for Facial Expression Intensity Estimation [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8273587)]
 - (FG15) How much training data for facial action unit detection? [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7163106)]
+- (FG15) Facial Action Units Intensity Estimation by the Fusion of Features with
+Multi-kernel Support Vector Machine [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7284870)]
 - (BMVC18) Joint Action Unit localisation and intensity
 estimation through heatmap regression [[paper](https://arxiv.org/pdf/1805.03487.pdf)] [[code](https://github.com/ESanchezLozano/Action-Units-Heatmaps)] [:dizzy::dizzy::dizzy::dizzy:]
 - (ECCV18) Deep Adaptive Attention for Joint Facial Action
@@ -436,6 +445,11 @@ person-specific facial action unit detection [[paper](http://openaccess.thecvf.c
 - Conditional Adversarial Synthesis of 3D Facial Action Units [[paper](https://arxiv.org/pdf/1802.07421.pdf)] [:dizzy::dizzy::dizzy:]
 - (NIPS 16)Incremental Boosting Convolutional Neural Network
 for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1707.05395.pdf)]
+- (Image and Vision Computing 12) Regression-based intensity estimation of facial action units [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0262885611001326/1-s2.0-S0262885611001326-main.pdf?_tid=6974cc5b-a5c5-49f8-80a9-48b64d737dd0&acdnat=1545987498_086c43fef2e7b676fb897f288013d1b4)]
+- (IEEE Transactions on Cybernetics 16) Intensity Estimation of Spontaneous Facial Action Units Based on Their Sparsity Properties [[paper](https://ieeexplore.ieee.org/document/7081360)]
+- (TPAMI 15) Context-Sensitive Dynamic Ordinal Regression
+for Intensity Estimation of Facial Action Units [[paper](https://spiral.imperial.ac.uk/bitstream/10044/1/23471/2/tpamicscorffinal_rudovic.pdf)]
+- (FG 17) AUMPNet: Simultaneous Action Units Detection and Intensity Estimation on Multipose Facial Images Using a Single Convolutional Neural Network [[paper](https://www.researchgate.net/publication/315952013_AUMPNet_Simultaneous_Action_Units_Detection_and_Intensity_Estimation_on_Multipose_Facial_Images_Using_a_Single_Convolutional_Neural_Network)]
 - Projects  [[Computer Expression Recognition Toolbox](http://mplab.ucsd.edu/~marni/Projects/CERT.htm)]  [[TAUD 2011](https://ibug.doc.ic.ac.uk/resources/temporal-based-action-unit-detection/)] [[LAUD 2010](https://ibug.doc.ic.ac.uk/resources/laud-programme-20102011/)] [[Openface](https://github.com/TadasBaltrusaitis/OpenFace)] [[Openface-Paper](OpenFace: an open source facial behavior analysis toolkit)]
 
 ## Attention
