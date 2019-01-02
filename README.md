@@ -77,6 +77,7 @@ Database and Benchmarks of Identification [[paper](https://ieeexplore-ieee-org.e
 Using Transfer Learning  [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373896)][:dizzy:]
 
 ### IEEE Trans on Affective Computing18 (Access Provided by Authenticated Institutes)
+- Deep Learning for Human Affect Recognition: Insights and New Developments [[paper](https://ieeexplore.ieee.org/document/8598999)]
 - Facial Expression Recognition with Identity and Emotion Joint Learning [[paper](https://ieeexplore.ieee.org/document/8528894)]
 - Unsupervised adaptation of a person-specific
 manifold of facial expressions [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8294217)][:dizzy::dizzy::dizzy:]
