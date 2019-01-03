@@ -1,3 +1,5 @@
+:cat:[Related Reviews](#related-reviews)
+
 :cat:[Facial Expression Recognition (FER)](#facial-expression-recognition)  
 
 :cat:[Cross-Dataset FER](#cross-dataset-fer)  
@@ -10,13 +12,13 @@
 
 :cat:[Affective Level Estimation](#affective-level-estimation)
 
-:cat:[Common Domain Adaptation](#common-domain-adaptation)
+## Related Reviews
 
-:cat:[Other Cross-Domain Tasks](#other-cross-domain-tasks)
-
-:cat:[Image to Video Adaptation](#image-to-video-adaptation)
-
-:cat:[Attention](#attention)
+- Deep Facial Expression Recognition: A Survey [[paper](https://arxiv.org/pdf/1804.08348.pdf)]
+- (IEEE Transactions on Affective Computing 19) Deep Learning for Human Affect Recognition: Insights and New Developments [[paper](https://ieeexplore.ieee.org/document/8598999)]
+- (IEEE Transactions on Affective Computing 18) Survey on Emotional Body Gesture Recognition [[paper](https://ieeexplore.ieee.org/document/8493586)]
+- A Brief Review of Facial Emotion Recognition Based on Visual Information
+[[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5856145/)]
 
 ## Facial Expression Recognition
 
@@ -495,67 +497,4 @@ Unsupervised Domain Adaptation:
 the Benefit of Target Expectation Maximization [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guoliang_Kang_Deep_Adversarial_Attention_ECCV_2018_paper.pdf)]
 - (ECCV18) Deep Adaptive Attention for Joint Facial Action
 Unit Detection and Face Alignment [[paper](https://arxiv.org/pdf/1803.05588.pdf)]
-
-
-
-## Common Domain Adaptation 
-
-### [[transfer Xlearn Lib code](https://github.com/thuml/Xlearn)]
-- (ICML 2015) Learning Transferable Features with Deep Adaptation Networks [[paper](https://arxiv.org/pdf/1502.02791.pdf)][:dizzy::dizzy:]
-- (NIPS 2016) Unsupervised Domain Adaptation with Residual Transfer Networks [[paper](https://arxiv.org/pdf/1602.04433.pdf)][:dizzy::dizzy:]
-- (ICML 2017) Deep Transfer Learning with Joint Adaptation Networks [[paper](https://arxiv.org/abs/1605.06636)][:dizzy::dizzy:]
-
-### Neurocomputing18
-- Deep Visual Domain Adaptation: A Survey [[paper](https://arxiv.org/pdf/1802.03601.pdf)][:dizzy::dizzy::dizzy:]
-
-### CVPR18
-- Residual Parameter Transfer for Deep Domain Adaptation [[paper](https://arxiv.org/pdf/1711.07714.pdf)][:dizzy::dizzy:]
-- Deep Cocktail Network:
-Multi-source Unsupervised Domain Adaptation with Category Shift [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Deep_Cocktail_Network_CVPR_2018_paper.pdf)][:dizzy::dizzy:]
-- Detach and Adapt: Learning Cross-Domain Disentangled Deep Representation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Detach_and_Adapt_CVPR_2018_paper.pdf)][:dizzy::dizzy::dizzy:]
-- Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.pdf)],[[code](https://github.com/mil-tokyo/MCD_DA)][:dizzy::dizzy:]
-- Adversarial Feature Augmentation for Unsupervised Domain Adaptation [[paper](https://arxiv.org/pdf/1711.08561.pdf)],[[code](https://github.com/ricvolpi/adversarial-feature-augmentation)][:dizzy::dizzy:]
-- Duplex Generative Adversarial Network for Unsupervised Domain Adaptation [[paper](http://vipl.ict.ac.cn/uploadfile/upload/2018041610083083.pdf)],[[code](http://vipl.ict.ac.cn/view_database.php?id=6)][:dizzy::dizzy:]
-- Generate To Adapt: Aligning Domains using Generative Adversarial Networks [[paper](https://arxiv.org/pdf/1704.01705.pdf)],[[code](https://github.com/yogeshbalaji/Generate_To_Adapt)][:dizzy::dizzy::dizzy:]
-- Feature Generating Networks for Zero-Shot Learning [[paper](https://arxiv.org/pdf/1712.00981.pdf)][:dizzy::dizzy::dizzy:]
-
-### AAAI18
--  Wasserstein Distance Guided Representation Learning
-for Domain Adaptation [[paper](https://arxiv.org/pdf/1707.01217.pdf)],[[code](https://github.com/RockySJ/WDGRL)][:dizzy::dizzy:]
-- Deep Asymmetric Transfer Network for Unbalanced Domain Adaptation [[paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/DATN.pdf)][:dizzy::dizzy:]
-
-### ICLR18
--  A DIRT-T APPROACH TO UNSUPERVISED DOMAIN
-ADAPTATION [[paper](https://arxiv.org/pdf/1802.08735.pdf)],[[code](https://github.com/RuiShu/dirt-t)][:dizzy:]
-
-### CVPR17
-- Adversarial Discriminative Domain Adaptation [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf)][:dizzy::dizzy:]
-
-### ICCV17
-- Associative Domain Adaptation [[paper](https://arxiv.org/pdf/1708.00938.pdf)],[[Supplementary](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Haeusser_Associative_Domain_Adaptation_ICCV_2017_supplemental.pdf)],[[code](https://github.com/haeusser/learning_by_association)][:dizzy::dizzy::dizzy:]
-
-
-## Other Cross-Domain Tasks
-
-### CVPR18
-- Deep Cost-Sensitive and Order-Preserving Feature Learning for Cross-Population Age Estimation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Deep_Cost-Sensitive_and_CVPR_2018_paper.pdf)][:dizzy::dizzy:]
-- Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification [[paper](https://arxiv.org/pdf/1711.07027v3.pdf)][:dizzy::dizzy::dizzy:]
-- Unsupervised Cross-dataset Person Re-identification by Transfer Learning of Spatial-Temporal Patterns [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lv_Unsupervised_Cross-Dataset_Person_CVPR_2018_paper.pdf)], [[code](https://github.com/ahangchen/TFusion)][:dizzy:]
-- Conditional Generative Adversarial Network for Structured Domain Adaptation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hong_Conditional_Generative_Adversarial_CVPR_2018_paper.pdf)][:dizzy::dizzy::dizzy:]
-
-### IJCAI18
-- Unsupervised Cross-Modality Domain Adaptation of ConvNets for Biomedical Image Segmentations with Adversarial Loss [[paper](https://arxiv.org/pdf/1804.10916.pdf)][:dizzy::dizzy::dizzy:]
-
-### ICCV17
--  Unsupervised domain adaptation for face recognition
-in unlabeled videos [[paper](https://arxiv.org/pdf/1708.02191.pdf)][:dizzy::dizzy:]
-
-### Others
--  Multi-task Mid-level Feature Alignment Network for Unsupervised Cross-Dataset Person Re-Identification [[paper](https://arxiv.org/pdf/1807.01440v1.pdf)][:dizzy::dizzy:]
-
-
-## Image to Video Adaptation 
-- (IEEE TRANSACTIONS ON CYBERNETICS 17) Semi-supervised image-to-video adaptation for video action recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7433457)][:dizzy::dizzy:]
-- (CVPR 2012) Exploiting Web Images for Event Recognition in Consumer Videos: A Multiple Source Domain Adaptation Approach [[paper](http://www.ee.columbia.edu/ln/dvmm/pubs/files/CVPR_Event.pdf)][:dizzy:]
-- (IJCAI18) Exploiting Images for Video Recognition with Hierarchical Generative Adversarial Networks [[paper](https://arxiv.org/pdf/1805.04384.pdf)][:dizzy::dizzy::dizzy:]
 
