@@ -192,6 +192,7 @@ with 3D Convolutional Neural Networks [[paper](https://affect.media.mit.edu/pdfs
 A Case Study on Facial Expression Generation [[paper](https://arxiv.org/pdf/1808.02992.pdf)] 
 
 ## Cross-Dataset FER 
+- (Neurocomputing18) Cross-domain Facial Expression Recognition via an Intra-category Common Feature and Inter-category Distinction feature Fusion Network [[paper](https://www.sciencedirect.com/science/article/pii/S0925231218314929)]
 - Cross-database non-frontal facial expression
 recognition based on transductive deep transfer
 learning [[paper](https://arxiv.org/pdf/1811.12774.pdf)]
