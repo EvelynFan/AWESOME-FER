@@ -23,6 +23,9 @@
 ## Facial Expression Recognition
 
 ### AAAI19
+- Mode Variational LSTM Robust to Unseen Modes of Variation: Application to
+Facial Expression Recognition [[paper](https://arxiv.org/pdf/1811.06937.pdf)]
+- Controllable Image-to-Video Translation: A Case Study on Facial Expression Generation [[paper](https://arxiv.org/pdf/1808.02992.pdf)]
 - CycleEmotionGAN: Emotional Semantic Consistency Preserved CycleGAN for Adapting
 Image Emotions [[paper]()]
 
@@ -369,6 +372,7 @@ Smile Detector [[paper](https://arxiv.org/pdf/1807.10570.pdf)]
 Support Vector Machines [[paper](http://www.ijcte.org/papers/640-W00031.pdf)]
 
 ### Painful Expression Intensity Estimation
+- (IEEE Transactions on Affective Computing 19) Multi-modal Pain Intensity Recognition based on the SenseEmotion Database [[paper](https://ieeexplore.ieee.org/document/8607037)]
 - (ICMI17) Cumulative Attributes for Pain Intensity Estimation [[paper](http://delivery.acm.org.eproxy.lib.hku.hk/10.1145/3140000/3136789/icmi17-sl-1970.pdf?ip=147.8.31.43&id=3136789&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1546047885_fc745f38ec1bb057ab8b2a0fc1062812)]
 - (CVPRW16)Recurrent Convolutional Neural Network Regression for Continuous Pain
 Intensity Estimation in Video[[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7789681)][:dizzy::dizzy::dizzy:]
@@ -392,6 +396,8 @@ CNNs for Facial Action Unit Recognition [[paper](http://bmvc2018.org/contents/pa
 for Automatic Facial Action Coding [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/tran_deepcoder_semi-parametric_variational_iccv_2017_paper.pdf)]
 - (FG2017) EAC-Net: A Region-based Deep Enhancing and Cropping Approach for
 Facial Action Unit Detection [[paper](https://arxiv.org/pdf/1702.02925.pdf)]
+- (Pattern Recognition 17) Feature and label relation modeling for multiple-facial action unit
+classification and intensity estimation [[paper](https://www.ecse.rpi.edu/~cvrl/Publication/pdf/Wang2017a.pdf)]
 - (Journal of Visual Communication and Image Representation 17) A joint dictionary learning and regression model for intensity estimation
 of facial AUs [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S1047320317301025/1-s2.0-S1047320317301025-main.pdf?_tid=737aee87-67c5-4beb-91bd-41f50c1c9d70&acdnat=1546048938_0bd273b5c0735d2eb21dd54502420008)]
 - (TIP16) Joint Patch and Multi-label Learning for Facial
