@@ -1,3 +1,7 @@
+:cat:[FER Datasets](#fer-datasets)
+
+:cat:[FER Challenges](#fer-challenges)
+
 :cat:[Related Reviews](#related-reviews)
 
 :cat:[Facial Expression Recognition (FER)](#facial-expression-recognition)  
@@ -6,11 +10,37 @@
 
 :cat:[Differences in FER](#differences-in-fer)  
 
-:cat:[FER Datasets](#fer-datasets)
-
-:cat:[FER Challenges](#fer-challenges)
-
 :cat:[Affective Level Estimation](#affective-level-estimation)
+
+## FER Datasets
+- [Jaffe](http://www.kasrl.org/jaffe.html)
+- [FER-2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)
+- [MMI Facial Expression Database](https://www.mmifacedb.eu/)
+- [Cohn-Kanade Expression Database](http://www.pitt.edu/~emotion/ck-spread.htm)
+- [Oulu-CASIA NIR&VIS facial expression database](http://www.cse.oulu.fi/CMV/Downloads/Oulu-CASIA)
+- [Multi-PIE](http://www.flintbox.com/public/project/4742/)
+- [BU-3DFE (Binghamton University 3D Facial Expression) Database](http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)
+- [Real-world Affective Faces (RAF) Database](http://www.whdeng.cn/RAF/model1.html)
+- [AffectNet](http://mohammadmahoor.com/affectnet/)
+- [EmotioNet Database](http://cbcsl.ece.ohio-state.edu/dbform_emotionet.html)
+- [The Radboud Faces Database (RaFD)](http://www.socsci.ru.nl:8180/RaFD2/RaFD)
+- [Aff-Wild data](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)
+- A novel database of Children’s Spontaneous Facial Expressions (LIRIS-CSE) [[paper](https://arxiv.org/pdf/1812.01555.pdf)]
+
+## FER Challenges
+- [Emotion Recognition in the Wild Challenge (EmotiW) @ ICMI](https://sites.google.com/view/emotiw2018)
+    + [EmotiW 2018](https://sites.google.com/view/emotiw2018)        
+    + [EmotiW 2017](https://sites.google.com/site/emotiwchallenge/)
+    + [EmotiW 2016](https://sites.google.com/site/emotiw2016/)
+    + [EmotiW 2015](https://cs.anu.edu.au/few/emotiw2015.html)
+    + [EmotiW 2014](https://cs.anu.edu.au/few/emotiw2014.html)
+    + [EmotiW 2013](https://cs.anu.edu.au/few/emotiw.html)
+- [Audio/Visual Emotion Challenge (AVEC) @ ACM MM](https://sites.google.com/view/avec2018)
+- [Facial Expression Recognition and Analysis Challenge (FERA) @ FG](http://www.fg2017.org/index.php/challenges/)
+- [One-Minute Gradual-Emotion Behavior Challenge @ IJCNN](https://www2.informatik.uni-hamburg.de/wtm/OMG-EmotionChallenge/)
+- [EmotioNet Challenge](http://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/index.html)
+- [Real Versus Fake Expressed Emotions @ ICCV](http://openaccess.thecvf.com/ICCV2017_workshops/ICCV2017_W44.py)
+- [Affect-in-the-Wild Challenge @ CVPR](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)
 
 ## Related Reviews
 
@@ -61,7 +91,22 @@ on-the-Fly Prediction [[paper](https://arxiv.org/pdf/1711.10914.pdf)][:dizzy:]
 ### IJCAI18
 - Personality-Aware Personalized Emotion Recognition from Physiological Signals [[paper](https://www.ijcai.org/proceedings/2018/0230.pdf)]
 
+### BMVC18
+- Feature Selection Mechanism in CNNs for Facial Expression Recognition [[paper](http://bmvc2018.org/contents/workshops/iahfar2018/0011.pdf)]
+
+### ICMI18
+- Multi-Feature Based Emotion Recognition for Video Clips [[paper](http://delivery.acm.org/10.1145/3270000/3264989/p630-liu.pdf?ip=118.140.125.72&id=3264989&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E65B561F191013DD0&__acm__=1545619250_535c23ee84805ca9482eaf3dc8bc1590)]
+- Video-based Emotion Recognition Using Deeply-Supervised Neural Networks [[paper](https://dl.acm.org/citation.cfm?id=3264978)]
+- Multiple Spatio-temporal Feature Learning for Video-based Emotion Recognition in the Wild [[paper](https://dl.acm.org/citation.cfm?id=3264992)]
+- An Occam’s Razor View on Learning Audiovisual Emotion
+Recognition with Small Training Sets [[paper](https://arxiv.org/pdf/1808.02668.pdf)]
+- Group-Level Emotion Recognition Using Hybrid Deep Models Based on Faces, Scenes, Skeletons and Visual Attentions [[paper](https://dl.acm.org/citation.cfm?id=3264990)]
+- Cascade Attention Networks For Group Emotion Recognition with Face, Body and Image Cues [[paper](https://dl.acm.org/citation.cfm?id=3264991)]
+- Group-Level Emotion Recognition using Deep Models with A Four-stream Hybrid Network [[paper](https://dl.acm.org/citation.cfm?id=3264987)]
+- An Attention Model for group-level emotion recognition[[paper](https://arxiv.org/abs/1807.03380)]
+
 ### FG18 (Access Provided by Authenticated Institutes)
+- Island Loss for Learning Discriminative Features in Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/8373844)]
 - Multi-Channel Pose-Aware Convolution Neural Networks for Multi-View Facial Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373867)][:dizzy:]
 - Automatic 4D Facial Expression Recognition using Dynamic
 Geometrical Image Network [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373807)][:dizzy:]
@@ -98,6 +143,13 @@ Method for Intensity Estimation of Facial AUs [[paper](https://ieeexplore-ieee-o
 - Facial Expression Recognition in Video
 with Multiple Feature Fusion [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7518582)][:dizzy::dizzy:]
 
+### IEEE Access18
+- SMEConvNet: A Convolutional Neural Network
+for Spotting Spontaneous Facial
+Micro-Expression From Long Videos [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8522030)]
+- Dominant and Complementary Emotion
+Recognition From Still Images of Faces [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8352857)]
+
 ### CVPR17
 - Reliable Crowdsourcing and Deep Locality-Preserving Learning for Expression
 Recognition in the Wild [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Reliable_Crowdsourcing_and_CVPR_2017_paper.pdf)][:dizzy:]
@@ -133,6 +185,12 @@ Spontaneous Facial Expression Database [[paper](https://ieeexplore-ieee-org.epro
 - Implicit Media Tagging and Affect Prediction from RGB-D video of
 spontaneous facial expressions [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7961813)][:dizzy::dizzy:]
 
+### ICMI17
+- Learning supervised scoring ensemble for emotion recognition in the wild [[paper](https://dl.acm.org/citation.cfm?id=3143009)]
+- Convolutional neural networks pretrained on large face recognition datasets for emotion classification from video [[paper](https://arxiv.org/abs/1711.04598)]
+- Temporal Multimodal Fusion for Video Emotion Classification in the Wild [[paper](https://arxiv.org/pdf/1709.07200.pdf)]
+- Emotion recognition with multimodal features and temporal models [[paper](https://dl.acm.org/citation.cfm?doid=3136755.3143016)]
+- Audio-visual emotion recognition using deep transfer learning and multiple temporal models [[paper](https://dl.acm.org/citation.cfm?doid=3136755.3143012)]
 
 ### CVPR16
 - LOMo: Latent Ordinal Model for Facial Analysis in Videos [[paper](http://www.grvsharma.com/hpresources/lomo_cvpr16_arxiv.pdf)][:dizzy:]
@@ -173,9 +231,6 @@ Muscles for Facial Expression Recognition [[paper](http://f4k.dieei.unict.it/pro
 - (IEEE Transactions on Image Processing18) Occlusion aware facial expression recognition using
 CNN with attention mechanism [[paper](https://ieeexplore.ieee.org/document/8576656)]
 - Visual Saliency Maps Can Apply to Facial Expression Recognition [[paper](https://arxiv.org/pdf/1811.04544.pdf)]
-- (IEEE Access18) SMEConvNet: A Convolutional Neural Network
-for Spotting Spontaneous Facial
-Micro-Expression From Long Videos [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8522030)]
 - (Google AI) A Compact Embedding for Facial Expression Similarity [[paper](https://arxiv.org/pdf/1811.11283.pdf)]
 - (submission to IJCAI-ECAI 2018) Geometry-Contrastive Generative Adversarial Network for Facial Expression Synthesis [[paper](https://arxiv.org/abs/1802.01822)][:dizzy::dizzy::dizzy:]
 -  Deep Facial Expression Recognition: A Survey [[paper](https://arxiv.org/pdf/1804.08348.pdf)][:dizzy::dizzy:]
@@ -235,54 +290,6 @@ Cross-Dataset Hybrid Training[[paper](http://delivery.acm.org.eproxy1.lib.hku.hk
 
 ## Differences in FER
 - Differences in Facial Emotional Recognition Between Patients With the First-Episode Psychosis, Multi-episode Schizophrenia, and Healthy Controls [[paper](https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/differences-in-facial-emotional-recognition-between-patients-with-the-firstepisode-psychosis-multiepisode-schizophrenia-and-healthy-controls/08C019C4C4E210BFBBDEA950031BA5E3)]
-
-## FER Datasets
-- [Jaffe](http://www.kasrl.org/jaffe.html)
-- [FER-2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)
-- [MMI Facial Expression Database](https://www.mmifacedb.eu/)
-- [Cohn-Kanade Expression Database](http://www.pitt.edu/~emotion/ck-spread.htm)
-- [Oulu-CASIA NIR&VIS facial expression database](http://www.cse.oulu.fi/CMV/Downloads/Oulu-CASIA)
-- [Multi-PIE](http://www.flintbox.com/public/project/4742/)
-- [BU-3DFE (Binghamton University 3D Facial Expression) Database](http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)
-- [Real-world Affective Faces (RAF) Database](http://www.whdeng.cn/RAF/model1.html)
-- [AffectNet](http://mohammadmahoor.com/affectnet/)
-- [EmotioNet Database](http://cbcsl.ece.ohio-state.edu/dbform_emotionet.html)
-- [The Radboud Faces Database (RaFD)](http://www.socsci.ru.nl:8180/RaFD2/RaFD)
-- [Aff-Wild data](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)
-- A novel database of Children’s Spontaneous Facial Expressions (LIRIS-CSE) [[paper](https://arxiv.org/pdf/1812.01555.pdf)]
-
-## FER Challenges
-- [Emotion Recognition in the Wild Challenge (EmotiW) @ ICMI](https://sites.google.com/view/emotiw2018)
-    + [EmotiW 2018](https://sites.google.com/view/emotiw2018)
-        * [Details](https://arxiv.org/pdf/1808.07773.pdf)
-        * Multi-Feature Based Emotion Recognition for Video Clips [[paper](http://delivery.acm.org/10.1145/3270000/3264989/p630-liu.pdf?ip=118.140.125.72&id=3264989&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E65B561F191013DD0&__acm__=1545619250_535c23ee84805ca9482eaf3dc8bc1590)]
-        * Video-based Emotion Recognition Using Deeply-Supervised Neural Networks [[paper](https://dl.acm.org/citation.cfm?id=3264978)]
-        * Multiple Spatio-temporal Feature Learning for Video-based Emotion Recognition in the Wild [[paper](https://dl.acm.org/citation.cfm?id=3264992)]
-        * An Occam’s Razor View on Learning Audiovisual Emotion
-Recognition with Small Training Sets [[paper](https://arxiv.org/pdf/1808.02668.pdf)]
-        * Group-Level Emotion Recognition Using Hybrid Deep Models Based on Faces, Scenes, Skeletons and Visual Attentions [[paper](https://dl.acm.org/citation.cfm?id=3264990)]
-        * Cascade Attention Networks For Group Emotion Recognition with Face, Body and Image Cues [[paper](https://dl.acm.org/citation.cfm?id=3264991)]
-        * Group-Level Emotion Recognition using Deep Models with A Four-stream Hybrid Network [[paper](https://dl.acm.org/citation.cfm?id=3264987)]
-        * An Attention Model for group-level emotion recognition[[paper](https://arxiv.org/abs/1807.03380)]
-        
-    + [EmotiW 2017](https://sites.google.com/site/emotiwchallenge/)
-        * [Details](https://drive.google.com/file/d/1-mVVbabm8ePTMJKwO0itdMXB3j5vEw7h/view)
-        * Learning supervised scoring ensemble for emotion recognition in the wild [[paper](https://dl.acm.org/citation.cfm?id=3143009)]
-        * Convolutional neural networks pretrained on large face recognition datasets for emotion classification from video [[paper](https://arxiv.org/abs/1711.04598)]
-        * Temporal Multimodal Fusion for Video Emotion Classification in the Wild [[paper](https://arxiv.org/pdf/1709.07200.pdf)]
-        * Emotion recognition with multimodal features and temporal models [[paper](https://dl.acm.org/citation.cfm?doid=3136755.3143016)]
-        * Audio-visual emotion recognition using deep transfer learning and multiple temporal models [[paper](https://dl.acm.org/citation.cfm?doid=3136755.3143012)]
-
-    + [EmotiW 2016](https://sites.google.com/site/emotiw2016/)
-    + [EmotiW 2015](https://cs.anu.edu.au/few/emotiw2015.html)
-    + [EmotiW 2014](https://cs.anu.edu.au/few/emotiw2014.html)
-    + [EmotiW 2013](https://cs.anu.edu.au/few/emotiw.html)
-- [Audio/Visual Emotion Challenge (AVEC) @ ACM MM](https://sites.google.com/view/avec2018)
-- [Facial Expression Recognition and Analysis Challenge (FERA) @ FG](http://www.fg2017.org/index.php/challenges/)
-- [One-Minute Gradual-Emotion Behavior Challenge @ IJCNN](https://www2.informatik.uni-hamburg.de/wtm/OMG-EmotionChallenge/)
-- [EmotioNet Challenge](http://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/index.html)
-- [Real Versus Fake Expressed Emotions @ ICCV](http://openaccess.thecvf.com/ICCV2017_workshops/ICCV2017_W44.py)
-- [Affect-in-the-Wild Challenge @ CVPR](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)
 
 ## Affective Level Estimation
 
