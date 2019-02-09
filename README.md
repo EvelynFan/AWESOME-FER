@@ -59,6 +59,9 @@ Facial Expression Recognition [[paper](https://arxiv.org/pdf/1811.06937.pdf)]
 - CycleEmotionGAN: Emotional Semantic Consistency Preserved CycleGAN for Adapting
 Image Emotions [[paper]()]
 
+### IEEE Access19
+- cGAN Based Facial Expression Recognition for Human-Robot Interaction [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8606936)]
+
 ### ACM MM18
 - Fast and Light Manifold CNN based 3D Facial Expression Recognition across Pose Variations [[paper](https://dl.acm.org/citation.cfm?id=3240568)]
 - Facial Expression Recognition in the Wild: A Cycle-Consistent Adversarial Attention Transfer Approach [[paper](https://dl.acm.org/citation.cfm?id=3240574)]
@@ -71,9 +74,6 @@ Image Emotions [[paper]()]
 - Contemplating Visual Emotions: Understanding and Overcoming Dataset Bias [[paper](https://arxiv.org/pdf/1808.02212.pdf)]
 - Deep Multi-Task Learning to Recognise Subtle
 Facial Expressions of Mental States [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guosheng_Hu_Deep_Multi-Task_Learning_ECCV_2018_paper.pdf)]
-
-### ICML18 
-- Video Prediction with Appearance and Motion Conditions [[paper](https://arxiv.org/pdf/1807.02635.pdf)],[[project](https://sites.google.com/vision.snu.ac.kr/icml2018-video-prediction)][:dizzy::dizzy:]
 
 ### CVPR18
 - Facial Expression Recognition by De-expression Residue Learning [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Facial_Expression_Recognition_CVPR_2018_paper.pdf)][:dizzy::dizzy::dizzy:]
