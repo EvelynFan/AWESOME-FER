@@ -8,7 +8,7 @@
 
 :cat:[Cross-Dataset FER](#cross-dataset-fer)  
 
-:cat:[Differences in FER](#differences-in-fer)  
+:cat:[Facial Action Unit Recognition](#facial-action-unit-recognition)  
 
 :cat:[Affective Level Estimation](#affective-level-estimation)
 
@@ -44,10 +44,14 @@
 
 ## Related Reviews
 
-- Deep Facial Expression Recognition: A Survey [[paper](https://arxiv.org/pdf/1804.08348.pdf)]
+- (ACM Computing Surveys 19) Facial Expression Analysis under Partial Occlusion: A Survey [[paper](https://arxiv.org/pdf/1802.08784.pdf)]
 - (IEEE Transactions on Affective Computing 19) Deep Learning for Human Affect Recognition: Insights and New Developments [[paper](https://ieeexplore.ieee.org/document/8598999)]
 - (IEEE Transactions on Affective Computing 18) Survey on Emotional Body Gesture Recognition [[paper](https://ieeexplore.ieee.org/document/8493586)]
+- (IEEE Transactions on Affective Computing 17)Automatic Analysis of Facial Actions: A Survey [[paper](https://ieeexplore.ieee.org/document/7990582)]
 - (IEEE Transactions on Pattern Analysis and Machine Intelligence 16) Survey on RGB, 3D, Thermal, and Multimodal Approaches for Facial Expression Recognition: History, Trends, and Affect-Related Applications[[paper](https://ieeexplore.ieee.org/document/7374704)]
+- (Image and Vision Computing 13) Categorical and dimensional affect analysis in continuous input: Current trends and future directions [[paper](https://www.sciencedirect.com/science/article/pii/S0262885612001084)]
+- (FG 11) Emotion representation, analysis and synthesis in continuous space: A survey [[paper](https://ieeexplore.ieee.org/document/5771357)]
+- Deep Facial Expression Recognition: A Survey [[paper](https://arxiv.org/pdf/1804.08348.pdf)]
 
 ## Facial Expression Recognition
 
@@ -143,10 +147,10 @@ Recognition with Small Training Sets [[paper](https://arxiv.org/pdf/1808.02668.p
 ### FG
 - (2018) Facial Expression Grounded Conversational Dialogue Generation[[paper](https://ieeexplore.ieee.org/document/8373852)]
 - (2018) Island Loss for Learning Discriminative Features in Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/8373844)]
-- (2018) Multi-Channel Pose-Aware Convolution Neural Networks for Multi-View Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/8373867)][:dizzy:]
+- (2018) Multi-Channel Pose-Aware Convolution Neural Networks for Multi-View Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/8373867)][:dizzy::dizzy::dizzy:]
 - (2018) Automatic 4D Facial Expression Recognition using Dynamic
 Geometrical Image Network [[paper](https://ieeexplore.ieee.org/document/8373807)][:dizzy:]
-- (2018) ExpNet: Landmark-Free, Deep, 3D Facial Expressions [[paper](https://ieeexplore.ieee.org/document/8373820)][:dizzy:]
+- (2018) ExpNet: Landmark-Free, Deep, 3D Facial Expressions [[paper](https://ieeexplore.ieee.org/document/8373820)][[code](https://github.com/fengju514/Expression-Net)][:dizzy:]
 - (2018) Perceptual Facial Expression Representation [[paper](https://ieeexplore.ieee.org/document/8373828)][:dizzy:]
 - (2018) Emotion-Preserving Representation Learning via Generative Adversarial Network
 for Multi-view Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/8373839)][:dizzy::dizzy:]
@@ -180,6 +184,9 @@ spontaneous facial expressions [[paper](https://ieeexplore.ieee.org/document/796
 Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7163101)][:dizzy:]
 
 ### IEEE Trans on Affective Computing 
+- (2018) Heterogeneous Knowledge Transfer
+in Video Emotion Recognition,
+Attribution and Summarization [[paper](https://ieeexplore.ieee.org/document/7723914)][:dizzy::dizzy::dizzy:]
 - (2018) Emotion Recognition in Simulated Social Interactions [[paper](https://ieeexplore.ieee.org/document/8319988)]
 - (2018) Co-clustering to reveal salient facial features for expression recognition[[paper](https://ieeexplore.ieee.org/document/8186192)]
 - (2018) Facial Expression Recognition with Identity and Emotion Joint Learning [[paper](https://ieeexplore.ieee.org/document/8528894)]
@@ -218,9 +225,14 @@ CNN with attention mechanism [[paper](https://ieeexplore.ieee.org/document/85766
 - (2017) Facial Expression Recognition Based on Deep
 Evolutional Spatial-Temporal Networks [[paper](https://ieeexplore.ieee.org/document/7890464)]
 - (2013) Simultaneous Facial Feature Tracking and Facial Expression Recognition [[paper](https://www.researchgate.net/publication/236080803_Simultaneous_Facial_Feature_Tracking_and_Facial_Expression_Recognition)]
+- (2005) Active and Dynamic Information Fusion
+for Facial Expression Understanding
+from Image Sequences [[paper](https://ieeexplore.ieee.org/document/1407874)]
 
 ### IEEE Transactions on Multimedia
 - (2019) Facial Expression Recognition Using Hierarchical Features With Deep Comprehensive Multipatches Aggregation Convolutional Neural Networks [[paper](https://ieeexplore.ieee.org/document/8371638)]
+- (2018) MixedEmotions: An Open-Source Toolbox for
+Multimodal Emotion Analysis [[paper](https://ieeexplore.ieee.org/document/8269329)]
 
 ### Computer Vision and Image Understanding
 - (2019) Registration-free Face-SSD: Single shot analysis of smiles, facial attributes, and affect in the wild[[paper](https://www.sciencedirect.com/science/article/pii/S1077314219300128)]
@@ -229,7 +241,8 @@ Evolutional Spatial-Temporal Networks [[paper](https://ieeexplore.ieee.org/docum
 - (2015) Learning Multiscale Active Facial Patches for Expression Analysis[[paper](https://ieeexplore.ieee.org/document/6912969)]
 
 ### Others
-
+- (IEEE Journal of Selected Topics in Signal Processing17) End-to-End Multimodal Emotion Recognition
+using Deep Neural Networks [[paper](https://arxiv.org/pdf/1704.08619.pdf)],[[code](https://github.com/tzirakis/Multimodal-Emotion-Recognition)]
 
 ## Cross-Dataset FER 
 - (Neurocomputing18) Cross-domain Facial Expression Recognition via an Intra-category Common Feature and Inter-category Distinction feature Fusion Network [[paper](https://www.sciencedirect.com/science/article/pii/S0925231218314929)]
@@ -270,8 +283,101 @@ Expression [[paper](http://delivery.acm.org.eproxy1.lib.hku.hk/10.1145/3140000/3
 - ACM MM 2017 Integrated Face Analytics Networks through
 Cross-Dataset Hybrid Training[[paper](http://delivery.acm.org.eproxy1.lib.hku.hk/10.1145/3130000/3123438/p1531-li.pdf?ip=147.8.31.43&id=3123438&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1530997759_33591edce0f41f32f5c70d5902b2dd01#URLTOKEN#)][:dizzy::dizzy:]
 
-## Differences in FER
-- Differences in Facial Emotional Recognition Between Patients With the First-Episode Psychosis, Multi-episode Schizophrenia, and Healthy Controls [[paper](https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/differences-in-facial-emotional-recognition-between-patients-with-the-firstepisode-psychosis-multiepisode-schizophrenia-and-healthy-controls/08C019C4C4E210BFBBDEA950031BA5E3)]
+## Facial Action Unit Recognition
+
+### CVPR
+- (2018) Weakly-supervised Deep Convolutional Neural Network Learning
+for Facial Action Unit Intensity Estimation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Weakly-Supervised_Deep_Convolutional_CVPR_2018_paper.pdf)]
+- (2018) Learning Facial Action Units from Web Images with
+Scalable Weakly Supervised Clustering [[paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0237.pdf)]
+- (2018) Classifier Learning with Prior Probabilities
+for Facial Action Unit Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Classifier_Learning_With_CVPR_2018_paper.pdf)]
+- (2018) Bilateral Ordinal Relevance Multi-instance Regression
+for Facial Action Unit Intensity Estimation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Bilateral_Ordinal_Relevance_CVPR_2018_paper.pdf)]
+- (2018) Weakly Supervised Facial Action Unit Recognition through Adversarial Training [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Peng_Weakly_Supervised_Facial_CVPR_2018_paper.pdf)]
+- (2017) Deep Structured Learning for Facial Action Unit Intensity Estimation [[paper](https://arxiv.org/pdf/1704.04481.pdf)]
+- (2017) Action Unit Detection with Region Adaptation, Multi-labeling Learning and Optimal Temporal Fusing [[paper](https://arxiv.org/pdf/1704.03067.pdf)]
+- (2016) Deep Region and Multi-label Learning for Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhao_Deep_Region_and_CVPR_2016_paper.pdf)] [[code](https://github.com/zkl20061823/DRML)] [[code2](https://github.com/AlexHex7/DRML_pytorch)]
+- (2016) Constrained Joint Cascade Regression Framework for Simultaneous Facial
+Action Unit Recognition and Facial Landmark Detection [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Wu_Constrained_Joint_Cascade_CVPR_2016_paper.pdf)]
+- (2016) Copula Ordinal Regression
+for Joint Estimation of Facial Action Unit Intensity [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/copula_ordinal_regression__cvpr2016_final.pdf)] [[code](https://github.com/RWalecki/copula_ordinal_regression)]
+- (2015) Latent Trees for Estimating Intensity of Facial Action Units [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/kaltwang2015latent.pdf)][[code](https://github.com/kaltwang/latenttrees)]
+- (2015) Joint Patch and Multi-label Learning for Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_cvpr_2015/papers/Zhao_Joint_Patch_and_2015_CVPR_paper.pdf)]
+
+### ICCV
+- (2017) DeepCoder: Semi-parametric Variational Autoencoders
+for Automatic Facial Action Coding [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/tran_deepcoder_semi-parametric_variational_iccv_2017_paper.pdf)]
+- (2017) Deep Facial Action Unit Recognition from Partially Labeled Data [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Deep_Facial_Action_ICCV_2017_paper.pdf)]
+- (2015) Learning to transfer: transferring latent task structures and its application to
+person-specific facial action unit detection [[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Almaev_Learning_to_Transfer_ICCV_2015_paper.pdf)]
+- (2015) Multi-conditional Latent Variable Model for Joint Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Eleftheriadis_Multi-Conditional_Latent_Variable_ICCV_2015_paper.pdf)]
+- (2015) Confidence Preserving Machine for Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Zeng_Confidence_Preserving_Machine_ICCV_2015_paper.pdf)]
+
+### ECCV
+- (2018) Deep Structure Inference Network for Facial
+Action Unit Recognition [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ciprian_Corneanu_Deep_Structure_Inference_ECCV_2018_paper.pdf)]
+- (2018) Deep Adaptive Attention for Joint Facial Action
+Unit Detection and Face Alignment[[paper](https://arxiv.org/pdf/1803.05588.pdf)] 
+
+### ACM MM
+- (2018) Personalized Multiple Facial Action Unit Recognition through
+Generative Adversarial Recognition Network [[paper](https://dl.acm.org/citation.cfm?id=3240613)]
+
+### BMVC
+- (2018) Identity-based Adversarial Training of Deep
+CNNs for Facial Action Unit Recognition [[paper](http://bmvc2018.org/contents/papers/0741.pdf)]
+- (2018) Joint Action Unit localisation and intensity
+estimation through heatmap regression [[paper](https://arxiv.org/pdf/1805.03487.pdf)] [[code](https://github.com/ESanchezLozano/Action-Units-Heatmaps)] [:dizzy::dizzy::dizzy::dizzy:]
+
+### FG
+- (2018) Edge Convolutional Network for Facial Action Intensity Estimation [[paper](https://ieeexplore.ieee.org/document/8373827/)]
+- (2017) Support Vector Regression of Sparse Dictionary-Based Features for View-Independent Action Unit Intensity Estimation [[paper](https://ieeexplore.ieee.org/document/7961832)]
+- (2017) Pose-independent Facial Action Unit Intensity Regression Based on
+Multi-task Deep Transfer Learning [[paper](https://ieeexplore.ieee.org/document/7961835)]
+- (2017) AUMPNet: Simultaneous Action Units Detection and Intensity Estimation on Multipose Facial Images Using a Single Convolutional Neural Network [[paper](https://www.researchgate.net/publication/315952013_AUMPNet_Simultaneous_Action_Units_Detection_and_Intensity_Estimation_on_Multipose_Facial_Images_Using_a_Single_Convolutional_Neural_Network)]
+- (2017) EAC-Net: A Region-based Deep Enhancing and Cropping Approach for
+Facial Action Unit Detection [[paper](https://arxiv.org/pdf/1702.02925.pdf)]
+- (2015) Deep Learning based FACS Action Unit Occurrence and Intensity
+Estimation [[paper](https://ieeexplore.ieee.org/document/7284873)]
+- (2015) How much training data for facial action unit detection? [[paper](https://ieeexplore.ieee.org/document/7163106)]
+- (2015) Facial Action Units Intensity Estimation by the Fusion of Features with Multi-kernel Support Vector Machine [[paper](https://ieeexplore.ieee.org/document/7284870)]
+
+### IEEE Transactions on Image Processing
+- (2018) Facial Action Unit Recognition and Intensity Estimation Enhanced Through Label Dependencies [[paper](https://www.researchgate.net/publication/328548884_Facial_Action_Unit_Recognition_and_Intensity_Estimation_Enhanced_Through_Label_Dependencies)]
+- (2016) Joint Patch and Multi-label Learning for Facial
+Action Unit and Holistic Expression Recognition [[paper](http://www.humansensing.cs.cmu.edu/sites/default/files/07471506.pdf)]
+
+### IEEE Transactions on Pattern Analysis and Machine Intelligence
+- (2015) Discriminant Functional Learning of Color
+Features for the Recognition of Facial Action
+Units and their Intensities [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8454901)]
+- (2015) Context-Sensitive Dynamic Ordinal Regression
+for Intensity Estimation of Facial Action Units [[paper](https://spiral.imperial.ac.uk/bitstream/10044/1/23471/2/tpamicscorffinal_rudovic.pdf)]
+
+### IEEE Transactions on Affective Computing
+- (2017) Copula Ordinal Regression Framework
+for Joint Estimation of Facial Action Unit Intensity[[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/07983431.pdf)]
+
+### Pattern Recognition 
+- (2017) Feature and label relation modeling for multiple-facial action unit
+classification and intensity estimation [[paper](https://www.ecse.rpi.edu/~cvrl/Publication/pdf/Wang2017a.pdf)]
+
+### Journal of Visual Communication and Image Representation 
+- (2017) A joint dictionary learning and regression model for intensity estimation of facial AUs [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S1047320317301025/1-s2.0-S1047320317301025-main.pdf?_tid=737aee87-67c5-4beb-91bd-41f50c1c9d70&acdnat=1546048938_0bd273b5c0735d2eb21dd54502420008)]
+
+### Others
+- Region-based facial representation for real-time Action Units intensity detection across datasets [[paper](https://link-springer-com.eproxy.lib.hku.hk/content/pdf/10.1007%2Fs10044-017-0645-4.pdf)]
+- (ACII17) Local-Global Ranking for Facial Expression Intensity Estimation [[paper](https://ieeexplore.ieee.org/abstract/document/8273587)]
+- (Pattern Recognition Letters14) Estimating smile intensity: A better way [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0167865514003080/1-s2.0-S0167865514003080-main.pdf?_tid=466ea9bb-1959-4710-ab74-07ed82680a91&acdnat=1534058715_90dafa3071b2a1097c2252da015b3c78)] [:dizzy::dizzy::dizzy::dizzy:]
+- (nccv15) Deep Learning based FACS Action Unit Occurrence and Intensity Estimation [[paper](http://www.nccv2015.nl/papers/nccv2015_p11.pdf)]
+- Conditional Adversarial Synthesis of 3D Facial Action Units [[paper](https://arxiv.org/pdf/1802.07421.pdf)] [:dizzy::dizzy::dizzy:]
+- (NIPS16) Incremental Boosting Convolutional Neural Network
+for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1707.05395.pdf)] 
+- (ICIP14) Facial action unit intensity estimation using rotation invariant features and regression analysis [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/document/7025276)]
+- (Image and Vision Computing 12) Regression-based intensity estimation of facial action units [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0262885611001326/1-s2.0-S0262885611001326-main.pdf?_tid=6974cc5b-a5c5-49f8-80a9-48b64d737dd0&acdnat=1545987498_086c43fef2e7b676fb897f288013d1b4)]
+- (IEEE Transactions on Cybernetics 16) Intensity Estimation of Spontaneous Facial Action Units Based on Their Sparsity Properties [[paper](https://ieeexplore.ieee.org/document/7081360)]
+- Projects  [[Computer Expression Recognition Toolbox](http://mplab.ucsd.edu/~marni/Projects/CERT.htm)]  [[TAUD 2011](https://ibug.doc.ic.ac.uk/resources/temporal-based-action-unit-detection/)] [[LAUD 2010](https://ibug.doc.ic.ac.uk/resources/laud-programme-20102011/)] [[Openface](https://github.com/TadasBaltrusaitis/OpenFace)] [[Openface-Paper](OpenFace: an open source facial behavior analysis toolkit)]
 
 ## Affective Level Estimation
 
@@ -303,7 +409,6 @@ Spontaneous Facial Expressions Collected In-the-Wild [[paper](https://affect.med
 Pittsburgh 4D Spontaneous Expression datase (BP4D) [[Website](http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)]
 - The UNBC-McMaster Shoulder Pain Expression
 Archive Database
-
 
 ### Challenges
 - Group-level happiness intensity recognition @ EmotiW16 [[Website](https://sites.google.com/site/emotiw2016/challenge-details)]
@@ -337,7 +442,6 @@ networks [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0925231218307926/1-s
 - (Neurocomputing16) A new descriptor of gradients Self-Similarity for smile detection
 in unconstrained scenarios [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0925231215014812/1-s2.0-S0925231215014812-main.pdf?_tid=ecccca49-644a-46f8-a5b4-6ed4c5fced2b&acdnat=1533202351_822998183c1e602b7006e0d7f7f124f1)]
 - (IEEE trans on Affective Computing11) Continuous Prediction of Spontaneous Affect from Multiple Cues and Modalities in Valence-Arousal Space [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=5740839)]
-
 
 ### Happiness (smile intensity estimation)
 - (IEEE Transactions on Pattern Analysis and Machine Intelligence 09) Toward Practical Smile Detection [[paper](https://ieeexplore.ieee.org/document/4785473)]
@@ -375,80 +479,6 @@ from Facial Expressions [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/s
 Units [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=6977516)]
 - (ieee trans on affective computing) Automatic Pain Assessment with Facial
 Activity Descriptors [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7423704)]
-
-
-### Facial Action Unit Estimation
-- (TIP18) Facial Action Unit Recognition and Intensity Estimation Enhanced Through Label Dependencies [[paper](https://www.researchgate.net/publication/328548884_Facial_Action_Unit_Recognition_and_Intensity_Estimation_Enhanced_Through_Label_Dependencies)]
-- (BMVC18) Identity-based Adversarial Training of Deep
-CNNs for Facial Action Unit Recognition [[paper](http://bmvc2018.org/contents/papers/0741.pdf)]
-- (ICCV17) DeepCoder: Semi-parametric Variational Autoencoders
-for Automatic Facial Action Coding [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/tran_deepcoder_semi-parametric_variational_iccv_2017_paper.pdf)]
-- (FG2017) EAC-Net: A Region-based Deep Enhancing and Cropping Approach for
-Facial Action Unit Detection [[paper](https://arxiv.org/pdf/1702.02925.pdf)]
-- (Pattern Recognition 17) Feature and label relation modeling for multiple-facial action unit
-classification and intensity estimation [[paper](https://www.ecse.rpi.edu/~cvrl/Publication/pdf/Wang2017a.pdf)]
-- (Journal of Visual Communication and Image Representation 17) A joint dictionary learning and regression model for intensity estimation
-of facial AUs [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S1047320317301025/1-s2.0-S1047320317301025-main.pdf?_tid=737aee87-67c5-4beb-91bd-41f50c1c9d70&acdnat=1546048938_0bd273b5c0735d2eb21dd54502420008)]
-- (TIP16) Joint Patch and Multi-label Learning for Facial
-Action Unit and Holistic Expression Recognition [[paper](http://www.humansensing.cs.cmu.edu/sites/default/files/07471506.pdf)]
-- (ECCV18) Deep Structure Inference Network for Facial
-Action Unit Recognition [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ciprian_Corneanu_Deep_Structure_Inference_ECCV_2018_paper.pdf)]
-- (FG15) Deep Learning based FACS Action Unit Occurrence and Intensity
-Estimation [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7284873)]
-- (TPAMI15) Discriminant Functional Learning of Color
-Features for the Recognition of Facial Action
-Units and their Intensities [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8454901)]
-- (FG18) Edge Convolutional Network for Facial Action Intensity Estimation [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8373827)]
-- (FG17) Support Vector Regression of Sparse Dictionary-Based Features for View-Independent Action Unit Intensity Estimation [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7961832)]
-- (FG17) Pose-independent Facial Action Unit Intensity Regression Based on
-Multi-task Deep Transfer Learning [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7961835)]
-- Region-based facial representation for real-time Action Units intensity detection across datasets [[paper](https://link-springer-com.eproxy.lib.hku.hk/content/pdf/10.1007%2Fs10044-017-0645-4.pdf)]
-- (ACII17) Local-Global Ranking for Facial Expression Intensity Estimation [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8273587)]
-- (FG15) How much training data for facial action unit detection? [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7163106)]
-- (FG15) Facial Action Units Intensity Estimation by the Fusion of Features with
-Multi-kernel Support Vector Machine [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7284870)]
-- (BMVC18) Joint Action Unit localisation and intensity
-estimation through heatmap regression [[paper](https://arxiv.org/pdf/1805.03487.pdf)] [[code](https://github.com/ESanchezLozano/Action-Units-Heatmaps)] [:dizzy::dizzy::dizzy::dizzy:]
-- (ECCV18) Deep Adaptive Attention for Joint Facial Action
-Unit Detection and Face Alignment[[paper](https://arxiv.org/pdf/1803.05588.pdf)] 
-- (CVPR 18) Weakly-supervised Deep Convolutional Neural Network Learning
-for Facial Action Unit Intensity Estimation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Weakly-Supervised_Deep_Convolutional_CVPR_2018_paper.pdf)]
-- (CVPR 18) Learning Facial Action Units from Web Images with
-Scalable Weakly Supervised Clustering [[paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0237.pdf)]
-- (CVPR 18) Classifier Learning with Prior Probabilities
-for Facial Action Unit Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Classifier_Learning_With_CVPR_2018_paper.pdf)]
-- (CVPR 18) Bilateral Ordinal Relevance Multi-instance Regression
-for Facial Action Unit Intensity Estimation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Bilateral_Ordinal_Relevance_CVPR_2018_paper.pdf)]
-- (CVPR 18) Weakly Supervised Facial Action Unit Recognition through Adversarial Training [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Peng_Weakly_Supervised_Facial_CVPR_2018_paper.pdf)]
-- (CVPR 2017) Deep Structured Learning for Facial Action Unit Intensity Estimation [[paper](https://arxiv.org/pdf/1704.04481.pdf)]
-- (CVPR 17) Action Unit Detection with Region Adaptation, Multi-labeling Learning and
-Optimal Temporal Fusing [[paper](https://arxiv.org/pdf/1704.03067.pdf)]
-- (ICCV 17) Deep Facial Action Unit Recognition from Partially Labeled Data [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Deep_Facial_Action_ICCV_2017_paper.pdf)]
-- (CVPR 16) Deep Region and Multi-label Learning for Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhao_Deep_Region_and_CVPR_2016_paper.pdf)] [[code](https://github.com/zkl20061823/DRML)] [[code2](https://github.com/AlexHex7/DRML_pytorch)]
-- (CVPR 16) Constrained Joint Cascade Regression Framework for Simultaneous Facial
-Action Unit Recognition and Facial Landmark Detection [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Wu_Constrained_Joint_Cascade_CVPR_2016_paper.pdf)]
-- (IEEE
-Transactions on Affective Computing17) Copula Ordinal Regression Framework
-for Joint Estimation of Facial Action Unit Intensity[[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/07983431.pdf)]
-- (CVPR16) Copula Ordinal Regression
-for Joint Estimation of Facial Action Unit Intensity [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/copula_ordinal_regression__cvpr2016_final.pdf)] [[code](https://github.com/RWalecki/copula_ordinal_regression)]
-- (CVPR 15) Latent Trees for Estimating Intensity of Facial Action Units [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/kaltwang2015latent.pdf)][[code](https://github.com/kaltwang/latenttrees)]
-- (ICCV 15) Learning to transfer: transferring latent task structures and its application to
-person-specific facial action unit detection [[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Almaev_Learning_to_Transfer_ICCV_2015_paper.pdf)]
--  (ICCV 15) Multi-conditional Latent Variable Model for Joint Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Eleftheriadis_Multi-Conditional_Latent_Variable_ICCV_2015_paper.pdf)]
--  (ICCV 15) Confidence Preserving Machine for Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Zeng_Confidence_Preserving_Machine_ICCV_2015_paper.pdf)]
-- Joint Patch and Multi-label Learning for Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_cvpr_2015/papers/Zhao_Joint_Patch_and_2015_CVPR_paper.pdf)]
-- (Pattern Recognition Letters14) Estimating smile intensity: A better way [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0167865514003080/1-s2.0-S0167865514003080-main.pdf?_tid=466ea9bb-1959-4710-ab74-07ed82680a91&acdnat=1534058715_90dafa3071b2a1097c2252da015b3c78)] [:dizzy::dizzy::dizzy::dizzy:]
-- (nccv15) Deep Learning based FACS Action Unit Occurrence and Intensity Estimation [[paper](http://www.nccv2015.nl/papers/nccv2015_p11.pdf)]
-- Conditional Adversarial Synthesis of 3D Facial Action Units [[paper](https://arxiv.org/pdf/1802.07421.pdf)] [:dizzy::dizzy::dizzy:]
-- (NIPS 16)Incremental Boosting Convolutional Neural Network
-for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1707.05395.pdf)]
-- (Image and Vision Computing 12) Regression-based intensity estimation of facial action units [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0262885611001326/1-s2.0-S0262885611001326-main.pdf?_tid=6974cc5b-a5c5-49f8-80a9-48b64d737dd0&acdnat=1545987498_086c43fef2e7b676fb897f288013d1b4)]
-- (IEEE Transactions on Cybernetics 16) Intensity Estimation of Spontaneous Facial Action Units Based on Their Sparsity Properties [[paper](https://ieeexplore.ieee.org/document/7081360)]
-- (TPAMI 15) Context-Sensitive Dynamic Ordinal Regression
-for Intensity Estimation of Facial Action Units [[paper](https://spiral.imperial.ac.uk/bitstream/10044/1/23471/2/tpamicscorffinal_rudovic.pdf)]
-- (FG 17) AUMPNet: Simultaneous Action Units Detection and Intensity Estimation on Multipose Facial Images Using a Single Convolutional Neural Network [[paper](https://www.researchgate.net/publication/315952013_AUMPNet_Simultaneous_Action_Units_Detection_and_Intensity_Estimation_on_Multipose_Facial_Images_Using_a_Single_Convolutional_Neural_Network)]
-- Projects  [[Computer Expression Recognition Toolbox](http://mplab.ucsd.edu/~marni/Projects/CERT.htm)]  [[TAUD 2011](https://ibug.doc.ic.ac.uk/resources/temporal-based-action-unit-detection/)] [[LAUD 2010](https://ibug.doc.ic.ac.uk/resources/laud-programme-20102011/)] [[Openface](https://github.com/TadasBaltrusaitis/OpenFace)] [[Openface-Paper](OpenFace: an open source facial behavior analysis toolkit)]
 
 ## Attention
 - (ACM MM17) Fine-Grained Recognition via Attribute-Guided Attentive
