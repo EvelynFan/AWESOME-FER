@@ -230,6 +230,10 @@ Evolutional Spatial-Temporal Networks [[paper](https://ieeexplore.ieee.org/docum
 for Facial Expression Understanding
 from Image Sequences [[paper](https://ieeexplore.ieee.org/document/1407874)]
 
+### Pattern Recognition
+- (2018) Conditional convolution neural network enhanced random forest for
+facial expression recognition [[paper](http://covis.cse.unt.edu/papers/2018Liu.pdf)]
+
 ### IEEE Transactions on Multimedia
 - (2019) Facial Expression Recognition Using Hierarchical Features With Deep Comprehensive Multipatches Aggregation Convolutional Neural Networks [[paper](https://ieeexplore.ieee.org/document/8371638)]
 - (2018) MixedEmotions: An Open-Source Toolbox for
