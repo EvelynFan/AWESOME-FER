@@ -233,6 +233,22 @@ from Image Sequences [[paper](https://ieeexplore.ieee.org/document/1407874)]
 ### Pattern Recognition
 - (2018) Conditional convolution neural network enhanced random forest for
 facial expression recognition [[paper](http://covis.cse.unt.edu/papers/2018Liu.pdf)]
+- (2018) Collaborative discriminative multi-metric learning for facial expression recognition in video [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320317300948)]
+- (2015) Multimodal learning for facial expression recognition [[paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031500151X)]
+- (2014) Facial expression recognition in dynamic sequences:
+An integrated approach [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320313003956)]
+
+### Neurocomputing
+- (2019) Cross-domain facial expression recognition via an intra-category
+common feature and inter-category Distinction feature fusion network [[paper](https://www.sciencedirect.com/science/article/pii/S0925231218314929)]
+- (2018) A visual attention based ROI detection method for facial expression
+recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231218303266)]
+- (2018) Spatio-temporal convolutional features with nested LSTM for facial
+expression recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231218308634)][:dizzy::dizzy::dizzy::dizzy:]
+- (2017) Emotion-modulated attention improves expression recognition: A deep learning model [[paper](https://www.sciencedirect.com/science/article/pii/S0925231217304551)]
+- (2017) An efficient unconstrained facial expression recognition algorithm
+based on Stack Binarized Auto-encoders and Binarized Neural
+Networks [[paper](https://www.sciencedirect.com/science/article/pii/S0925231217311785)]
 
 ### IEEE Transactions on Multimedia
 - (2019) Facial Expression Recognition Using Hierarchical Features With Deep Comprehensive Multipatches Aggregation Convolutional Neural Networks [[paper](https://ieeexplore.ieee.org/document/8371638)]
@@ -245,8 +261,15 @@ Multimodal Emotion Analysis [[paper](https://ieeexplore.ieee.org/document/826932
 ### IEEE Transactions on Cybernetics
 - (2015) Learning Multiscale Active Facial Patches for Expression Analysis[[paper](https://ieeexplore.ieee.org/document/6912969)]
 
+### Pattern Recognition Letters
+- (2019) Deep spatial-temporal feature fusion for facial expression recognition
+in static images [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865517303902)]
+
 ### Others
-- (IEEE Journal of Selected Topics in Signal Processing17) End-to-End Multimodal Emotion Recognition
+- (Neural Networks 2018) Affect recognition from facial movements and body gestures by
+hierarchical deep spatio-temporal features and fusion strategy [[paper](https://www.sciencedirect.com/science/article/pii/S0893608017302848)]
+- (Journal of Visual Communication and Image Representation 2018) Expression-targeted feature learning for effective facial expression recognition [[paper](https://www.sciencedirect.com/science/article/pii/S1047320318301895)]
+- (IEEE Journal of Selected Topics in Signal Processing 2017) End-to-End Multimodal Emotion Recognition
 using Deep Neural Networks [[paper](https://arxiv.org/pdf/1704.08619.pdf)],[[code](https://github.com/tzirakis/Multimodal-Emotion-Recognition)]
 
 ## Cross-Dataset FER 
