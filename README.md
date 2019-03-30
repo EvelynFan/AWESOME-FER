@@ -12,6 +12,8 @@
 
 :cat:[Affective Level Estimation](#affective-level-estimation)
 
+:cat:[Outstanding Researchers or Teams](#outstanding-researchers-or-teams)
+
 ## FER Datasets
 - [Jaffe](http://www.kasrl.org/jaffe.html)
 - [FER-2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)
@@ -145,6 +147,8 @@ Recognition with Small Training Sets [[paper](https://arxiv.org/pdf/1808.02668.p
 - (2017) Audio-visual emotion recognition using deep transfer learning and multiple temporal models [[paper](https://dl.acm.org/citation.cfm?doid=3136755.3143012)]
 
 ### FG
+- (2019) Bounded Residual Gradient Networks (BReG-Net) for Facial Affect
+Computing [[paper](https://arxiv.org/pdf/1903.02110.pdf)]
 - (2019) Generalizing to unseen head poses in facial expression recognition and action unit intensity estimation [[paper](https://researchportal.port.ac.uk/portal/en/publications/generalizing-to-unseen-head-poses-in-facial-expression-recognition-and-action-unit-intensity-estimation(caeb70c3-0be9-4bf0-bee7-e6efe5b78b9f).html)]
 - (2018) Facial Expression Grounded Conversational Dialogue Generation[[paper](https://ieeexplore.ieee.org/document/8373852)]
 - (2018) Island Loss for Learning Discriminative Features in Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/8373844)]
@@ -514,6 +518,15 @@ from Facial Expressions [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/s
 Units [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=6977516)]
 - (ieee trans on affective computing) Automatic Pain Assessment with Facial
 Activity Descriptors [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7423704)]
+
+## Outstanding Researchers or Groups
+:dizzy: Outstanding affective computing researchers or groups that are still active in this field, in no particular order.
+- [MIT Media Lab: Affective Computing Group](https://www.media.mit.edu/groups/affective-computing/overview/)
+- [Intelligent Behaviour Understanding Group (iBUG),Imperial College London](https://ibug.doc.ic.ac.uk/)
+- [Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/)
+- [Guoying Zhao](http://www.ee.oulu.fi/~gyzhao/)
+- [Abhinav Dhall](https://sites.google.com/site/dhallabhinav/),[Learning Affect and Semantic Image analysIs (LASII) Group](http://iitrpr.ac.in/lasii/)
+- [Wenming Zheng](http://aip.seu.edu.cn/wmzheng/)
 
 ## Attention
 - (ACM MM17) Fine-Grained Recognition via Attribute-Guided Attentive
