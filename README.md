@@ -519,7 +519,7 @@ Units [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=
 - (ieee trans on affective computing) Automatic Pain Assessment with Facial
 Activity Descriptors [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7423704)]
 
-## Outstanding Researchers or Groups
+## Outstanding Researchers Or Groups
 :dizzy: Outstanding affective computing researchers or groups that are still active in this field, in no particular order.
 - [MIT Media Lab: Affective Computing Group](https://www.media.mit.edu/groups/affective-computing/overview/)
 - [Intelligent Behaviour Understanding Group (iBUG),Imperial College London](https://ibug.doc.ic.ac.uk/)
