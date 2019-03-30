@@ -12,7 +12,7 @@
 
 :cat:[Affective Level Estimation](#affective-level-estimation)
 
-:cat:[Outstanding Researchers Or Teams](#outstanding-researchers-or-teams)
+:cat:[Outstanding Researchers Or Groups](#outstanding-researchers-or-groups)
 
 ## FER Datasets
 - [Jaffe](http://www.kasrl.org/jaffe.html)
