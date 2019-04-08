@@ -212,6 +212,7 @@ with Multiple Feature Fusion [[paper](https://ieeexplore.ieee.org/document/75185
 - (2018) The Indian Spontaneous Expression Database for Emotion Recognition[[paper](https://ieeexplore.ieee.org/document/7320978)]
 
 ### IEEE Access
+- (2019) A deep spatial and temporal aggregation framework for video-based facial expression recognition [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8674456)]
 - (2019) cGAN Based Facial Expression Recognition for Human-Robot Interaction [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8606936)]
 - (2018) Geometric-Convolutional Feature Fusion Based on Learning Propagation for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8417316)]
 - (2018) Adaptive Feature Mapping for Customizing Deep Learning Based Facial Expression Recognition Model[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8291717)]
