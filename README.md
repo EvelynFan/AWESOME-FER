@@ -14,6 +14,7 @@
 
 :cat:[Affective Level Estimation](#affective-level-estimation)
 
+:cat:[Human Factors on FR or FER](#human-factors-on-fr-or-fer)
 
 ## FER Datasets
 - [Jaffe](http://www.kasrl.org/jaffe.html)
@@ -532,7 +533,14 @@ Units [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=
 - (ieee trans on affective computing) Automatic Pain Assessment with Facial
 Activity Descriptors [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7423704)]
 
+## Human factors on FR or FER
+- (International Journal of Computer Graphics18) Review on the effects of age, gender, and race demographics on automatic face recognition [[paper](https://dl.acm.org/citation.cfm?id=3288071)]
+- (IEEE Transactions on Information Forensics and Security12) Face Recognition Performance: Role of Demographic Information [[paper](https://ieeexplore.ieee.org/document/6327355)]
+- (CVPR04) How Features of the Human Face Affect Recognition:
+a Statistical Comparison of Three Face Recognition Algorithms [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.433.3062&rep=rep1&type=pdf)]
+
 ## Attention
+- (CVPR19) End-to-End Multi-Task Learning with Attention [[paper](https://arxiv.org/pdf/1803.10704.pdf)][[code](https://github.com/lorenmt/mtan)])][:dizzy::dizzy::dizzy:]
 - (ACM MM17) Fine-Grained Recognition via Attribute-Guided Attentive
 Feature Aggregation [[paper](http://delivery.acm.org.eproxy.lib.hku.hk/10.1145/3130000/3123358/p1032-yan.pdf?ip=147.8.31.43&id=3123358&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1540166942_7e6707193038d68bed7b735df5ab6d3b)]
 - (ACM MM18) visual spatial attention network for relationship detection [[paper](https://dl.acm.org/citation.cfm?id=3240611)]
@@ -575,4 +583,8 @@ Unsupervised Domain Adaptation:
 the Benefit of Target Expectation Maximization [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guoliang_Kang_Deep_Adversarial_Attention_ECCV_2018_paper.pdf)]
 - (ECCV18) Deep Adaptive Attention for Joint Facial Action
 Unit Detection and Face Alignment [[paper](https://arxiv.org/pdf/1803.05588.pdf)]
+
+## Multi-Task 
+- (NIPS17) Learning Multiple Tasks with Multilinear
+Relationship Networks [[paper](https://arxiv.org/pdf/1506.02117.pdf)][[code](https://github.com/thuml/MTlearn)]
 
