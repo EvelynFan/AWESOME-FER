@@ -534,8 +534,24 @@ Units [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=
 Activity Descriptors [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7423704)]
 
 ## Human factors on FR or FER
+- (IEEE Transactions on Biometrics, Behavior, and Identity Science19) Demographic Effects in Facial Recognition and
+Their Dependence on Image Acquisition: An
+Evaluation of Eleven Commercial Systems [[paper](https://ieeexplore.ieee.org/document/8636231)]
+- (IEEE Transactions on Biometrics, Behavior, and Identity Science19) An Experimental Evaluation of Covariates Effects
+on Unconstrained Face Verification [[paper](https://ieeexplore.ieee.org/document/8599059)]
+- (Symmetry18) Demographic-Assisted Age-Invariant Face Recognition and Retrieval [[paper](https://www.researchgate.net/publication/325026941_Demographic-Assisted_Age-Invariant_Face_Recognition_and_Retrieval)]
+- (Workshop on Fairness, Accountability, and Transparency in Machine Learning18) InclusiveFaceNet: Improving Face Attribute Detection with Race and Gender Diversity [[paper](https://arxiv.org/abs/1712.00193)]
+- Probabilistic Attribute Tree in Convolutional Neural Networks for Facial Expression Recognition [[paper](https://arxiv.org/abs/1812.07067)]
 - (International Journal of Computer Graphics18) Review on the effects of age, gender, and race demographics on automatic face recognition [[paper](https://dl.acm.org/citation.cfm?id=3288071)]
+- (ICCV17) Attribute-Enhanced Face Recognition with Neural Tensor Fusion Networks [[paper](http://homepages.inf.ed.ac.uk/thospeda/papers/hu2017neuralTensor.pdf)]
+- (ACII17) The effect of personality trait, age, and gender
+on the performance of automatic speech valence recognition [[paper](https://ieeexplore.ieee.org/document/8273583)]
+- (Journal of Biometrics & Biostatistics16) Face Verification Subject to Varying (Age, Ethnicity, and Gender)
+Demographics Using Deep Learning [[paper](https://www.omicsonline.org/open-access/face-verification-subject-to-varying-age-ethnicity-and-genderdemographics-using-deep-learning-2155-6180-1000323.pdf)]
+- (IEEE Transactions on Affective Computing13) Facial Expression Recognition Influenced by Human Aging [[paper](https://ieeexplore.ieee.org/document/6517179)]
 - (IEEE Transactions on Information Forensics and Security12) Face Recognition Performance: Role of Demographic Information [[paper](https://ieeexplore.ieee.org/document/6327355)]
+- (FG11) Demographic Effects on Estimates of Automatic Face Recognition
+Performance [[paper](https://ieeexplore.ieee.org/document/5771356)]
 - (CVPR04) How Features of the Human Face Affect Recognition:
 a Statistical Comparison of Three Face Recognition Algorithms [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.433.3062&rep=rep1&type=pdf)]
 
