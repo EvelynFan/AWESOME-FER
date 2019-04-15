@@ -4,6 +4,8 @@
 
 :cat:[Related Reviews](#related-reviews)
 
+:cat:[Outstanding Researchers Or Groups](#outstanding-researchers-or-groups)
+
 :cat:[Facial Expression Recognition (FER)](#facial-expression-recognition)  
 
 :cat:[Cross-Dataset FER](#cross-dataset-fer)  
@@ -12,7 +14,6 @@
 
 :cat:[Affective Level Estimation](#affective-level-estimation)
 
-:cat:[Outstanding Researchers Or Groups](#outstanding-researchers-or-groups)
 
 ## FER Datasets
 - [Jaffe](http://www.kasrl.org/jaffe.html)
@@ -54,6 +55,15 @@
 - (Image and Vision Computing 13) Categorical and dimensional affect analysis in continuous input: Current trends and future directions [[paper](https://www.sciencedirect.com/science/article/pii/S0262885612001084)]
 - (FG 11) Emotion representation, analysis and synthesis in continuous space: A survey [[paper](https://ieeexplore.ieee.org/document/5771357)]
 - Deep Facial Expression Recognition: A Survey [[paper](https://arxiv.org/pdf/1804.08348.pdf)]
+
+## Outstanding Researchers Or Groups
+:dizzy: Outstanding affective computing researchers or groups that are still active in this field, in no particular order.
+- [MIT Media Lab: Affective Computing Group](https://www.media.mit.edu/groups/affective-computing/overview/)
+- [Intelligent Behaviour Understanding Group (iBUG),Imperial College London](https://ibug.doc.ic.ac.uk/)
+- [Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/)
+- [Guoying Zhao](http://www.ee.oulu.fi/~gyzhao/)
+- [Abhinav Dhall](https://sites.google.com/site/dhallabhinav/),[Learning Affect and Semantic Image analysIs (LASII) Group](http://iitrpr.ac.in/lasii/)
+- [Wenming Zheng](http://aip.seu.edu.cn/wmzheng/)
 
 ## Facial Expression Recognition
 
@@ -236,6 +246,8 @@ for Facial Expression Understanding
 from Image Sequences [[paper](https://ieeexplore.ieee.org/document/1407874)]
 
 ### Pattern Recognition
+- (2019) Deep multi-path convolutional neural network joint with salient
+region attention for facial expression recognition [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319301268)][:dizzy::dizzy::dizzy::dizzy:]
 - (2018) Conditional convolution neural network enhanced random forest for
 facial expression recognition [[paper](http://covis.cse.unt.edu/papers/2018Liu.pdf)]
 - (2018) Collaborative discriminative multi-metric learning for facial expression recognition in video [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320317300948)]
@@ -519,15 +531,6 @@ from Facial Expressions [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/s
 Units [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=6977516)]
 - (ieee trans on affective computing) Automatic Pain Assessment with Facial
 Activity Descriptors [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7423704)]
-
-## Outstanding Researchers Or Groups
-:dizzy: Outstanding affective computing researchers or groups that are still active in this field, in no particular order.
-- [MIT Media Lab: Affective Computing Group](https://www.media.mit.edu/groups/affective-computing/overview/)
-- [Intelligent Behaviour Understanding Group (iBUG),Imperial College London](https://ibug.doc.ic.ac.uk/)
-- [Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/)
-- [Guoying Zhao](http://www.ee.oulu.fi/~gyzhao/)
-- [Abhinav Dhall](https://sites.google.com/site/dhallabhinav/),[Learning Affect and Semantic Image analysIs (LASII) Group](http://iitrpr.ac.in/lasii/)
-- [Wenming Zheng](http://aip.seu.edu.cn/wmzheng/)
 
 ## Attention
 - (ACM MM17) Fine-Grained Recognition via Attribute-Guided Attentive
