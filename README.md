@@ -53,6 +53,8 @@
 - (IEEE Transactions on Affective Computing 18) Survey on Emotional Body Gesture Recognition [[paper](https://ieeexplore.ieee.org/document/8493586)]
 - (IEEE Transactions on Affective Computing 17)Automatic Analysis of Facial Actions: A Survey [[paper](https://ieeexplore.ieee.org/document/7990582)]
 - (IEEE Transactions on Pattern Analysis and Machine Intelligence 16) Survey on RGB, 3D, Thermal, and Multimodal Approaches for Facial Expression Recognition: History, Trends, and Affect-Related Applications[[paper](https://ieeexplore.ieee.org/document/7374704)]
+- (IEEE Transactions on Pattern Analysis and Machine Intelligence 15) Automatic Analysis of Facial Affect: A Survey of
+Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.org/document/6940284)]
 - (Image and Vision Computing 13) Categorical and dimensional affect analysis in continuous input: Current trends and future directions [[paper](https://www.sciencedirect.com/science/article/pii/S0262885612001084)]
 - (FG 11) Emotion representation, analysis and synthesis in continuous space: A survey [[paper](https://ieeexplore.ieee.org/document/5771357)]
 - Deep Facial Expression Recognition: A Survey [[paper](https://arxiv.org/pdf/1804.08348.pdf)]
@@ -134,6 +136,14 @@ Muscles for Facial Expression Recognition [[paper](http://f4k.dieei.unict.it/pro
 
 ### IJCAI
 - (2018) Personality-Aware Personalized Emotion Recognition from Physiological Signals [[paper](https://www.ijcai.org/proceedings/2018/0230.pdf)]
+- (2017) Approximating Discrete Probability Distribution of Image Emotions by
+Multi-Modal Features Fusion [[paper](https://www.ijcai.org/proceedings/2017/0651.pdf)]
+- (2017) Dependency Exploitation: A Unified CNN-RNN Approach for
+Visual Emotion Recognition [[paper](https://www.ijcai.org/proceedings/2017/0503.pdf)]
+- (2017) Joint Image Emotion Classification and Distribution Learning
+via Deep Convolutional Neural Network [[paper](https://www.ijcai.org/proceedings/2017/0456.pdf)]
+- (2016) Multi-View Exclusive Unsupervised Dimension Reduction
+for Video-Based Facial Expression Recognition [[paper](https://www.ijcai.org/Proceedings/16/Papers/316.pdf)]
 
 ### BMVC
 - (2018) Feature Selection Mechanism in CNNs for Facial Expression Recognition [[paper](http://bmvc2018.org/contents/workshops/iahfar2018/0011.pdf)]
@@ -394,6 +404,7 @@ Spontaneous Facial Action Units [[paper](https://ieeexplore.ieee.org/document/65
 
 ### IEEE Transactions on Image Processing
 - (2018) Facial Action Unit Recognition and Intensity Estimation Enhanced Through Label Dependencies [[paper](https://www.researchgate.net/publication/328548884_Facial_Action_Unit_Recognition_and_Intensity_Estimation_Enhanced_Through_Label_Dependencies)]
+- (2017) Learning Bases of Activity for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/7839217)]
 - (2016) Joint Patch and Multi-label Learning for Facial
 Action Unit and Holistic Expression Recognition [[paper](http://www.humansensing.cs.cmu.edu/sites/default/files/07471506.pdf)]
 
