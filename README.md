@@ -33,6 +33,7 @@
 
 ## FER Challenges
 - [Emotion Recognition in the Wild Challenge (EmotiW) @ ICMI](https://sites.google.com/view/emotiw2018)
+    + [EmotiW 2019](https://sites.google.com/view/emotiw2019)
     + [EmotiW 2018](https://sites.google.com/view/emotiw2018)        
     + [EmotiW 2017](https://sites.google.com/site/emotiwchallenge/)
     + [EmotiW 2016](https://sites.google.com/site/emotiw2016/)
@@ -73,6 +74,7 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 ### AAAI
 - (2019) Mode Variational LSTM Robust to Unseen Modes of Variation: Application to
 Facial Expression Recognition [[paper](https://arxiv.org/pdf/1811.06937.pdf)]
+- (2019) Semantic Relationships Guided Representation Learning for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1904.09939.pdf)]
 - (2019) Controllable Image-to-Video Translation: A Case Study on Facial Expression Generation [[paper](https://arxiv.org/pdf/1808.02992.pdf)]
 - (2019) CycleEmotionGAN: Emotional Semantic Consistency Preserved CycleGAN for Adapting
 Image Emotions [[paper]()]
@@ -144,6 +146,9 @@ Visual Emotion Recognition [[paper](https://www.ijcai.org/proceedings/2017/0503.
 via Deep Convolutional Neural Network [[paper](https://www.ijcai.org/proceedings/2017/0456.pdf)]
 - (2016) Multi-View Exclusive Unsupervised Dimension Reduction
 for Video-Based Facial Expression Recognition [[paper](https://www.ijcai.org/Proceedings/16/Papers/316.pdf)]
+
+### ICML
+- （2019）A Personalized Affective Memory Model for Improving Emotion Recognition [[paper](https://arxiv.org/pdf/1904.12632.pdf)]
 
 ### BMVC
 - (2018) Feature Selection Mechanism in CNNs for Facial Expression Recognition [[paper](http://bmvc2018.org/contents/workshops/iahfar2018/0011.pdf)]
@@ -611,7 +616,4 @@ the Benefit of Target Expectation Maximization [[paper](http://openaccess.thecvf
 - (ECCV18) Deep Adaptive Attention for Joint Facial Action
 Unit Detection and Face Alignment [[paper](https://arxiv.org/pdf/1803.05588.pdf)]
 
-## Multi-Task 
-- (NIPS17) Learning Multiple Tasks with Multilinear
-Relationship Networks [[paper](https://arxiv.org/pdf/1506.02117.pdf)][[code](https://github.com/thuml/MTlearn)]
 
