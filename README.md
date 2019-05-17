@@ -78,9 +78,15 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 :dizzy: Outstanding affective computing researchers or groups that are still active in this field, in no particular order.
 - [MIT Media Lab: Affective Computing Group](https://www.media.mit.edu/groups/affective-computing/overview/)
 - [Intelligent Behaviour Understanding Group (iBUG),Imperial College London](https://ibug.doc.ic.ac.uk/)
+- [Maja Pantic](https://ibug.doc.ic.ac.uk/maja/)
+- [Michel Valstar](http://www.cs.nott.ac.uk/~pszmv/)
+- [Björn W. Schuller](http://www.schuller.one/)
+- [Fabien Ringeval](https://sites.google.com/site/fabienringeval/)
 - [Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/)
+- [Jonathan Gratch](http://people.ict.usc.edu/~gratch/)
 - [Guoying Zhao](http://www.ee.oulu.fi/~gyzhao/)
 - [Abhinav Dhall](https://sites.google.com/site/dhallabhinav/),[Learning Affect and Semantic Image analysIs (LASII) Group](http://iitrpr.ac.in/lasii/)
+- [Weihong Deng](http://www.whdeng.cn/)
 - [Wenming Zheng](http://aip.seu.edu.cn/wmzheng/)
 
 ## Facial Expression Recognition
