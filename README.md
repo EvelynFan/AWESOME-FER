@@ -33,11 +33,11 @@
 
 ## FER Challenges
 - [Emotion Recognition in the Wild Challenge (EmotiW) @ ICMI](https://sites.google.com/view/emotiw2018)
-    + [EmotiW 2019](https://sites.google.com/view/emotiw2019)
-    + [EmotiW 2018](https://sites.google.com/view/emotiw2018)        
-    + [EmotiW 2017](https://sites.google.com/site/emotiwchallenge/)
-    + [EmotiW 2016](https://sites.google.com/site/emotiw2016/)
-    + [EmotiW 2015](https://cs.anu.edu.au/few/emotiw2015.html)
+    + [EmotiW 2019](https://sites.google.com/view/emotiw2019): Audio-video based emotion recognition sub-challenge, Group-level Cohesion sub-challenge, and Engagement prediction in the Wild.
+    + [EmotiW 2018](https://sites.google.com/view/emotiw2018): Engagement in the Wild, Group-based Emotion Recognition, and Audio-video Emotion Recognition.        
+    + [EmotiW 2017](https://sites.google.com/site/emotiwchallenge/): Audio-Video Sub-challenge, and Group-based Sub-challenge.
+    + [EmotiW 2016](https://sites.google.com/site/emotiw2016/): Video based emotion recognition, and Group based emotion recognition.
+    + [EmotiW 2015](https://cs.anu.edu.au/few/emotiw2015.html): Video based Emotion Recognition Sub-challenge, and Image based Static Facial Expression Recognition Sub-challenge.
     + [EmotiW 2014](https://cs.anu.edu.au/few/emotiw2014.html)
     + [EmotiW 2013](https://cs.anu.edu.au/few/emotiw.html)
 - [Audio/Visual Emotion Challenge (AVEC) @ ACM MM](https://sites.google.com/view/avec2019/home?authuser=0)
@@ -46,13 +46,15 @@
     + [AVEC 2017](http://www.sigmm.org/opentoc/AVEC2017-TOC): Real-life Depression, and Affect Recognition Challenge.
     + [AVEC 2016](https://arxiv.org/abs/1605.01600): Depression, Mood, and Emotion Recognition Workshop and Challenge.
     + [AVEC 2015](https://ibug.doc.ic.ac.uk/media/uploads/documents/avec_2015_challenge.pdf): Uniting Audio, Video and Physiological Data for Audio/Visual Emotion Challenge.
-    + [AVEC 2014](http://www.cs.nott.ac.uk/~pszmv/Documents/avec2014.pdf): 3D Dimensional Affect and Depression Recognition.
-Challenge.
+    + [AVEC 2014](http://www.cs.nott.ac.uk/~pszmv/Documents/avec2014.pdf): 3D Dimensional Affect and Depression Recognition Challenge.
     + [AVEC 2013](https://ibug.doc.ic.ac.uk/media/uploads/documents/avec2013.pdf): The Continuous Audio/Visual Emotion and Depression
 Recognition Challenge.
     + [AVEC 2012](http://www.cs.nott.ac.uk/~pszmv/Documents/avec2012_preprint.pdf): The Continuous Audio/Visual Emotion Challenge.
     + [AVEC 2011](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.452.1370&rep=rep1&type=pdf): The First International
 Audio/Visual Emotion Challenge.
+- [Large Scale Emotion Recognition and Analysis (LERA) @ FG]
+    + [LERA 2018](https://sites.google.com/view/lera2018)
+    + [LERA 2019](https://sites.google.com/view/lera2019)
 - [Facial Expression Recognition and Analysis Challenge (FERA) @ FG](http://www.fg2017.org/index.php/challenges/)
 - [One-Minute Gradual-Emotion Behavior Challenge @ IJCNN](https://www2.informatik.uni-hamburg.de/wtm/OMG-EmotionChallenge/)
 - [EmotioNet Challenge](http://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/index.html)
