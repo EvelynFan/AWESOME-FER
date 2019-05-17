@@ -52,7 +52,7 @@ Recognition Challenge.
     + [AVEC 2012](http://www.cs.nott.ac.uk/~pszmv/Documents/avec2012_preprint.pdf): The Continuous Audio/Visual Emotion Challenge.
     + [AVEC 2011](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.452.1370&rep=rep1&type=pdf): The First International
 Audio/Visual Emotion Challenge.
-- [Large Scale Emotion Recognition and Analysis (LERA) @ FG]
+- [Large Scale Emotion Recognition and Analysis (LERA) @ FG]https://sites.google.com/view/lera2019)
     + [LERA 2018](https://sites.google.com/view/lera2018)
     + [LERA 2019](https://sites.google.com/view/lera2019)
 - [Facial Expression Recognition and Analysis Challenge (FERA) @ FG](http://www.fg2017.org/index.php/challenges/)
