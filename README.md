@@ -128,7 +128,9 @@ Facial Expressions of Mental States [[paper](http://openaccess.thecvf.com/conten
 Recognition [[paper](https://arxiv.org/pdf/1607.06997.pdf)][:dizzy::dizzy::dizzy:]
 
 ### CVPR
-- (2018) Facial Expression Recognition by De-expression Residue Learning [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Facial_Expression_Recognition_CVPR_2018_paper.pdf)][:dizzy::dizzy::dizzy:]
+- (2019) Learning to Regress 3D Face Shape and Expression
+from an Image without 3D Supervision [[paper](https://arxiv.org/pdf/1905.06817.pdf)[code](https://github.com/soubhiksanyal/RingNet)]
+p- (2018) Facial Expression Recognition by De-expression Residue Learning [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Facial_Expression_Recognition_CVPR_2018_paper.pdf)][:dizzy::dizzy::dizzy:]
 - (2018) Joint Pose and Expression Modeling for Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Joint_Pose_and_CVPR_2018_paper.pdf)],[[code](https://github.com/FFZhang1231/Facial-expression-recognition)][:dizzy::dizzy:]
 - (2018) 4DFAB: A Large Scale 4D Database for Facial Expression Analysis and Biometric Applications [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/3299.pdf)][:dizzy:]
 - (2018) (workshop) Covariance Pooling for Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w10/Acharya_Covariance_Pooling_for_CVPR_2018_paper.pdf)],[[code](https://github.com/d-acharya/CovPoolFER)][:dizzy:]
@@ -443,6 +445,7 @@ Units and their Intensities [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.
 for Intensity Estimation of Facial Action Units [[paper](https://spiral.imperial.ac.uk/bitstream/10044/1/23471/2/tpamicscorffinal_rudovic.pdf)]
 
 ### IEEE Transactions on Affective Computing
+- (2019) Deep Facial Action Unit Recognition and Intensity Estimation from Partially Labelled Data [[paper](https://ieeexplore.ieee.org/abstract/document/8705351)]
 - (2017) Copula Ordinal Regression Framework
 for Joint Estimation of Facial Action Unit Intensity[[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/07983431.pdf)]
 
