@@ -312,6 +312,9 @@ Networks [[paper](https://www.sciencedirect.com/science/article/pii/S09252312173
 - (2018) MixedEmotions: An Open-Source Toolbox for
 Multimodal Emotion Analysis [[paper](https://ieeexplore.ieee.org/document/8269329)]
 
+### IEEE Transactions on Circuits and Systems for Video Technology 
+- (2018) Learning Affective Features With a Hybrid Deep Model for Audio–Visual Emotion Recognition [[paper](https://ieeexplore.ieee.org/document/7956190)]
+
 ### Computer Vision and Image Understanding
 - (2019) Registration-free Face-SSD: Single shot analysis of smiles, facial attributes, and affect in the wild[[paper](https://www.sciencedirect.com/science/article/pii/S1077314219300128)]
 
