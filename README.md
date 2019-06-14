@@ -389,6 +389,10 @@ Cross-Dataset Hybrid Training[[paper](http://delivery.acm.org.eproxy1.lib.hku.hk
 ## Facial Action Unit Recognition
 
 ### CVPR
+- (2019) Joint Representation and Estimator Learning for Facial Action Unit Intensity Estimation [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Joint_Representation_and_Estimator_Learning_for_Facial_Action_Unit_Intensity_CVPR_2019_paper.pdf)]
+- Self-Supervised Representation Learning From Videos for Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Self-Supervised_Representation_Learning_From_Videos_for_Facial_Action_Unit_Detection_CVPR_2019_paper.pdf)]
+- Local Relationship Learning with Person-specific Shape Regularization for
+Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Niu_Local_Relationship_Learning_With_Person-Specific_Shape_Regularization_for_Facial_Action_CVPR_2019_paper.pdf)]
 - (2018) Weakly-supervised Deep Convolutional Neural Network Learning
 for Facial Action Unit Intensity Estimation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Weakly-Supervised_Deep_Convolutional_CVPR_2018_paper.pdf)]
 - (2018) Learning Facial Action Units from Web Images with
