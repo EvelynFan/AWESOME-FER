@@ -78,22 +78,22 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 [CVPR](http://cvpr2019.thecvf.com/),[ICCV](http://iccv2019.thecvf.com/),[ECCV](https://eccv2018.org/),[FG](http://fg2019.org/),[ACM MM](https://www.acmmm.org/2019/),[AAAI](https://aaai.org/Conferences/AAAI-19/),[IJCAI](https://ijcai19.org/),[BMVC](https://bmvc2019.org/),[WACV](http://wacv19.wacv.net/),[ICMI](http://icmi.acm.org/2019/),[ACII](http://acii-conf.org/2019/),[ICB](https://www.icb2019.org/)
 
 ### Journals
-[IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
-[IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83),[Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition)
-[IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369)
-[IEEE Transactions on Systems, Man, and Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)
-[IEEE Journal of Biomedical and Health Informatic](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)
-[IEEE Transactions on Human-Machine Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037)
-[Image and Vision Computing](https://www.journals.elsevier.com/image-and-vision-computing)
-[Computer Vision and Image Understanding](https://www.journals.elsevier.com/computer-vision-and-image-understanding)
-[IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
-[IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989)
-[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)
-[IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
-[IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)
-[IEEE-ACM Transactions on Computational Biology and Bioinformatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8857)
-[Neurocomputing](https://www.journals.elsevier.com/neurocomputing)
-[IEEE Transactions on Biometrics, Behavior, and Identity Science](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8423754)
+[IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34),
+[IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83),[Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition),
+[IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369),
+[IEEE Transactions on Systems, Man, and Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021),
+[IEEE Journal of Biomedical and Health Informatic](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020),
+[IEEE Transactions on Human-Machine Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037),
+[Image and Vision Computing](https://www.journals.elsevier.com/image-and-vision-computing),
+[Computer Vision and Image Understanding](https://www.journals.elsevier.com/computer-vision-and-image-understanding),
+[IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76),
+[IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989),
+[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036),
+[IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046),
+[IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639),
+[IEEE-ACM Transactions on Computational Biology and Bioinformatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8857),
+[Neurocomputing](https://www.journals.elsevier.com/neurocomputing),
+[IEEE Transactions on Biometrics, Behavior, and Identity Science](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8423754),
 [Pattern Recognition Letters](https://www.journals.elsevier.com/pattern-recognition-letters)
 
 ## Facial Expression Recognition
@@ -134,6 +134,7 @@ Facial Expressions of Mental States [[paper](http://openaccess.thecvf.com/conten
 Recognition [[paper](https://arxiv.org/pdf/1607.06997.pdf)][:dizzy::dizzy::dizzy:]
 
 ### CVPR
+- (2019) A Compact Embedding for Facial Expression Similarity [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Vemulapalli_A_Compact_Embedding_for_Facial_Expression_Similarity_CVPR_2019_paper.pdf)]
 - (2019) Facial Emotion Distribution Learning by Exploiting Low-Rank Label Correlations Locally [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jia_Facial_Emotion_Distribution_Learning_by_Exploiting_Low-Rank_Label_Correlations_Locally_CVPR_2019_paper.pdf)]
 - (2019) Learning to Regress 3D Face Shape and Expression
 from an Image without 3D Supervision [[paper](https://arxiv.org/pdf/1905.06817.pdf)[code](https://github.com/soubhiksanyal/RingNet)]
