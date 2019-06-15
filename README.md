@@ -69,6 +69,7 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 - [Jonathan Gratch](http://people.ict.usc.edu/~gratch/)
 - [Guoying Zhao](http://www.ee.oulu.fi/~gyzhao/)
 - [Abhinav Dhall](https://sites.google.com/site/dhallabhinav/),[Learning Affect and Semantic Image analysIs (LASII) Group](http://iitrpr.ac.in/lasii/)
+- [Shiguang Shan](http://www.jdl.ac.cn/project/faceId/index_en.htm)
 - [Weihong Deng](http://www.whdeng.cn/)
 - [Wenming Zheng](http://aip.seu.edu.cn/wmzheng/)
 
@@ -137,7 +138,7 @@ Recognition [[paper](https://arxiv.org/pdf/1607.06997.pdf)][:dizzy::dizzy::dizzy
 - (2019) A Compact Embedding for Facial Expression Similarity [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Vemulapalli_A_Compact_Embedding_for_Facial_Expression_Similarity_CVPR_2019_paper.pdf)]
 - (2019) Facial Emotion Distribution Learning by Exploiting Low-Rank Label Correlations Locally [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jia_Facial_Emotion_Distribution_Learning_by_Exploiting_Low-Rank_Label_Correlations_Locally_CVPR_2019_paper.pdf)]
 - (2019) Learning to Regress 3D Face Shape and Expression
-from an Image without 3D Supervision [[paper](https://arxiv.org/pdf/1905.06817.pdf)[code](https://github.com/soubhiksanyal/RingNet)]
+from an Image without 3D Supervision [[paper](https://arxiv.org/pdf/1905.06817.pdf)] [[code](https://github.com/soubhiksanyal/RingNet)]
 - (2018) Facial Expression Recognition by De-expression Residue Learning [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Facial_Expression_Recognition_CVPR_2018_paper.pdf)][:dizzy::dizzy::dizzy:]
 - (2018) Joint Pose and Expression Modeling for Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Joint_Pose_and_CVPR_2018_paper.pdf)],[[code](https://github.com/FFZhang1231/Facial-expression-recognition)][:dizzy::dizzy:]
 - (2018) 4DFAB: A Large Scale 4D Database for Facial Expression Analysis and Biometric Applications [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/3299.pdf)][:dizzy:]
@@ -390,8 +391,8 @@ Cross-Dataset Hybrid Training[[paper](http://delivery.acm.org.eproxy1.lib.hku.hk
 
 ### CVPR
 - (2019) Joint Representation and Estimator Learning for Facial Action Unit Intensity Estimation [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Joint_Representation_and_Estimator_Learning_for_Facial_Action_Unit_Intensity_CVPR_2019_paper.pdf)]
-- Self-Supervised Representation Learning From Videos for Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Self-Supervised_Representation_Learning_From_Videos_for_Facial_Action_Unit_Detection_CVPR_2019_paper.pdf)]
-- Local Relationship Learning with Person-specific Shape Regularization for
+- (2019) Self-Supervised Representation Learning From Videos for Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Self-Supervised_Representation_Learning_From_Videos_for_Facial_Action_Unit_Detection_CVPR_2019_paper.pdf)]
+- (2019) Local Relationship Learning with Person-specific Shape Regularization for
 Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Niu_Local_Relationship_Learning_With_Person-Specific_Shape_Regularization_for_Facial_Action_CVPR_2019_paper.pdf)]
 - (2018) Weakly-supervised Deep Convolutional Neural Network Learning
 for Facial Action Unit Intensity Estimation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Weakly-Supervised_Deep_Convolutional_CVPR_2018_paper.pdf)]
