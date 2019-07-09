@@ -475,6 +475,9 @@ for Joint Estimation of Facial Action Unit Intensity[[paper](https://ibug.doc.ic
 ### Pattern Recognition 
 - (2017) Feature and label relation modeling for multiple-facial action unit
 classification and intensity estimation [[paper](https://www.ecse.rpi.edu/~cvrl/Publication/pdf/Wang2017a.pdf)]
+- (2017) Expression-assisted facial action unit
+recognition under incomplete Au annotation [[paper](https://www.ecse.rpi.edu/~cvrl/Publication/pdf/Wang2017.pdf)]
+- (2016) Task-dependent multi-task multiple kernel learning for facial action unit detection [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320315003143)]
 
 ### Image and Vision Computing
 - (2016) Real-time facial action unit intensity prediction with regularized
