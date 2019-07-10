@@ -425,7 +425,7 @@ person-specific facial action unit detection [[paper](http://openaccess.thecvf.c
 ### ECCV
 - (2018) Deep Structure Inference Network for Facial
 Action Unit Recognition [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ciprian_Corneanu_Deep_Structure_Inference_ECCV_2018_paper.pdf)]
-- (2018) Deep Adaptive Attention for Joint Facial Action
+- (2018) Dee Adaptive Attention for Joint Facial Action
 Unit Detection and Face Alignment[[paper](https://arxiv.org/pdf/1803.05588.pdf)] 
 
 ### AAAI
