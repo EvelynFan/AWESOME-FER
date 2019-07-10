@@ -102,7 +102,6 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 ### AAAI
 - (2019) Mode Variational LSTM Robust to Unseen Modes of Variation: Application to
 Facial Expression Recognition [[paper](https://arxiv.org/pdf/1811.06937.pdf)]
-- (2019) Semantic Relationships Guided Representation Learning for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1904.09939.pdf)]
 - (2019) Controllable Image-to-Video Translation: A Case Study on Facial Expression Generation [[paper](https://arxiv.org/pdf/1808.02992.pdf)]
 - (2019) CycleEmotionGAN: Emotional Semantic Consistency Preserved CycleGAN for Adapting
 Image Emotions [[paper]()]
@@ -428,6 +427,10 @@ person-specific facial action unit detection [[paper](http://openaccess.thecvf.c
 Action Unit Recognition [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ciprian_Corneanu_Deep_Structure_Inference_ECCV_2018_paper.pdf)]
 - (2018) Deep Adaptive Attention for Joint Facial Action
 Unit Detection and Face Alignment[[paper](https://arxiv.org/pdf/1803.05588.pdf)] 
+
+### AAAI
+- (2019) Semantic Relationships Guided Representation Learning for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1904.09939.pdf)]
+- (2019) Dual Semi-Supervised Learning for Facial Action Unit Recognition [[paper]()]
 
 ### ACM MM
 - (2018) Personalized Multiple Facial Action Unit Recognition through
