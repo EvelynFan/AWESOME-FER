@@ -182,6 +182,10 @@ for Video-Based Facial Expression Recognition [[paper](https://www.ijcai.org/Pro
 - （2019）A Personalized Affective Memory Model for Improving Emotion Recognition [[paper](https://arxiv.org/pdf/1904.12632.pdf)]
 
 ### BMVC
+- (2019) Expression, Affect, Action Unit Recognition: Aff-Wild2, Multi-Task Learning and ArcFace [[paper](https://bmvc2019.org/programme/detailed-programme/)]
+- (2019) Annealed Label Transfer for Face Expression Recognition [[paper](https://bmvc2019.org/programme/detailed-programme/)]
+- (2019) Automatic 4D Facial Expression Recognition via Collaborative Cross-domain Dynamic Image Network [[paper](https://bmvc2019.org/programme/detailed-programme/)]
+- (2019) An Unsupervised Subspace Ranking Method for Continuous Emotions in Face Images [[paper](https://bmvc2019.org/programme/detailed-programme/)]
 - (2018) Feature Selection Mechanism in CNNs for Facial Expression Recognition [[paper](http://bmvc2018.org/contents/workshops/iahfar2018/0011.pdf)]
 
 ### WACV
@@ -446,6 +450,7 @@ Unit Detection and Face Alignment[[paper](https://arxiv.org/pdf/1803.05588.pdf)]
 Generative Adversarial Recognition Network [[paper](https://dl.acm.org/citation.cfm?id=3240613)]
 
 ### BMVC
+- (2019) PAttNet: Patch-attentive deep network for action unit detection [[paper](https://bmvc2019.org/programme/detailed-programme/)]
 - (2018) Identity-based Adversarial Training of Deep
 CNNs for Facial Action Unit Recognition [[paper](http://bmvc2018.org/contents/papers/0741.pdf)]
 - (2018) Joint Action Unit localisation and intensity
