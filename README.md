@@ -116,6 +116,7 @@ Image Emotions [[paper]()]
 - (2018) Conditional Expression Synthesis with Face Parsing Transformation [[paper](https://dl.acm.org/citation.cfm?id=3240647)]
 
 ### ICCV
+- (2019) Context-Aware Emotion Recognition Networks [[paper](https://arxiv.org/pdf/1908.05913.pdf)]
 - (2017) A Novel Space-Time Representation on the Positive Semidefinite Cone
 for Facial Expression Recognition [[paper](https://arxiv.org/pdf/1707.06440.pdf)][:dizzy:]
 - (2017) (workshop) Facial Expression Recognition via Joint Deep Learning of RGB-Depth Map
