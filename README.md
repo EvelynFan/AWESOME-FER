@@ -109,6 +109,7 @@ Image Emotions [[paper]()]
 - (2018) Learning Spatio-temporal Features with Partial Expression Sequences for on-the-Fly Prediction [[paper](https://arxiv.org/pdf/1711.10914.pdf)][:dizzy:]
 
 ### ACM International Conference on Multimedia (ACM MM)
+- (2019) PDANet: Polarity-consistent Deep Attention Network for Fine-grained Visual Emotion Regression [[paper]()]
 - (2018) Fast and Light Manifold CNN based 3D Facial Expression Recognition across Pose Variations [[paper](https://dl.acm.org/citation.cfm?id=3240568)]
 - (2018) Facial Expression Recognition in the Wild: A Cycle-Consistent Adversarial Attention Transfer Approach [[paper](https://dl.acm.org/citation.cfm?id=3240574)]
 - (2018) Facial Expression Recognition Enhanced by Thermal Images through Adversarial Learning [[paper](https://dl.acm.org/citation.cfm?id=3240608)]
@@ -117,6 +118,8 @@ Image Emotions [[paper]()]
 
 ### International Conference on Computer Vision (ICCV)
 - (2019) Context-Aware Emotion Recognition Networks [[paper](https://arxiv.org/pdf/1908.05913.pdf)]
+- (2019) Attention-Aware Polarity Sensitive Embedding for Affective Image Retrieval [[paper]()]
+- (2019) Zero-Shot Emotion Recognition via Affective Structural Embedding [[paper]()]
 - (2017) A Novel Space-Time Representation on the Positive Semidefinite Cone
 for Facial Expression Recognition [[paper](https://arxiv.org/pdf/1707.06440.pdf)][:dizzy:]
 - (2017) (workshop) Facial Expression Recognition via Joint Deep Learning of RGB-Depth Map
