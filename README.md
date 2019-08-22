@@ -72,6 +72,7 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 - [Shiguang Shan](http://www.jdl.ac.cn/project/faceId/index_en.htm)
 - [Weihong Deng](http://www.whdeng.cn/)
 - [Wenming Zheng](http://aip.seu.edu.cn/wmzheng/)
+- [Sicheng Zhao](https://sites.google.com/site/schzhao/home)
 
 ## Related Conferences and Journals
 
