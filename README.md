@@ -192,6 +192,7 @@ for Video-Based Facial Expression Recognition [[paper](https://www.ijcai.org/Pro
 - (2019) Automatic 4D Facial Expression Recognition via Collaborative Cross-domain Dynamic Image Network [[paper](https://bmvc2019.org/programme/detailed-programme/)]
 - (2019) An Unsupervised Subspace Ranking Method for Continuous Emotions in Face Images [[paper](https://bmvc2019.org/programme/detailed-programme/)]
 - (2018) Feature Selection Mechanism in CNNs for Facial Expression Recognition [[paper](http://bmvc2018.org/contents/workshops/iahfar2018/0011.pdf)]
+- (2018) Deep Covariance Descriptors for Facial Expression Recognition [[paper](http://bmvc2018.org/contents/papers/0804.pdf)]
 
 ### IEEE Winter Conference on Applications of Computer Vision (WACV)
 - (2018) Group Affect Prediction Using Multimodal Distributions [[paper](https://arxiv.org/pdf/1710.01216.pdf)]
