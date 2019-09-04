@@ -264,6 +264,13 @@ spontaneous facial expressions [[paper](https://ieeexplore.ieee.org/document/796
 - (2015) Pairwise Linear Regression: An Efficient and Fast Multi-view Facial
 Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7163101)][:dizzy:]
 
+###  IEEE International Conference on Image Processing (ICIP)
+- (2019) Outlier-Suppressed Triplet Loss with Adaptive Class-Aware Margins for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8802918)]
+- (2019) Facial Expression Recognition Using Adaptive Robust Local Complete Pattern [[paper](https://ieeexplore.ieee.org/abstract/document/8802911)]
+- (2019) Dual-stream Shallow Networks for Facial Micro-expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8802965)]
+- (2019) Disentangled Feature Based Adversarial Learning for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8802941)]
+- (2019) Edge-Computing Convolutional Neural Network with Homography-Augmented Data for Facial Emotion Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8803675)]
+
 ###  IEEE International Conference on Multimedia and Expo (ICME)
 - (2019) Context-Aware Affective Graph Reasoning for Emotion Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8784981)]
 - (2019) Pooling Map Adaptation in Convolutional Neural Network for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8785044)]
@@ -488,6 +495,9 @@ Estimation [[paper](https://ieeexplore.ieee.org/document/7284873)]
 - (2015) Facial Action Units Intensity Estimation by the Fusion of Features with Multi-kernel Support Vector Machine [[paper](https://ieeexplore.ieee.org/document/7284870)]
 - (2015) A Unified Probabilistic Framework For Measuring The Intensity of
 Spontaneous Facial Action Units [[paper](https://ieeexplore.ieee.org/document/6553757)]
+
+### ICIP
+- (2019) Multi-Task Learning of Emotion Recognition and Facial Action Unit Detection with Adaptively Weights Sharing Network [[paper](https://ieeexplore.ieee.org/abstract/document/8802914)]
 
 ### IEEE Transactions on Image Processing
 - (2018) Facial Action Unit Recognition and Intensity Estimation Enhanced Through Label Dependencies [[paper](https://www.researchgate.net/publication/328548884_Facial_Action_Unit_Recognition_and_Intensity_Estimation_Enhanced_Through_Label_Dependencies)]
