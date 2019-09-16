@@ -18,6 +18,8 @@
 
 :cat:[Human Factors on FR or FER](#human-factors-on-fr-or-fer)
 
+:blue_heart::heart::yellow_heart: Welcome to contribute, feel free to make a pull request :) :laughing:
+
 ## FER Datasets
 - [Jaffe](http://www.kasrl.org/jaffe.html)
 - [FER-2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)
@@ -49,7 +51,7 @@
 - (ACM Computing Surveys 19) Facial Expression Analysis under Partial Occlusion: A Survey [[paper](https://arxiv.org/pdf/1802.08784.pdf)]
 - (IEEE Transactions on Affective Computing 19) Deep Learning for Human Affect Recognition: Insights and New Developments [[paper](https://ieeexplore.ieee.org/document/8598999)]
 - (IEEE Transactions on Affective Computing 18) Survey on Emotional Body Gesture Recognition [[paper](https://ieeexplore.ieee.org/document/8493586)]
-- (IEEE Transactions on Affective Computing 17)Automatic Analysis of Facial Actions: A Survey [[paper](https://ieeexplore.ieee.org/document/7990582)]
+- (IEEE Transactions on Affective Computing 17) Automatic Analysis of Facial Actions: A Survey [[paper](https://ieeexplore.ieee.org/document/7990582)]
 - (IEEE Transactions on Pattern Analysis and Machine Intelligence 16) Survey on RGB, 3D, Thermal, and Multimodal Approaches for Facial Expression Recognition: History, Trends, and Affect-Related Applications[[paper](https://ieeexplore.ieee.org/document/7374704)]
 - (IEEE Transactions on Pattern Analysis and Machine Intelligence 15) Automatic Analysis of Facial Affect: A Survey of
 Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.org/document/6940284)]
@@ -276,6 +278,7 @@ Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/s
 - (2019) Pooling Map Adaptation in Convolutional Neural Network for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8785044)]
 
 ### IEEE Trans on Affective Computing 
+- (2019) Multi-Velocity Neural Networks for Facial Expression Recognition in Videos [[paper](https://ieeexplore.ieee.org/document/7942120)]
 - (2018) Heterogeneous Knowledge Transfer
 in Video Emotion Recognition,
 Attribution and Summarization [[paper](https://ieeexplore.ieee.org/document/7723914)][:dizzy::dizzy::dizzy:]
