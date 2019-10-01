@@ -78,10 +78,10 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 
 ## Related Conferences and Journals
 
-### Conferences
-[CVPR](http://cvpr2019.thecvf.com/),[ICCV](http://iccv2019.thecvf.com/),[ECCV](https://eccv2018.org/),[FG](http://fg2019.org/),[ACM MM](https://www.acmmm.org/2019/),[AAAI](https://aaai.org/Conferences/AAAI-19/),[IJCAI](https://ijcai19.org/),[BMVC](https://bmvc2019.org/),[WACV](http://wacv19.wacv.net/),[ICMI](http://icmi.acm.org/2019/),[ACII](http://acii-conf.org/2019/),[ICB](https://www.icb2019.org/)
+### :lollipop: Conferences 
+[CVPR](http://cvpr2019.thecvf.com/),[ICCV](http://iccv2019.thecvf.com/),[ECCV](https://eccv2018.org/),[FG](http://fg2019.org/),[ACM MM](https://www.acmmm.org/2019/),[AAAI](https://aaai.org/Conferences/AAAI-19/),[IJCAI](https://ijcai19.org/),[BMVC](https://bmvc2019.org/),[WACV](http://wacv19.wacv.net/),[ICMI](http://icmi.acm.org/2019/),[ACII](http://acii-conf.org/2019/),[ICB](https://www.icb2019.org/),[BIBM](https://ieeebibm.org/BIBM2019/)
 
-### Journals
+### :lollipop: Journals
 [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34),
 [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83),[Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition),
 [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369),
@@ -99,6 +99,11 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 [Neurocomputing](https://www.journals.elsevier.com/neurocomputing),
 [IEEE Transactions on Biometrics, Behavior, and Identity Science](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8423754),
 [Pattern Recognition Letters](https://www.journals.elsevier.com/pattern-recognition-letters)
+
+### :lollipop: Workshops
+- IJCAI Affective Computing Workshop (AffComp) [[2019](http://kdd.cs.ksu.edu/KDD/Workshops/IJCAI-2019-AffComp/)],[[2018](http://kdd.cs.ksu.edu/Workshops/IJCAI-2018-AffComp/)],[[2017](http://kdd.cs.ksu.edu/Workshops/IJCAI-2017-AffComp/)]
+- AAAI Workshop on Affective Content Analysis (AffCon) [[2020](https://sites.google.com/view/affcon2020)],[[2019](https://sites.google.com/view/affcon2019/home)],[[2018](https://sites.google.com/view/affcon18/home)]
+- CVPR Workshop on Deep Affective Learning and Context Modelling (DAL-COM) [[2017](https://sites.google.com/site/dalcom2017cvpr/home)]
 
 ## Facial Expression Recognition
 
@@ -175,6 +180,8 @@ Expression Recognition [[paper](https://www.cv-foundation.org/openaccess/content
 Muscles for Facial Expression Recognition [[paper](http://f4k.dieei.unict.it/proceedings/CVPR13/data/papers/4989d422.pdf)][:dizzy:]
 
 ### International Joint Conference on Artificial Intelligence (IJCAI)
+- (2019) Fast Adaptation of Deep Models for Facial Action Unit Detection
+Using Model-Agnostic Meta-Learning [[paper](https://arxiv.org/pdf/1909.12158.pdf)]  (IJCAI Affective Computing Workshop)
 - (2018) Personality-Aware Personalized Emotion Recognition from Physiological Signals [[paper](https://www.ijcai.org/proceedings/2018/0230.pdf)]
 - (2017) Approximating Discrete Probability Distribution of Image Emotions by
 Multi-Modal Features Fusion [[paper](https://www.ijcai.org/proceedings/2017/0651.pdf)]
@@ -267,6 +274,7 @@ spontaneous facial expressions [[paper](https://ieeexplore.ieee.org/document/796
 Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7163101)][:dizzy:]
 
 ###  IEEE International Conference on Image Processing (ICIP)
+- (2019) Frame attention networks for facial expression recognition in videos [[paper](https://arxiv.org/pdf/1907.00193.pdf)]
 - (2019) Outlier-Suppressed Triplet Loss with Adaptive Class-Aware Margins for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8802918)]
 - (2019) Facial Expression Recognition Using Adaptive Robust Local Complete Pattern [[paper](https://ieeexplore.ieee.org/abstract/document/8802911)]
 - (2019) Dual-stream Shallow Networks for Facial Micro-expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8802965)]
@@ -301,7 +309,7 @@ Method for Intensity Estimation of Facial AUs [[paper](https://ieeexplore.ieee.o
 with Multiple Feature Fusion [[paper](https://ieeexplore.ieee.org/document/7518582)][:dizzy::dizzy:]
 - (2018) The Indian Spontaneous Expression Database for Emotion Recognition[[paper](https://ieeexplore.ieee.org/document/7320978)]
 
-### IEEE Transactions on Pattern Analysis and Machine Intelligence
+### IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - (2019) Sparse Coding of Shape Trajectories for Facial Expression and Action Recognition [[paper](https://ieeexplore.ieee.org/document/8787885)]
 
 ### IEEE Access
