@@ -281,6 +281,9 @@ Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/s
 - (2019) Disentangled Feature Based Adversarial Learning for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8802941)]
 - (2019) Edge-Computing Convolutional Neural Network with Homography-Augmented Data for Facial Emotion Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8803675)]
 
+### IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+- (2019) Facial Micro-Expression Spotting and Recognition using Time Contrasted Feature with Visual Memory [[paper](https://arxiv.org/abs/1902.03514)]
+
 ###  IEEE International Conference on Multimedia and Expo (ICME)
 - (2019) Context-Aware Affective Graph Reasoning for Emotion Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8784981)]
 - (2019) Pooling Map Adaptation in Convolutional Neural Network for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8785044)]
