@@ -203,6 +203,8 @@ for Video-Based Facial Expression Recognition [[paper](https://www.ijcai.org/Pro
 - (2018) Feature Selection Mechanism in CNNs for Facial Expression Recognition [[paper](http://bmvc2018.org/contents/workshops/iahfar2018/0011.pdf)]
 
 ### IEEE Winter Conference on Applications of Computer Vision (WACV)
+- (2019) Graph Neural Networks for Image Understanding Based on Multiple Cues:
+Group Emotion Recognition and Event Recognition as Use Cases [[paper](https://arxiv.org/pdf/1909.12911.pdf)]
 - (2018) Group Affect Prediction Using Multimodal Distributions [[paper](https://arxiv.org/pdf/1710.01216.pdf)]
 - (2016) Going Deeper in Facial Expression Recognition using Deep Neural Networks [[paper](https://arxiv.org/pdf/1511.04110.pdf)][:dizzy:]
 
@@ -478,14 +480,18 @@ Unit Detection and Face Alignment[[paper](https://arxiv.org/pdf/1803.05588.pdf)]
 
 ### AAAI
 - (2019) Semantic Relationships Guided Representation Learning for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1904.09939.pdf)]
-- (2019) Dual Semi-Supervised Learning for Facial Action Unit Recognition [[paper]()]
+- (2019) Dual Semi-Supervised Learning for Facial Action Unit Recognition [[paper](https://www.researchgate.net/publication/335270610_Dual_Semi-Supervised_Learning_for_Facial_Action_Unit_Recognition)]
+
+### NIPS
+- (2019) (:fire:New)**Multi-label Co-regularization for Semi-supervised Facial Action Unit Recognition** [[paper](http://vipl.ict.ac.cn/en/view_news.php?id=122)]
 
 ### ACM MM
 - (2018) Personalized Multiple Facial Action Unit Recognition through
 Generative Adversarial Recognition Network [[paper](https://dl.acm.org/citation.cfm?id=3240613)]
 
 ### BMVC
-- (2019) PAttNet: Patch-attentive deep network for action unit detection [[paper](https://bmvc2019.org/programme/detailed-programme/)]
+- (2019) Expression, Affect, Action Unit Recognition: Aff-Wild2, Multi-Task Learning and ArcFace [[paper](https://bmvc2019.org/wp-content/uploads/papers/0399-paper.pdf)]
+- (2019) PAttNet: Patch-attentive deep network for action unit detection [[paper](https://www.jeffcohn.net/wp-content/uploads/2019/07/BMVC2019_PAttNet.pdf.pdf)]
 - (2018) Identity-based Adversarial Training of Deep
 CNNs for Facial Action Unit Recognition [[paper](http://bmvc2018.org/contents/papers/0741.pdf)]
 - (2018) Joint Action Unit localisation and intensity
