@@ -7,7 +7,7 @@
 :hamster:[Related Conferences and Journals](#related-conferences-and-journals)
 
 :hamster:[Facial Expression Recognition (FER)](#facial-expression-recognition)  
-:hamster:[Facial Action Unit (AU) Recognition](#facial-action-unit-recognition)
+:hamster:[Facial Action Unit Recognition](#facial-action-unit-recognition)
 
 :hamster:[Affective Level Estimation](#affective-level-estimation)
 
