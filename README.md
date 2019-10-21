@@ -446,7 +446,7 @@ Unit Detection and Face Alignment[[paper](https://arxiv.org/pdf/1803.05588.pdf)]
 - (2019) Dual Semi-Supervised Learning for Facial Action Unit Recognition [[paper](https://www.researchgate.net/publication/335270610_Dual_Semi-Supervised_Learning_for_Facial_Action_Unit_Recognition)]
 
 ### NIPS
-- (2019) (:fire:New)**Multi-label Co-regularization for Semi-supervised Facial Action Unit Recognition** [[paper](http://vipl.ict.ac.cn/en/view_news.php?id=122)]
+- (2019) Multi-label Co-regularization for Semi-supervised Facial Action Unit Recognition [[paper](https://nxsedson.github.io/paper/NeurIPS2019.pdf)]
 - (2016) Incremental Boosting Convolutional Neural Network
 for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1707.05395.pdf)] 
 
