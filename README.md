@@ -427,6 +427,7 @@ for Joint Estimation of Facial Action Unit Intensity [[paper](https://ibug.doc.i
 - (2009) A framework for automated measurement of the intensity of non-posed Facial Action Units [[paper](https://ieeexplore.ieee.org/document/5204259)]
 
 ### ICCV
+- (2019) Context-Aware Feature and Label Fusion for Facial Action Unit Intensity Estimation With Partially Labeled Data [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Context-Aware_Feature_and_Label_Fusion_for_Facial_Action_Unit_Intensity_ICCV_2019_paper.pdf)]
 - (2017) DeepCoder: Semi-parametric Variational Autoencoders
 for Automatic Facial Action Coding [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/tran_deepcoder_semi-parametric_variational_iccv_2017_paper.pdf)]
 - (2017) Deep Facial Action Unit Recognition from Partially Labeled Data [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Deep_Facial_Action_ICCV_2017_paper.pdf)]
