@@ -259,6 +259,7 @@ spontaneous facial expressions [[paper](https://ieeexplore.ieee.org/document/796
 Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7163101)][:dizzy:]
 
 ###  IEEE International Conference on Image Processing (ICIP)
+- (2019) A Facial Affect Analysis System for Autism Spectrum Disorder [[paper](https://arxiv.org/pdf/1904.03616.pdf)]
 - (2019) Frame attention networks for facial expression recognition in videos [[paper](https://arxiv.org/pdf/1907.00193.pdf)]
 - (2019) Outlier-Suppressed Triplet Loss with Adaptive Class-Aware Margins for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8802918)]
 - (2019) Facial Expression Recognition Using Adaptive Robust Local Complete Pattern [[paper](https://ieeexplore.ieee.org/abstract/document/8802911)]
