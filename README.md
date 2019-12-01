@@ -262,7 +262,6 @@ spontaneous facial expressions [[paper](https://ieeexplore.ieee.org/document/796
 Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7163101)][:dizzy:]
 
 ###  IEEE International Conference on Image Processing (ICIP)
-- (2019) A Facial Affect Analysis System for Autism Spectrum Disorder [[paper](https://arxiv.org/pdf/1904.03616.pdf)]
 - (2019) Frame attention networks for facial expression recognition in videos [[paper](https://arxiv.org/pdf/1907.00193.pdf)]
 - (2019) Outlier-Suppressed Triplet Loss with Adaptive Class-Aware Margins for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8802918)]
 - (2019) Facial Expression Recognition Using Adaptive Robust Local Complete Pattern [[paper](https://ieeexplore.ieee.org/abstract/document/8802911)]
@@ -278,6 +277,7 @@ Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/s
 - (2019) Pooling Map Adaptation in Convolutional Neural Network for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8785044)]
 
 ### IEEE Trans on Affective Computing 
+- (2019) Dynamic Pose-Robust Facial Expression Recognition by Multi-View Pairwise Conditional Random Forests [[paper](https://ieeexplore.ieee.org/document/7934067)]
 - (2019) Multi-Velocity Neural Networks for Facial Expression Recognition in Videos [[paper](https://ieeexplore.ieee.org/document/7942120)]
 - (2018) Heterogeneous Knowledge Transfer
 in Video Emotion Recognition,
@@ -295,8 +295,6 @@ Expression Intensity Variations for Facial
 Expression Recognition [[paper](https://ieeexplore.ieee.org/document/7904596)]
 - (2018) Visually Interpretable Representation Learning for
 Depression Recognition from Facial Images [[paper](https://ieeexplore.ieee.org/document/8344107)][:dizzy::dizzy::dizzy::dizzy:]
-- (2018) An Adaptive Bayesian Source Separation
-Method for Intensity Estimation of Facial AUs [[paper](https://ieeexplore.ieee.org/document/7933209)][:dizzy::dizzy::dizzy::dizzy:]
 - (2018) Facial Expression Recognition in Video
 with Multiple Feature Fusion [[paper](https://ieeexplore.ieee.org/document/7518582)][:dizzy::dizzy:]
 - (2018) The Indian Spontaneous Expression Database for Emotion Recognition[[paper](https://ieeexplore.ieee.org/document/7320978)]
@@ -499,12 +497,16 @@ Action Unit and Holistic Expression Recognition [[paper](http://www.humansensing
 ### IEEE Transactions on Pattern Analysis and Machine Intelligence
 - (2015) Discriminant Functional Learning of Color
 Features for the Recognition of Facial Action
-Units and their Intensities [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8454901)]
+Units and their Intensities [[paper](https://ieeexplore.ieee.org/document/8454901)]
 - (2015) Context-Sensitive Dynamic Ordinal Regression
 for Intensity Estimation of Facial Action Units [[paper](https://spiral.imperial.ac.uk/bitstream/10044/1/23471/2/tpamicscorffinal_rudovic.pdf)]
 
 ### IEEE Transactions on Affective Computing
+- (2019) Listen to Your Face: Inferring Facial Action
+Units from Audio Channel [[paper](https://ieeexplore.ieee.org/document/8025777)]
 - (2019) Deep Facial Action Unit Recognition and Intensity Estimation from Partially Labelled Data [[paper](https://ieeexplore.ieee.org/abstract/document/8705351)]
+- (2019) Capturing Feature and Label Relations Simultaneously for Multiple Facial Action Unit Recognition [[paper](https://ieeexplore.ieee.org/document/8006290)]
+- (2019) An Adaptive Bayesian Source Separation Method for Intensity Estimation of Facial AUs [[paper](https://ieeexplore.ieee.org/document/7933209)]
 - (2017) Copula Ordinal Regression Framework
 for Joint Estimation of Facial Action Unit Intensity[[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/07983431.pdf)]
 
