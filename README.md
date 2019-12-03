@@ -511,6 +511,7 @@ Units from Audio Channel [[paper](https://ieeexplore.ieee.org/document/8025777)]
 for Joint Estimation of Facial Action Unit Intensity[[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/07983431.pdf)]
 
 ### Pattern Recognition 
+- (2019) Domain Adaptive Representation Learning for Facial Action Unit Recognition [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319304285)]
 - (2017) Feature and label relation modeling for multiple-facial action unit
 classification and intensity estimation [[paper](https://www.ecse.rpi.edu/~cvrl/Publication/pdf/Wang2017a.pdf)]
 - (2017) Expression-assisted facial action unit
