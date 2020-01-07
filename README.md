@@ -276,7 +276,8 @@ Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/s
 - (2019) Context-Aware Affective Graph Reasoning for Emotion Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8784981)]
 - (2019) Pooling Map Adaptation in Convolutional Neural Network for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8785044)]
 
-### IEEE Trans on Affective Computing 
+### IEEE Trans on Affective Computing
+- (2019) On-the-Fly Facial Expression Prediction using LSTM Encoded Appearance-Suppressed Dynamics [[paper](https://ieeexplore.ieee.org/abstract/document/8922646)] 
 - (2019) Dynamic Pose-Robust Facial Expression Recognition by Multi-View Pairwise Conditional Random Forests [[paper](https://ieeexplore.ieee.org/document/7934067)]
 - (2019) Multi-Velocity Neural Networks for Facial Expression Recognition in Videos [[paper](https://ieeexplore.ieee.org/document/7942120)]
 - (2018) Heterogeneous Knowledge Transfer
@@ -347,6 +348,7 @@ Networks [[paper](https://www.sciencedirect.com/science/article/pii/S09252312173
 - (2016) Transfer subspace learning for cross-dataset facial expression recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231216304623)][:dizzy:]
 
 ### IEEE Transactions on Multimedia
+- (2019) Joint Deep Learning of Facial Expression Synthesis and Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8943107)]
 - (2019) Facial Expression Recognition Using Hierarchical Features With Deep Comprehensive Multipatches Aggregation Convolutional Neural Networks [[paper](https://ieeexplore.ieee.org/document/8371638)]
 - (2018) MixedEmotions: An Open-Source Toolbox for
 Multimodal Emotion Analysis [[paper](https://ieeexplore.ieee.org/document/8269329)]
