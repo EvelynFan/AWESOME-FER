@@ -408,6 +408,11 @@ for Cross-Domain Facial Expression Recognition [[paper](https://ieeexplore-ieee-
 
 ## Facial Action Unit Recognition
 
+### AAAI
+- (2020) Facial Action Unit Intensity Estimation via Semantic Correspondence Learning with Dynamic Graph Convolution [[paper]()]
+- (2019) Semantic Relationships Guided Representation Learning for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1904.09939.pdf)]
+- (2019) Dual Semi-Supervised Learning for Facial Action Unit Recognition [[paper](https://www.researchgate.net/publication/335270610_Dual_Semi-Supervised_Learning_for_Facial_Action_Unit_Recognition)]
+
 ### CVPR
 - (2019) Joint Representation and Estimator Learning for Facial Action Unit Intensity Estimation [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Joint_Representation_and_Estimator_Learning_for_Facial_Action_Unit_Intensity_CVPR_2019_paper.pdf)]
 - (2019) Self-Supervised Representation Learning From Videos for Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Self-Supervised_Representation_Learning_From_Videos_for_Facial_Action_Unit_Detection_CVPR_2019_paper.pdf)]
@@ -449,10 +454,6 @@ person-specific facial action unit detection [[paper](http://openaccess.thecvf.c
 Action Unit Recognition [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ciprian_Corneanu_Deep_Structure_Inference_ECCV_2018_paper.pdf)]
 - (2018) Deep Adaptive Attention for Joint Facial Action
 Unit Detection and Face Alignment[[paper](https://arxiv.org/pdf/1803.05588.pdf)] 
-
-### AAAI
-- (2019) Semantic Relationships Guided Representation Learning for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1904.09939.pdf)]
-- (2019) Dual Semi-Supervised Learning for Facial Action Unit Recognition [[paper](https://www.researchgate.net/publication/335270610_Dual_Semi-Supervised_Learning_for_Facial_Action_Unit_Recognition)]
 
 ### NIPS
 - (2019) Multi-label Co-regularization for Semi-supervised Facial Action Unit Recognition [[paper](https://nxsedson.github.io/paper/NeurIPS2019.pdf)]
