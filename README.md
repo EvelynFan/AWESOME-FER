@@ -85,6 +85,10 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 ## Facial Expression Recognition
 
 ### Association for the Advance of Artificial Intelligence (AAAI)
+- (2020) MIMAMO Net: Integrating Micro- and Macro-motion for Video Emotion
+Recognition [[paper](https://arxiv.org/pdf/1911.09784.pdf)]
+- (2020) M3ER: Multiplicative Multimodal Emotion Recognition Using Facial, Textual, and Speech Cues [[paper](https://arxiv.org/pdf/1911.05659.pdf)]
+- (2020) An End-to-End Visual-Audio Attention Network for Emotion Recognition in User-Generated Videos [[paper]()]
 - (2019) Mode Variational LSTM Robust to Unseen Modes of Variation: Application to
 Facial Expression Recognition [[paper](https://arxiv.org/pdf/1811.06937.pdf)]
 - (2019) Controllable Image-to-Video Translation: A Case Study on Facial Expression Generation [[paper](https://arxiv.org/pdf/1808.02992.pdf)]
