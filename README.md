@@ -132,6 +132,7 @@ Facial Expressions of Mental States [[paper](http://openaccess.thecvf.com/conten
 Recognition [[paper](https://arxiv.org/pdf/1607.06997.pdf)][:dizzy::dizzy::dizzy:]
 
 ### IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)
+- (2020) Suppressing Uncertainties for Large-Scale Facial Expression Recognition [[paper](https://arxiv.org/pdf/2002.10392.pdf)]
 - (2019) A Compact Embedding for Facial Expression Similarity [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Vemulapalli_A_Compact_Embedding_for_Facial_Expression_Similarity_CVPR_2019_paper.pdf)]
 - (2019) Facial Emotion Distribution Learning by Exploiting Low-Rank Label Correlations Locally [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jia_Facial_Emotion_Distribution_Learning_by_Exploiting_Low-Rank_Label_Correlations_Locally_CVPR_2019_paper.pdf)]
 - (2019) Learning to Regress 3D Face Shape and Expression
@@ -315,6 +316,8 @@ Facial Expression Analysis [[paper](https://ieeexplore.ieee.org/document/7442563
 - (2019) Blended Emotion in-the-Wild: Multi-label Facial Expression Recognition Using Crowdsourced Annotations and Deep Locality Feature Learning [[paper](https://link.springer.com/article/10.1007/s11263-018-1131-1)]
 
 ### IEEE Transactions on Image Processing
+- (2020) Geometry Guided Pose-Invariant Facial
+Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8995782)]
 - (2018) Occlusion aware facial expression recognition using
 CNN with attention mechanism [[paper](https://ieeexplore.ieee.org/document/8576656)]
 - (2018) Domain Regeneration for Cross-Database
