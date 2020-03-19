@@ -533,6 +533,10 @@ recognition under incomplete Au annotation [[paper](https://www.ecse.rpi.edu/~cv
 metric learning [[paper](https://www.sciencedirect.com/science/article/pii/S0262885616300300)]
 - (2012) Regression-based intensity estimation of facial action units [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0262885611001326/1-s2.0-S0262885611001326-main.pdf?_tid=6974cc5b-a5c5-49f8-80a9-48b64d737dd0&acdnat=1545987498_086c43fef2e7b676fb897f288013d1b4)]
 
+### Neurocomputing
+-(2020) Action Unit Analysis Enhanced Facial Expression Recognition by
+Deep Neural Network Evolution [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220303891)]
+
 ### Journal of Visual Communication and Image Representation 
 - (2017) A joint dictionary learning and regression model for intensity estimation of facial AUs [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S1047320317301025/1-s2.0-S1047320317301025-main.pdf?_tid=737aee87-67c5-4beb-91bd-41f50c1c9d70&acdnat=1546048938_0bd273b5c0735d2eb21dd54502420008)]
 
