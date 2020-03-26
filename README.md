@@ -165,6 +165,7 @@ Expression Recognition [[paper](https://www.cv-foundation.org/openaccess/content
 - (2014) Facial Expression Recognition via a Boosted Deep Belief Network [[paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Liu_Facial_Expression_Recognition_2014_CVPR_paper.pdf)][:dizzy:]
 - (2013) Capturing Complex Spatio-Temporal Relations among Facial
 Muscles for Facial Expression Recognition [[paper](http://f4k.dieei.unict.it/proceedings/CVPR13/data/papers/4989d422.pdf)][:dizzy:]
+- (2010) Sparse representations for facial expressions recognition via l1 optimization [[paper](https://ieeexplore.ieee.org/document/5543148)]
 
 ### International Joint Conference on Artificial Intelligence (IJCAI)
 - (2019) Fast Adaptation of Deep Models for Facial Action Unit Detection
@@ -353,6 +354,7 @@ expression recognition [[paper](https://www.sciencedirect.com/science/article/pi
 based on Stack Binarized Auto-encoders and Binarized Neural
 Networks [[paper](https://www.sciencedirect.com/science/article/pii/S0925231217311785)]
 - (2016) Transfer subspace learning for cross-dataset facial expression recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231216304623)][:dizzy:]
+- (2015) Accurate and robust facial expressions recognition by fusing multiple sparse representation based classifiers [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231214009564)]
 
 ### IEEE Transactions on Multimedia
 - (2019) Joint Deep Learning of Facial Expression Synthesis and Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8943107)]
