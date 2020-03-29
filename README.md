@@ -28,7 +28,8 @@
 - [The Radboud Faces Database (RaFD)](http://www.socsci.ru.nl:8180/RaFD2/RaFD)
 - [Aff-Wild data](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)
 - A novel database of Children’s Spontaneous Facial Expressions (LIRIS-CSE) [[paper](https://arxiv.org/pdf/1812.01555.pdf)]
-- [FEAFA: A Well-Annotated Dataset for Facial Expression Analysis and 3D Facial Animation](http://www.iiplab.net/feafa/)
+- [FEAFA: A Well-Annotated Dataset for  Facial Expression Analysis and 3D Facial Animation](http://www.iiplab.net/feafa/)
+- [Facial Expression Research Group Database (FERG-DB)](http://grail.cs.washington.edu/projects/deepexpr/ferg-db.html)
 
 ## FER Challenges
 - [Emotion Recognition in the Wild Challenge (EmotiW) @ ICMI](https://sites.google.com/view/emotiw2018)
@@ -165,7 +166,6 @@ Expression Recognition [[paper](https://www.cv-foundation.org/openaccess/content
 - (2014) Facial Expression Recognition via a Boosted Deep Belief Network [[paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Liu_Facial_Expression_Recognition_2014_CVPR_paper.pdf)][:dizzy:]
 - (2013) Capturing Complex Spatio-Temporal Relations among Facial
 Muscles for Facial Expression Recognition [[paper](http://f4k.dieei.unict.it/proceedings/CVPR13/data/papers/4989d422.pdf)][:dizzy:]
-- (2010) Sparse representations for facial expressions recognition via l1 optimization [[paper](https://ieeexplore.ieee.org/document/5543148)]
 
 ### International Joint Conference on Artificial Intelligence (IJCAI)
 - (2019) Fast Adaptation of Deep Models for Facial Action Unit Detection
@@ -354,7 +354,6 @@ expression recognition [[paper](https://www.sciencedirect.com/science/article/pi
 based on Stack Binarized Auto-encoders and Binarized Neural
 Networks [[paper](https://www.sciencedirect.com/science/article/pii/S0925231217311785)]
 - (2016) Transfer subspace learning for cross-dataset facial expression recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231216304623)][:dizzy:]
-- (2015) Accurate and robust facial expressions recognition by fusing multiple sparse representation based classifiers [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231214009564)]
 
 ### IEEE Transactions on Multimedia
 - (2019) Joint Deep Learning of Facial Expression Synthesis and Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8943107)]
