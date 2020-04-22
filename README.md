@@ -414,7 +414,7 @@ for Cross-Domain Facial Expression Recognition [[paper](https://ieeexplore-ieee-
 ## Facial Action Unit Recognition
 
 ### AAAI
-- (2020) Facial Action Unit Intensity Estimation via Semantic Correspondence Learning with Dynamic Graph Convolution [[paper]()][[Code](https://github.com/EvelynFan/FAU)]
+- (2020) Facial Action Unit Intensity Estimation via Semantic Correspondence Learning with Dynamic Graph Convolution [[paper](https://arxiv.org/pdf/2004.09681.pdf)][[Code](https://github.com/EvelynFan/FAU)]
 - (2019) Semantic Relationships Guided Representation Learning for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1904.09939.pdf)]
 - (2019) Dual Semi-Supervised Learning for Facial Action Unit Recognition [[paper](https://www.researchgate.net/publication/335270610_Dual_Semi-Supervised_Learning_for_Facial_Action_Unit_Recognition)]
 
