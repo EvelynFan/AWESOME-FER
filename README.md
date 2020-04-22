@@ -282,7 +282,8 @@ Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/s
 - (2019) Context-Aware Affective Graph Reasoning for Emotion Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8784981)]
 - (2019) Pooling Map Adaptation in Convolutional Neural Network for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8785044)]
 
-### IEEE Trans on Affective Computing
+### IEEE Transactions on Affective Computing
+- (2020) Facial Expression Recognition with Deeply-Supervised Attention Network [[paper](https://ieeexplore.ieee.org/document/9075283)]
 - (2019) On-the-Fly Facial Expression Prediction using LSTM Encoded Appearance-Suppressed Dynamics [[paper](https://ieeexplore.ieee.org/abstract/document/8922646)] 
 - (2019) Dynamic Pose-Robust Facial Expression Recognition by Multi-View Pairwise Conditional Random Forests [[paper](https://ieeexplore.ieee.org/document/7934067)]
 - (2019) Multi-Velocity Neural Networks for Facial Expression Recognition in Videos [[paper](https://ieeexplore.ieee.org/document/7942120)]
