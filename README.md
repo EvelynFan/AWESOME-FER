@@ -134,6 +134,7 @@ Recognition [[paper](https://arxiv.org/pdf/1607.06997.pdf)][:dizzy::dizzy::dizzy
 
 ### IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)
 - (2020) Suppressing Uncertainties for Large-Scale Facial Expression Recognition [[paper](https://arxiv.org/pdf/2002.10392.pdf)]
+- (2020) Cascade EF-GAN: Progressive Facial Expression Editing with Local Focuses [[paper](https://www.researchgate.net/publication/339898835_Cascade_EF-GAN_Progressive_Facial_Expression_Editing_with_Local_Focuses)]
 - (2019) A Compact Embedding for Facial Expression Similarity [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Vemulapalli_A_Compact_Embedding_for_Facial_Expression_Similarity_CVPR_2019_paper.pdf)]
 - (2019) Facial Emotion Distribution Learning by Exploiting Low-Rank Label Correlations Locally [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jia_Facial_Emotion_Distribution_Learning_by_Exploiting_Low-Rank_Label_Correlations_Locally_CVPR_2019_paper.pdf)]
 - (2019) Learning to Regress 3D Face Shape and Expression
