@@ -133,6 +133,8 @@ Facial Expressions of Mental States [[paper](http://openaccess.thecvf.com/conten
 Recognition [[paper](https://arxiv.org/pdf/1607.06997.pdf)][:dizzy::dizzy::dizzy:]
 
 ### IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)
+- (2020) Label Distribution Learning on Auxiliary Label Space Graphs
+for Facial Expression Recognition [[paper](http://palm.seu.edu.cn/xgeng/files/cvpr20.pdf)]
 - (2020) Suppressing Uncertainties for Large-Scale Facial Expression Recognition [[paper](https://arxiv.org/pdf/2002.10392.pdf)]
 - (2020) Cascade EF-GAN: Progressive Facial Expression Editing with Local Focuses [[paper](https://www.researchgate.net/publication/339898835_Cascade_EF-GAN_Progressive_Facial_Expression_Editing_with_Local_Focuses)]
 - (2019) A Compact Embedding for Facial Expression Similarity [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Vemulapalli_A_Compact_Embedding_for_Facial_Expression_Similarity_CVPR_2019_paper.pdf)]
