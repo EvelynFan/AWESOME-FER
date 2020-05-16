@@ -40,6 +40,7 @@
 - [EmotioNet Challenge](http://cbcsl.ece.ohio-state.edu/EmotionNetChallenge/index.html)
 - [Real Versus Fake Expressed Emotions @ ICCV](http://openaccess.thecvf.com/ICCV2017_workshops/ICCV2017_W44.py)
 - [Affect-in-the-Wild Challenge @ CVPR](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)
+- [Affective Behavior Analysis in-the-wild (ABAW) @ FG](https://ibug.doc.ic.ac.uk/resources/fg-2020-competition-affective-behavior-analysis/)
 
 ## Related Reviews
 
@@ -218,6 +219,8 @@ Recognition with Small Training Sets [[paper](https://arxiv.org/pdf/1808.02668.p
 Expression [[paper](https://dl.acm.org/citation.cfm?id=3137034)][:dizzy:]
 
 ### IEEE International Conference on Automatic Face & Gesture Recognition (FG)
+- (2020) Real-time Facial Expression Recognition “In The Wild” by
+Disentangling 3D Expression from Identity [[paper](https://arxiv.org/pdf/2005.05509.pdf)]
 - (2019) Discriminative Attention-based Convolutional Neural Network for 3D Facial Expression Recognition [[paper](https://ieeexplore-ieee-org/document/8756524)]
 - (2019) GF-CapsNet: Using Gabor Jet and Capsule Networks for Facial Age, Gender, and Expression Recognition [[paper](https://ieeexplore-ieee-org/document/8756552/)]
 - (2019) G2-VER: Geometry Guided Model Ensemble for Video-based Facial Expression Recognition [[paper](https://ieeexplore-ieee-org/document/8756600)]
