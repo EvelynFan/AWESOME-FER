@@ -58,12 +58,14 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 ## Related Conferences and Journals
 
 ### :lollipop: Conferences 
-[CVPR](http://cvpr2019.thecvf.com/),[ICCV](http://iccv2019.thecvf.com/),[ECCV](https://eccv2018.org/),[FG](http://fg2019.org/),[ACM MM](https://www.acmmm.org/2019/),[AAAI](https://aaai.org/Conferences/AAAI-19/),[IJCAI](https://ijcai19.org/),[BMVC](https://bmvc2019.org/),[WACV](http://wacv19.wacv.net/),[ICMI](http://icmi.acm.org/2019/),[ACII](http://acii-conf.org/2019/),[ICB](https://www.icb2019.org/),[BIBM](https://ieeebibm.org/BIBM2019/)
+[CVPR](http://cvpr2019.thecvf.com/),[ICCV](http://iccv2019.thecvf.com/),[ECCV](https://eccv2018.org/),[FG](http://fg2019.org/),[ACM MM](https://www.acmmm.org/2019/),[AAAI](https://aaai.org/Conferences/AAAI-19/),[IJCAI](https://ijcai19.org/),[BMVC](https://bmvc2019.org/),[ACCV](http://accv2020.kyoto/),[WACV](http://wacv19.wacv.net/),[ICMI](http://icmi.acm.org/2019/),[ICPR](https://www.micc.unifi.it/icpr2020/),[ICIP](https://2020.ieeeicip.org/),[ACII](http://acii-conf.org/2019/),[ICB](https://www.icb2019.org/),[BIBM](https://ieeebibm.org/BIBM2019/),[ICASSP](https://2020.ieeeicassp.org/)
 
 ### :lollipop: Journals
 [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34),
 [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83),[Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition),
 [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369),
+[Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition),
+[International Journal of Computer Vision](https://www.springer.com/journal/11263),
 [IEEE Transactions on Systems, Man, and Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021),
 [IEEE Journal of Biomedical and Health Informatic](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020),
 [IEEE Transactions on Human-Machine Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037),
@@ -78,6 +80,7 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 [Neurocomputing](https://www.journals.elsevier.com/neurocomputing),
 [IEEE Transactions on Biometrics, Behavior, and Identity Science](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8423754),
 [Pattern Recognition Letters](https://www.journals.elsevier.com/pattern-recognition-letters)
+[IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10)
 
 ### :lollipop: Workshops
 - IJCAI Affective Computing Workshop (AffComp) [[2019](http://kdd.cs.ksu.edu/KDD/Workshops/IJCAI-2019-AffComp/)],[[2018](http://kdd.cs.ksu.edu/Workshops/IJCAI-2018-AffComp/)],[[2017](http://kdd.cs.ksu.edu/Workshops/IJCAI-2017-AffComp/)]
