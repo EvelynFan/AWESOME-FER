@@ -327,6 +327,7 @@ Facial Expression Analysis [[paper](https://ieeexplore.ieee.org/document/7442563
 - (2019) Blended Emotion in-the-Wild: Multi-label Facial Expression Recognition Using Crowdsourced Annotations and Deep Locality Feature Learning [[paper](https://link.springer.com/article/10.1007/s11263-018-1131-1)]
 
 ### IEEE Transactions on Image Processing
+- (2020) A Unified Deep Model for Joint Facial Expression Recognition, Face Synthesis, and Face Alignment [[paper](https://ieeexplore.ieee.org/document/9090326)]
 - (2020) Geometry Guided Pose-Invariant Facial
 Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8995782)]
 - (2018) Occlusion aware facial expression recognition using
