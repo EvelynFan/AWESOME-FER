@@ -33,6 +33,7 @@
 
 ## FER Challenges
 - [Emotion Recognition in the Wild Challenge (EmotiW) @ ICMI](https://sites.google.com/view/emotiw2018)
+- [The Multimodal Sentiment Analysis Challenge (MuSe) @ ACM MM](https://www.muse-challenge.org/)
 - [Audio/Visual Emotion Challenge (AVEC) @ ACM MM](https://sites.google.com/view/avec2019/home?authuser=0)
 - [Large Scale Emotion Recognition and Analysis (LERA) @ FG](https://sites.google.com/view/lera2019)
 - [Facial Expression Recognition and Analysis Challenge (FERA) @ FG](http://www.fg2017.org/index.php/challenges/)
