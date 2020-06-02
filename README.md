@@ -33,7 +33,7 @@
 
 ## FER Challenges
 - [Emotion Recognition in the Wild Challenge (EmotiW) @ ICMI](https://sites.google.com/view/emotiw2018)
-- [The Multimodal Sentiment Analysis Challenge (MuSe) @ ACM MM](https://www.muse-challenge.org/)
+- [Multimodal Sentiment Analysis Challenge (MuSe) @ ACM MM](https://www.muse-challenge.org/)
 - [Audio/Visual Emotion Challenge (AVEC) @ ACM MM](https://sites.google.com/view/avec2019/home?authuser=0)
 - [Large Scale Emotion Recognition and Analysis (LERA) @ FG](https://sites.google.com/view/lera2019)
 - [Facial Expression Recognition and Analysis Challenge (FERA) @ FG](http://www.fg2017.org/index.php/challenges/)
@@ -324,6 +324,8 @@ with Multiple Feature Fusion [[paper](https://ieeexplore.ieee.org/document/75185
 Facial Expression Analysis [[paper](https://ieeexplore.ieee.org/document/7442563)]
 
 ### International Journal of Computer Vision 
+- (2020) Deep Neural Network Augmentation: Generating Faces for Affect
+Analysis [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/kollias2020_article_deepneuralnetworkaugmentationg.pdf)]
 - (2019) Deep affect prediction in-the-wild: Aff-wild database and challenge, deep architectures, and beyond [[paper](https://link.springer.com/article/10.1007/s11263-019-01158-4)]
 - (2019) Blended Emotion in-the-Wild: Multi-label Facial Expression Recognition Using Crowdsourced Annotations and Deep Locality Feature Learning [[paper](https://link.springer.com/article/10.1007/s11263-018-1131-1)]
 
@@ -532,6 +534,10 @@ Units from Audio Channel [[paper](https://ieeexplore.ieee.org/document/8025777)]
 - (2019) An Adaptive Bayesian Source Separation Method for Intensity Estimation of Facial AUs [[paper](https://ieeexplore.ieee.org/document/7933209)]
 - (2017) Copula Ordinal Regression Framework
 for Joint Estimation of Facial Action Unit Intensity[[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/07983431.pdf)]
+
+### International Journal of Computer Vision 
+- (2019) A Spatiotemporal Convolutional Neural Network for Automatic Pain
+Intensity Estimation from Facial Dynamics [[paper](https://link.springer.com/content/pdf/10.1007/s11263-019-01191-3.pdf)]
 
 ### Pattern Recognition 
 - (2019) Domain Adaptive Representation Learning for Facial Action Unit Recognition [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319304285)]
