@@ -436,6 +436,8 @@ for Cross-Domain Facial Expression Recognition [[paper](https://ieeexplore-ieee-
 - (2019) Self-Supervised Representation Learning From Videos for Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Self-Supervised_Representation_Learning_From_Videos_for_Facial_Action_Unit_Detection_CVPR_2019_paper.pdf)]
 - (2019) Local Relationship Learning with Person-specific Shape Regularization for
 Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Niu_Local_Relationship_Learning_With_Person-Specific_Shape_Regularization_for_Facial_Action_CVPR_2019_paper.pdf)]
+- (2018) Optimizing Filter Size in Convolutional Neural Networks for Facial Action Unit
+Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_Optimizing_Filter_Size_CVPR_2018_paper.pdf)]
 - (2018) Weakly-supervised Deep Convolutional Neural Network Learning
 for Facial Action Unit Intensity Estimation [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Weakly-Supervised_Deep_Convolutional_CVPR_2018_paper.pdf)]
 - (2018) Learning Facial Action Units from Web Images with
@@ -535,6 +537,11 @@ Units from Audio Channel [[paper](https://ieeexplore.ieee.org/document/8025777)]
 - (2017) Copula Ordinal Regression Framework
 for Joint Estimation of Facial Action Unit Intensity[[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/07983431.pdf)]
 
+### IEEE Transactions on Cybernetics
+- (2017) Improving Speech Related Facial Action Unit
+Recognition by Audiovisual Information Fusion [[paper](https://arxiv.org/pdf/1706.10197.pdf)]
+- (2016) Intensity Estimation of Spontaneous Facial Action Units Based on Their Sparsity Properties [[paper](https://ieeexplore.ieee.org/document/7081360)]
+
 ### International Journal of Computer Vision 
 - (2019) A Spatiotemporal Convolutional Neural Network for Automatic Pain
 Intensity Estimation from Facial Dynamics [[paper](https://link.springer.com/content/pdf/10.1007/s11263-019-01191-3.pdf)]
@@ -565,7 +572,6 @@ Deep Neural Network Evolution [[paper](https://www.sciencedirect.com/science/art
 - (ACII 17) Local-Global Ranking for Facial Expression Intensity Estimation [[paper](https://ieeexplore.ieee.org/abstract/document/8273587)]
 - (Pattern Recognition Letters 14) Estimating smile intensity: A better way [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0167865514003080/1-s2.0-S0167865514003080-main.pdf?_tid=466ea9bb-1959-4710-ab74-07ed82680a91&acdnat=1534058715_90dafa3071b2a1097c2252da015b3c78)] [:dizzy::dizzy::dizzy::dizzy:]
 - Conditional Adversarial Synthesis of 3D Facial Action Units [[paper](https://arxiv.org/pdf/1802.07421.pdf)] [:dizzy::dizzy::dizzy:]
-- (IEEE Transactions on Cybernetics 16) Intensity Estimation of Spontaneous Facial Action Units Based on Their Sparsity Properties [[paper](https://ieeexplore.ieee.org/document/7081360)]
 - Projects  [[Computer Expression Recognition Toolbox](http://mplab.ucsd.edu/~marni/Projects/CERT.htm)]  [[TAUD 2011](https://ibug.doc.ic.ac.uk/resources/temporal-based-action-unit-detection/)] [[LAUD 2010](https://ibug.doc.ic.ac.uk/resources/laud-programme-20102011/)] [[Openface](https://github.com/TadasBaltrusaitis/OpenFace)] [[Openface-Paper](OpenFace: an open source facial behavior analysis toolkit)]
 
 ## Affective Level Estimation
