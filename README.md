@@ -275,7 +275,7 @@ Spontaneous Facial Expression Database [[paper](https://ieeexplore.ieee.org/docu
 - (2017) Implicit Media Tagging and Affect Prediction from RGB-D video of
 spontaneous facial expressions [[paper](https://ieeexplore.ieee.org/document/7961813)][:dizzy::dizzy:]
 - (2015) Pairwise Linear Regression: An Efficient and Fast Multi-view Facial
-Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7163101)][:dizzy:]
+Expression Recognition [[paper](https://ieeexplore.ieee.org/document/7163101)][:dizzy:]
 
 ###  IEEE International Conference on Image Processing (ICIP)
 - (2019) Frame attention networks for facial expression recognition in videos [[paper](https://arxiv.org/pdf/1907.00193.pdf)]
@@ -330,6 +330,7 @@ Analysis [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/kollias2020_
 - (2019) Blended Emotion in-the-Wild: Multi-label Facial Expression Recognition Using Crowdsourced Annotations and Deep Locality Feature Learning [[paper](https://link.springer.com/article/10.1007/s11263-018-1131-1)]
 
 ### IEEE Transactions on Image Processing
+- (2020) Multi-modal Recurrent Attention Networks for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9102419)]
 - (2020) A Unified Deep Model for Joint Facial Expression Recognition, Face Synthesis, and Face Alignment [[paper](https://ieeexplore.ieee.org/document/9090326)]
 - (2020) Geometry Guided Pose-Invariant Facial
 Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8995782)]
@@ -359,6 +360,8 @@ An integrated approach [[paper](https://www.sciencedirect.com/science/article/ab
 - (2019) Three Convolutional Neural Network Models for Facial Expression Recognition in the Wild [[paper](https://www.sciencedirect.com/science/article/pii/S0925231219306137)]
 - (2019) Cross-domain facial expression recognition via an intra-category
 common feature and inter-category Distinction feature fusion network [[paper](https://www.sciencedirect.com/science/article/pii/S0925231218314929)]
+- (2018) Facial expression intensity estimation using Siamese and triplet
+networks [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231218307926)]
 - (2018) A visual attention based ROI detection method for facial expression
 recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231218303266)]
 - (2018) Spatio-temporal convolutional features with nested LSTM for facial
@@ -368,6 +371,8 @@ expression recognition [[paper](https://www.sciencedirect.com/science/article/pi
 based on Stack Binarized Auto-encoders and Binarized Neural
 Networks [[paper](https://www.sciencedirect.com/science/article/pii/S0925231217311785)]
 - (2016) Transfer subspace learning for cross-dataset facial expression recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231216304623)][:dizzy:]
+- (2016) A new descriptor of gradients Self-Similarity for smile detection
+in unconstrained scenarios [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231215014812)]
 
 ### IEEE Transactions on Multimedia
 - (2019) Joint Deep Learning of Facial Expression Synthesis and Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8943107)]
@@ -418,9 +423,9 @@ hierarchical deep spatio-temporal features and fusion strategy [[paper](https://
 using Deep Neural Networks [[paper](https://arxiv.org/pdf/1704.08619.pdf)],[[code](https://github.com/tzirakis/Multimodal-Emotion-Recognition)]
 - (ICONIP 2016) Cross-Database Facial Expression Recognition
 via Unsupervised Domain Adaptive
-Dictionary Learning [[paper](https://link-springer-com.eproxy1.lib.hku.hk/content/pdf/10.1007%2F978-3-319-46672-9.pdf)](P428)[:dizzy:]
+Dictionary Learning [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46672-9_48)](P428)[:dizzy:]
 - (ICB 2016) Discriminative Feature Adaptation
-for Cross-Domain Facial Expression Recognition [[paper](https://ieeexplore-ieee-org.eproxy1.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7550085)][:dizzy:]
+for Cross-Domain Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/7550085)][:dizzy:]
 - (ICB 2015) A Transfer Learning Approach to Cross-Database Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/7139098)][:dizzy:]
 - (ICRA 2011) Cross-dataset facial expression recognition [[paper](https://ieeexplore.ieee.org/document/5979705/)][:dizzy:]
 
@@ -557,7 +562,7 @@ recognition under incomplete Au annotation [[paper](https://www.ecse.rpi.edu/~cv
 ### Image and Vision Computing
 - (2016) Real-time facial action unit intensity prediction with regularized
 metric learning [[paper](https://www.sciencedirect.com/science/article/pii/S0262885616300300)]
-- (2012) Regression-based intensity estimation of facial action units [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0262885611001326/1-s2.0-S0262885611001326-main.pdf?_tid=6974cc5b-a5c5-49f8-80a9-48b64d737dd0&acdnat=1545987498_086c43fef2e7b676fb897f288013d1b4)]
+- (2012) Regression-based intensity estimation of facial action units [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885611001326)]
 
 ### Neurocomputing
 - (2020) Action Unit Analysis Enhanced Facial Expression Recognition by
@@ -565,12 +570,12 @@ Deep Neural Network Evolution [[paper](https://www.sciencedirect.com/science/art
 - (2019) AU R-CNN：Encoding Expert Prior Knowledge into R-CNN for Action Unit Detection [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231219305338)]
 
 ### Journal of Visual Communication and Image Representation 
-- (2017) A joint dictionary learning and regression model for intensity estimation of facial AUs [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S1047320317301025/1-s2.0-S1047320317301025-main.pdf?_tid=737aee87-67c5-4beb-91bd-41f50c1c9d70&acdnat=1546048938_0bd273b5c0735d2eb21dd54502420008)]
+- (2017) A joint dictionary learning and regression model for intensity estimation of facial AUs [[paper](https://www.sciencedirect.com/science/article/pii/S1047320317301025)]
 
 ### Others
-- Region-based facial representation for real-time Action Units intensity detection across datasets [[paper](https://link-springer-com.eproxy.lib.hku.hk/content/pdf/10.1007%2Fs10044-017-0645-4.pdf)]
+- Region-based facial representation for real-time Action Units intensity detection across datasets [[paper](https://www.researchgate.net/publication/318973755_Region-based_facial_representation_for_real-time_Action_Units_intensity_detection_across_datasets)]
 - (ACII 17) Local-Global Ranking for Facial Expression Intensity Estimation [[paper](https://ieeexplore.ieee.org/abstract/document/8273587)]
-- (Pattern Recognition Letters 14) Estimating smile intensity: A better way [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0167865514003080/1-s2.0-S0167865514003080-main.pdf?_tid=466ea9bb-1959-4710-ab74-07ed82680a91&acdnat=1534058715_90dafa3071b2a1097c2252da015b3c78)] [:dizzy::dizzy::dizzy::dizzy:]
+- (Pattern Recognition Letters 14) Estimating smile intensity: A better way [[paper](https://www.researchgate.net/publication/266672947_Estimating_smile_intensity_A_better_way)] [:dizzy::dizzy::dizzy::dizzy:]
 - Conditional Adversarial Synthesis of 3D Facial Action Units [[paper](https://arxiv.org/pdf/1802.07421.pdf)] [:dizzy::dizzy::dizzy:]
 - Projects  [[Computer Expression Recognition Toolbox](http://mplab.ucsd.edu/~marni/Projects/CERT.htm)]  [[TAUD 2011](https://ibug.doc.ic.ac.uk/resources/temporal-based-action-unit-detection/)] [[LAUD 2010](https://ibug.doc.ic.ac.uk/resources/laud-programme-20102011/)] [[Openface](https://github.com/TadasBaltrusaitis/OpenFace)] [[Openface-Paper](OpenFace: an open source facial behavior analysis toolkit)]
 
@@ -590,12 +595,12 @@ Deep Architectures, and Beyond [[paper](https://arxiv.org/pdf/1804.10938.pdf)]
 - HAPPEI dataset (happiness intensity)
 - DISFA [[Website](http://www.engr.du.edu/mmahoor/DISFA.htm)](AUs)
 - (IEEE TRANSACTIONS ON AFFECTIVE COMPUTING13) DISFA: A Spontaneous Facial
-Action Intensity Database [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=6475933)]
+Action Intensity Database [[paper](https://ieeexplore.ieee.org/document/6475933)]
 - GENKI-4K [[Website](http://mplab.ucsd.edu/wordpress/?page_id=398)](smile&non-smile)
 - Proposed Methods validated using GENKI-4K :
 - (ICCVW17) 95.76 SmileNet: Registration-Free Smiling Face Detection In The Wild [[paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w23/Jang_SmileNet_Registration-Free_Smiling_ICCV_2017_paper.pdf)][[project](https://sites.google.com/view/sensingfeeling/)]
 - (Machine Vision and Applications17) 92.05 Smile detection in the wild with deep convolutional neural
-networks [[paper](https://link-springer-com.eproxy.lib.hku.hk/content/pdf/10.1007%2Fs00138-016-0817-z.pdf)]
+networks [[paper](https://www.researchgate.net/publication/310787052_Smile_detection_in_the_wild_with_deep_convolutional_neural_networks)]
 - (ACPR15) 94.6 Facial smile detection based on deep learning features. [[paper](http://www.nlpr.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2015/KHZ2015ACPR.pdf)]
 - AFFECTIVA-MIT AM-FED [[Website](https://www.affectiva.com/facial-expression-dataset/)](smile&non-smile)
 - Affectiva-MIT Facial Expression Dataset (AM-FED): Naturalistic and
@@ -610,7 +615,7 @@ Archive Database
 - First Affect-in-the-Wild Challenge [[Website](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)]
 
 ### Related Works
-- (ICMI16) Happiness level prediction with sequential inputs via multiple regressions [[paper](http://delivery.acm.org.eproxy.lib.hku.hk/10.1145/3000000/2997636/p487-li.pdf?ip=147.8.204.164&id=2997636&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1537261553_003215203b29995f2e1f0ca6091bcef6)]
+- (ICMI16) Happiness level prediction with sequential inputs via multiple regressions [[paper](https://www.researchgate.net/publication/309614650_Happiness_level_prediction_with_sequential_inputs_via_multiple_regressions)]
 - (CVPR17 workshop) Estimation of Affective Level in the Wild With Multiple Memory Networks [[paper](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w33/papers/Li_Estimation_of_Affective_CVPR_2017_paper.pdf)]
 - (ICMI16) Group Happiness Assessment Using Geometric Features
 and Dataset Balancing [[paper](http://vintage.winklerbros.net/Publications/emotiw2016.pdf)]
@@ -632,23 +637,19 @@ from Facial Expressions [[paper](https://arxiv.org/pdf/1706.07154.pdf)]
 Weakly-supervised Facial Behavior Analysis [[paper](https://arxiv.org/pdf/1803.00907.pdf)]
 - (FG17) Generic to Specific Recognition Models for Group Membership
 Analysis in Videos [[paper](https://www.repository.cam.ac.uk/bitstream/handle/1810/274276/MouEtAl_FG17_Accepted.pdf?sequence=3)]
-- (Neurocomputing18)Facial expression intensity estimation using Siamese and triplet
-networks [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0925231218307926/1-s2.0-S0925231218307926-main.pdf?_tid=1d157b21-6d6d-4476-8e1d-57ca2fcf8252&acdnat=1533201613_e02292ed92af320bd26447ad1d349612)]
-- (Neurocomputing16) A new descriptor of gradients Self-Similarity for smile detection
-in unconstrained scenarios [[paper](https://ac-els-cdn-com.eproxy.lib.hku.hk/S0925231215014812/1-s2.0-S0925231215014812-main.pdf?_tid=ecccca49-644a-46f8-a5b4-6ed4c5fced2b&acdnat=1533202351_822998183c1e602b7006e0d7f7f124f1)]
-- (IEEE trans on Affective Computing11) Continuous Prediction of Spontaneous Affect from Multiple Cues and Modalities in Valence-Arousal Space [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=5740839)]
+- (IEEE trans on Affective Computing11) Continuous Prediction of Spontaneous Affect from Multiple Cues and Modalities in Valence-Arousal Space [[paper](https://ieeexplore.ieee.org/document/5740839)]
 
 ### Happiness (smile intensity estimation)
 - (IEEE Transactions on Pattern Analysis and Machine Intelligence 09) Toward Practical Smile Detection [[paper](https://ieeexplore.ieee.org/document/4785473)]
 - (Multimedia Tools and Applications18) Smile intensity recognition in real time videos: fuzzy system approach[[paper](https://link.springer.com/article/10.1007/s11042-018-6890-8)]
 - (ACM Transactions on Intelligent Systems and Technology18) The Effect of Pets on Happiness: A Large-Scale Multi-Factor
-Analysis Using Social Multimedia [[paper](http://delivery.acm.org.eproxy.lib.hku.hk/10.1145/3210000/3200751/a60-peng.pdf?ip=147.8.204.164&id=3200751&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1533733444_6049e63f292ec50cf0fd27cb12a9572f#URLTOKEN#)]
+Analysis Using Social Multimedia [[paper](https://arxiv.org/pdf/1804.03507.pdf)]
 - (ICMSS '17) Happy Index: Analysis Based on Automatic Recognition of
-Emotion Flow [[paper](http://delivery.acm.org.eproxy.lib.hku.hk/10.1145/3040000/3034961/p157-Qian.pdf?ip=147.8.204.164&id=3034961&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1533733721_35e65c9ce21191d0062befc7e0aa5644#URLTOKEN#)]
-- (ICPR 2012)Group Expression Intensity Estimation in Videos via Gaussian Processes [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=6460925)]
-- A Novel Approach to Detect Smile [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=6406670)]
+Emotion Flow [[paper](https://www.researchgate.net/publication/315605704_Happy_Index_Analysis_Based_on_Automatic_Recognition_of_Emotion_Flow)]
+- (ICPR 2012)Group Expression Intensity Estimation in Videos via Gaussian Processes [[paper](https://ieeexplore.ieee.org/document/6460925)]
+- A Novel Approach to Detect Smile [[paper](https://ieeexplore.ieee.org/document/6406670)]
 - (ICCV17 Workshop) SmileNet: Registration-Free Smiling Face Detection In The Wild [[paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w23/Jang_SmileNet_Registration-Free_Smiling_ICCV_2017_paper.pdf)][[project](https://sites.google.com/view/sensingfeeling/)]
-- (ACII17) Smiling from Adolescence to Old Age: A Large Observational Study [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8273585)]
+- (ACII17) Smiling from Adolescence to Old Age: A Large Observational Study [[paper](https://ieeexplore.ieee.org/document/8273585)]
 - Deep Convolutional Neural Networks for Smile
 Recognition [[paper](https://arxiv.org/pdf/1508.06535.pdf)]
 - Embedded Implementation of a Deep Learning
@@ -661,19 +662,19 @@ Support Vector Machines [[paper](http://www.ijcte.org/papers/640-W00031.pdf)]
 
 ### Painful Expression Intensity Estimation
 - (IEEE Transactions on Affective Computing 19) Multi-modal Pain Intensity Recognition based on the SenseEmotion Database [[paper](https://ieeexplore.ieee.org/document/8607037)]
-- (ICMI17) Cumulative Attributes for Pain Intensity Estimation [[paper](http://delivery.acm.org.eproxy.lib.hku.hk/10.1145/3140000/3136789/icmi17-sl-1970.pdf?ip=147.8.31.43&id=3136789&acc=ACTIVE%20SERVICE&key=CDD1E79C27AC4E65%2EDE0A32330AE3471B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1546047885_fc745f38ec1bb057ab8b2a0fc1062812)]
+- (ICMI17) Cumulative Attributes for Pain Intensity Estimation [[paper](https://dl.acm.org/doi/10.1145/3136755.3136789)]
 - (CVPRW16)Recurrent Convolutional Neural Network Regression for Continuous Pain
-Intensity Estimation in Video[[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7789681)][:dizzy::dizzy::dizzy:]
-- (CVPRW15)Pain Recognition using Spatiotemporal Oriented Energy of Facial Muscles[[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7301340)]
+Intensity Estimation in Video[[paper](https://ieeexplore.ieee.org/document/7789681)][:dizzy::dizzy::dizzy:]
+- (CVPRW15)Pain Recognition using Spatiotemporal Oriented Energy of Facial Muscles[[paper](https://ieeexplore.ieee.org/document/7301340)]
 - (CVPR17) Personalized Automatic Estimation of Self-reported Pain Intensity
-from Facial Expressions [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8015020)][:dizzy::dizzy:]
-- (FG15)Weakly Supervised Pain Localization using Multiple Instance Learning [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=6553762)]
-- (ICIP17) REGULARIZING FACE VERIFICATION NETS FOR PAIN INTENSITY REGRESSION [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=8296449)][[code](https://github.com/happynear/PainRegression)]
-- (ICME13) PAIN DETECTION THROUGH SHAPE AND APPEARANCE FEATURES [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=6607608)]
+from Facial Expressions [[paper](https://ieeexplore.ieee.org/document/8015020)][:dizzy::dizzy:]
+- (FG15)Weakly Supervised Pain Localization using Multiple Instance Learning [[paper](https://ieeexplore.ieee.org/document/6553762)]
+- (ICIP17) REGULARIZING FACE VERIFICATION NETS FOR PAIN INTENSITY REGRESSION [[paper](https://ieeexplore.ieee.org/document/8296449)][[code](https://github.com/happynear/PainRegression)]
+- (ICME13) PAIN DETECTION THROUGH SHAPE AND APPEARANCE FEATURES [[paper](https://ieeexplore.ieee.org/document/6607608)]
 - (ICPR14) Pain Intensity Evaluation Through Facial Action
-Units [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=6977516)]
+Units [[paper](https://ieeexplore.ieee.org/document/6977516)]
 - (ieee trans on affective computing) Automatic Pain Assessment with Facial
-Activity Descriptors [[paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=7423704)]
+Activity Descriptors [[paper](https://ieeexplore.ieee.org/document/7423704)]
 
 ## Human factors on FR or FER
 - (IEEE Transactions on Biometrics, Behavior, and Identity Science19) Demographic Effects in Facial Recognition and
