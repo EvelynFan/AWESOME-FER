@@ -29,7 +29,7 @@
 - [Aff-Wild data](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)
 - A novel database of Children’s Spontaneous Facial Expressions (LIRIS-CSE) [[paper](https://arxiv.org/pdf/1812.01555.pdf)]
 - [FEAFA: A Well-Annotated Dataset for  Facial Expression Analysis and 3D Facial Animation](http://www.iiplab.net/feafa/)
-- [Facial Expression Research Group Database (FERG-DB)](http://grail.cs.washington.edu/projects/deepexpr/ferg-db.html)
+- [Facial Expression Research Group Database (FERG-DB)](http://grail.cs.washington.edu/projects/deepexpr/ferg-2d-db.html)
 
 ## FER Challenges
 - [Emotion Recognition in the Wild Challenge (EmotiW) @ ICMI](https://sites.google.com/view/emotiw2018)
