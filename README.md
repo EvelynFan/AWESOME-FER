@@ -25,7 +25,7 @@
 - [EmotioNet Database](http://cbcsl.ece.ohio-state.edu/dbform_emotionet.html)
 - [The Radboud Faces Database (RaFD)](http://www.socsci.ru.nl:8180/RaFD2/RaFD)
 - [Aff-Wild data](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)
-- A novel database of Children’s Spontaneous Facial Expressions (LIRIS-CSE)(https://childrenfacialexpression.projet.liris.cnrs.fr/)
+- [A novel database of Children’s Spontaneous Facial Expressions (LIRIS-CSE)](https://childrenfacialexpression.projet.liris.cnrs.fr/)
 - [FEAFA: A Well-Annotated Dataset for  Facial Expression Analysis and 3D Facial Animation](http://www.iiplab.net/feafa/)
 - [Facial Expression Research Group Database (FERG-DB)](http://grail.cs.washington.edu/projects/deepexpr/ferg-2d-db.html)
 
@@ -56,10 +56,10 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 
 ## :high_brightness: Related Conferences and Journals
 
-### :small_blue_diamond: Conferences 
+### :small_orange_diamond: Conferences 
 [CVPR](http://cvpr2019.thecvf.com/),[ICCV](http://iccv2019.thecvf.com/),[ECCV](https://eccv2018.org/),[FG](http://fg2019.org/),[ACM MM](https://www.acmmm.org/2019/),[AAAI](https://aaai.org/Conferences/AAAI-19/),[IJCAI](https://ijcai19.org/),[BMVC](https://bmvc2019.org/),[ACCV](http://accv2020.kyoto/),[WACV](http://wacv19.wacv.net/),[ICMI](http://icmi.acm.org/2019/),[ICPR](https://www.micc.unifi.it/icpr2020/),[ICIP](https://2020.ieeeicip.org/),[ACII](http://acii-conf.org/2019/),[ICB](https://www.icb2019.org/),[BIBM](https://ieeebibm.org/BIBM2019/),[ICASSP](https://2020.ieeeicassp.org/)
 
-### :small_blue_diamond: Journals
+### :small_orange_diamond: Journals
 [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34),
 [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83),[Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition),
 [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369),
@@ -81,38 +81,38 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 [Pattern Recognition Letters](https://www.journals.elsevier.com/pattern-recognition-letters)
 [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10)
 
-### :small_blue_diamond: Workshops
+### :small_orange_diamond: Workshops
 - IJCAI Affective Computing Workshop (AffComp) [[2019](http://kdd.cs.ksu.edu/KDD/Workshops/IJCAI-2019-AffComp/)],[[2018](http://kdd.cs.ksu.edu/Workshops/IJCAI-2018-AffComp/)],[[2017](http://kdd.cs.ksu.edu/Workshops/IJCAI-2017-AffComp/)]
 - AAAI Workshop on Affective Content Analysis (AffCon) [[2020](https://sites.google.com/view/affcon2020)],[[2019](https://sites.google.com/view/affcon2019/home)],[[2018](https://sites.google.com/view/affcon18/home)]
 - CVPR Workshop on Deep Affective Learning and Context Modelling (DAL-COM) [[2017](https://sites.google.com/site/dalcom2017cvpr/home)]
 
 ## :high_brightness: Facial Expression Recognition
 
-### :small_orange_diamond: Association for the Advance of Artificial Intelligence (AAAI)
-- (2020) MIMAMO Net: Integrating Micro- and Macro-motion for Video Emotion
-Recognition [[paper](https://arxiv.org/pdf/1911.09784.pdf)]
-- (2020) M3ER: Multiplicative Multimodal Emotion Recognition Using Facial, Textual, and Speech Cues [[paper](https://arxiv.org/pdf/1911.05659.pdf)]
-- (2020) An End-to-End Visual-Audio Attention Network for Emotion Recognition in User-Generated Videos [[paper]()]
-- (2019) Mode Variational LSTM Robust to Unseen Modes of Variation: Application to
-Facial Expression Recognition [[paper](https://arxiv.org/pdf/1811.06937.pdf)]
-- (2019) Controllable Image-to-Video Translation: A Case Study on Facial Expression Generation [[paper](https://arxiv.org/pdf/1808.02992.pdf)]
-- (2019) CycleEmotionGAN: Emotional Semantic Consistency Preserved CycleGAN for Adapting
-Image Emotions [[paper]()]
-- (2018) ExprGAN: Facial Expression Editing with Controllable Expression Intensity [[paper](https://arxiv.org/pdf/1709.03842.pdf)],[[code](https://github.com/HuiDingUMD/ExprGAN)][:dizzy:]
-- (2018) Learning Spatio-temporal Features with Partial Expression Sequences for on-the-Fly Prediction [[paper](https://arxiv.org/pdf/1711.10914.pdf)][:dizzy:]
-
-### :small_orange_diamond: ACM International Conference on Multimedia (ACM MM)
-- (2019) Occluded Facial Expression Recognition Enhanced through Privileged Information [[paper](https://dl.acm.org/citation.cfm?doid=3343031.3351049)]
-- (2019) Identity- and Pose-Robust Facial Expression Recognition through Adversarial Feature Learning [[paper](https://dl.acm.org/citation.cfm?id=3350872)]
-- (2019) Comp-GAN: Compositional Generative Adversarial Network in Synthesizing and Recognizing Facial Expression [[paper](https://dl.acm.org/citation.cfm?id=3351032)]
-- (2019) PDANet: Polarity-consistent Deep Attention Network for Fine-grained Visual Emotion Regression [[paper](https://arxiv.org/abs/1909.05693)]
-- (2018) Fast and Light Manifold CNN based 3D Facial Expression Recognition across Pose Variations [[paper](https://dl.acm.org/citation.cfm?id=3240568)]
-- (2018) Facial Expression Recognition in the Wild: A Cycle-Consistent Adversarial Attention Transfer Approach [[paper](https://dl.acm.org/citation.cfm?id=3240574)]
-- (2018) Facial Expression Recognition Enhanced by Thermal Images through Adversarial Learning [[paper](https://dl.acm.org/citation.cfm?id=3240608)]
-- (2018) Geometry Guided Adversarial Facial Expression Synthesis [[paper](https://arxiv.org/pdf/1712.03474.pdf)]
-- (2018) Conditional Expression Synthesis with Face Parsing Transformation [[paper](https://dl.acm.org/citation.cfm?id=3240647)]
-- (2017) Learning a Target Sample Re-Generator for Cross-Database
-Micro-Expression Recognition [[paper](https://arxiv.org/pdf/1707.08645.pdf)]
+### :small_orange_diamond: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)
+- (2020) Label Distribution Learning on Auxiliary Label Space Graphs
+for Facial Expression Recognition [[paper](http://palm.seu.edu.cn/xgeng/files/cvpr20.pdf)]
+- (2020) Suppressing Uncertainties for Large-Scale Facial Expression Recognition [[paper](https://arxiv.org/pdf/2002.10392.pdf)]
+- (2020) Cascade EF-GAN: Progressive Facial Expression Editing with Local Focuses [[paper](https://www.researchgate.net/publication/339898835_Cascade_EF-GAN_Progressive_Facial_Expression_Editing_with_Local_Focuses)]
+- (2019) A Compact Embedding for Facial Expression Similarity [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Vemulapalli_A_Compact_Embedding_for_Facial_Expression_Similarity_CVPR_2019_paper.pdf)]
+- (2019) Facial Emotion Distribution Learning by Exploiting Low-Rank Label Correlations Locally [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jia_Facial_Emotion_Distribution_Learning_by_Exploiting_Low-Rank_Label_Correlations_Locally_CVPR_2019_paper.pdf)]
+- (2019) Learning to Regress 3D Face Shape and Expression
+from an Image without 3D Supervision [[paper](https://arxiv.org/pdf/1905.06817.pdf)]][[code](https://github.com/soubhiksanyal/RingNet)]
+- (2018) Facial Expression Recognition by De-expression Residue Learning [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Facial_Expression_Recognition_CVPR_2018_paper.pdf)][:dizzy::dizzy::dizzy:]
+- (2018) Joint Pose and Expression Modeling for Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Joint_Pose_and_CVPR_2018_paper.pdf)],[[code](https://github.com/FFZhang1231/Facial-expression-recognition)][:dizzy::dizzy:]
+- (2018) 4DFAB: A Large Scale 4D Database for Facial Expression Analysis and Biometric Applications [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/3299.pdf)]][:dizzy:]
+- (2017) Reliable Crowdsourcing and Deep Locality-Preserving Learning for Expression
+Recognition in the Wild [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Reliable_Crowdsourcing_and_CVPR_2017_paper.pdf)][:dizzy:]
+- (2017) Emotion Recognition in Context [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kosti_Emotion_Recognition_in_CVPR_2017_paper.pdf)][:dizzy:]
+- (2016) LOMo: Latent Ordinal Model for Facial Analysis in Videos [[paper](http://www.grvsharma.com/hpresources/lomo_cvpr16_arxiv.pdf)][:dizzy:]
+- (2016) Facial Expression Intensity Estimation Using Ordinal Information [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhao_Facial_Expression_Intensity_CVPR_2016_paper.pdf)],[[Supplementary](http://openaccess.thecvf.com/content_cvpr_2016/supplemental/Zhao_Facial_Expression_Intensity_2016_CVPR_supplemental.pdf)][:dizzy::dizzy:]
+- (2016) EmotioNet: An accurate, real-time algorithm for the automatic annotation of a
+million facial expressions in the wild [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Benitez-Quiroz_EmotioNet_An_Accurate_CVPR_2016_paper.pdf)],[[Supplementary](http://openaccess.thecvf.com/content_cvpr_2016/supplemental/Benitez-Quiroz_EmotioNet_An_Accurate_2016_CVPR_supplemental.pdf)][:dizzy:]
+- (2016) Multimodal Spontaneous Emotion Corpus for Human Behavior Analysis [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Multimodal_Spontaneous_Emotion_CVPR_2016_paper.pdf)][:dizzy:]
+- (2014) Learning Expressionlets on Spatio-Temporal Manifold for Dynamic Facial
+Expression Recognition [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Liu_Learning_Expressionlets_on_2014_CVPR_paper.pdf)][:dizzy::dizzy:]
+- (2014) Facial Expression Recognition via a Boosted Deep Belief Network [[paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Liu_Facial_Expression_Recognition_2014_CVPR_paper.pdf)][:dizzy:]
+- (2013) Capturing Complex Spatio-Temporal Relations among Facial
+Muscles for Facial Expression Recognition [[paper](http://f4k.dieei.unict.it/proceedings/CVPR13/data/papers/4989d422.pdf)][:dizzy:]
 
 ### :small_orange_diamond: International Conference on Computer Vision (ICCV)
 - (2019) Context-Aware Emotion Recognition Networks [[paper](https://arxiv.org/pdf/1908.05913.pdf)]
@@ -135,43 +135,31 @@ Facial Expressions of Mental States [[paper](http://openaccess.thecvf.com/conten
 - (2016) Peak-Piloted Deep Network for Facial Expression
 Recognition [[paper](https://arxiv.org/pdf/1607.06997.pdf)][:dizzy::dizzy::dizzy:]
 
-### :small_orange_diamond: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)
-- (2020) Label Distribution Learning on Auxiliary Label Space Graphs
-for Facial Expression Recognition [[paper](http://palm.seu.edu.cn/xgeng/files/cvpr20.pdf)]
-- (2020) Suppressing Uncertainties for Large-Scale Facial Expression Recognition [[paper](https://arxiv.org/pdf/2002.10392.pdf)]
-- (2020) Cascade EF-GAN: Progressive Facial Expression Editing with Local Focuses [[paper](https://www.researchgate.net/publication/339898835_Cascade_EF-GAN_Progressive_Facial_Expression_Editing_with_Local_Focuses)]
-- (2019) A Compact Embedding for Facial Expression Similarity [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Vemulapalli_A_Compact_Embedding_for_Facial_Expression_Similarity_CVPR_2019_paper.pdf)]
-- (2019) Facial Emotion Distribution Learning by Exploiting Low-Rank Label Correlations Locally [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jia_Facial_Emotion_Distribution_Learning_by_Exploiting_Low-Rank_Label_Correlations_Locally_CVPR_2019_paper.pdf)]
-- (2019) Learning to Regress 3D Face Shape and Expression
-from an Image without 3D Supervision [[paper](https://arxiv.org/pdf/1905.06817.pdf)] [[code](https://github.com/soubhiksanyal/RingNet)]
-- (2018) Facial Expression Recognition by De-expression Residue Learning [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Facial_Expression_Recognition_CVPR_2018_paper.pdf)][:dizzy::dizzy::dizzy:]
-- (2018) Joint Pose and Expression Modeling for Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Joint_Pose_and_CVPR_2018_paper.pdf)],[[code](https://github.com/FFZhang1231/Facial-expression-recognition)][:dizzy::dizzy:]
-- (2018) 4DFAB: A Large Scale 4D Database for Facial Expression Analysis and Biometric Applications [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/3299.pdf)][:dizzy:]
-- (2018) (workshop) Covariance Pooling for Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w10/Acharya_Covariance_Pooling_for_CVPR_2018_paper.pdf)],[[code](https://github.com/d-acharya/CovPoolFER)][:dizzy:]
-- (2018) (workshop) Unsupervised Features for Facial Expression Intensity Estimation over Time [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w17/Awiszus_Unsupervised_Features_for_CVPR_2018_paper.pdf)][:dizzy::dizzy:]
-- (2018) (workshop) A Compact Deep Learning Model for Robust Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w41/Kuo_A_Compact_Deep_CVPR_2018_paper.pdf)][:dizzy:]
-- (2017) Reliable Crowdsourcing and Deep Locality-Preserving Learning for Expression
-Recognition in the Wild [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Reliable_Crowdsourcing_and_CVPR_2017_paper.pdf)][:dizzy:]
-- (2017) Emotion Recognition in Context [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kosti_Emotion_Recognition_in_CVPR_2017_paper.pdf)][:dizzy:]
-- (2017) (workshop) Facial Expression Recognition Using Enhanced Deep 3D Convolutional Neural Networks [[paper](https://arxiv.org/pdf/1705.07871.pdf)][:dizzy:]
-- (2017) (workshop) Estimation of Affective Level in the Wild
-With Multiple Memory Networks [[paper](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w33/papers/Li_Estimation_of_Affective_CVPR_2017_paper.pdf)][:dizzy::dizzy:]
-- (2017) (workshop) DyadGAN: Generating Facial Expressions in Dyadic Interactions [[paper](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w41/papers/Khan_DyadGAN_Generating_Facial_CVPR_2017_paper.pdf)][:dizzy:]
-- (2017) (workshop) Personalized Automatic Estimation of Self-reported Pain Intensity
-from Facial Expressions [[paper](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w41/papers/Picard_Personalized_Automatic_Estimation_CVPR_2017_paper.pdf)][:dizzy::dizzy:]
-- (2016) LOMo: Latent Ordinal Model for Facial Analysis in Videos [[paper](http://www.grvsharma.com/hpresources/lomo_cvpr16_arxiv.pdf)][:dizzy:]
-- (2016) Facial Expression Intensity Estimation Using Ordinal Information [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhao_Facial_Expression_Intensity_CVPR_2016_paper.pdf)],[[Supplementary](http://openaccess.thecvf.com/content_cvpr_2016/supplemental/Zhao_Facial_Expression_Intensity_2016_CVPR_supplemental.pdf)][:dizzy::dizzy:]
-- (2016) EmotioNet: An accurate, real-time algorithm for the automatic annotation of a
-million facial expressions in the wild [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Benitez-Quiroz_EmotioNet_An_Accurate_CVPR_2016_paper.pdf)],[[Supplementary](http://openaccess.thecvf.com/content_cvpr_2016/supplemental/Benitez-Quiroz_EmotioNet_An_Accurate_2016_CVPR_supplemental.pdf)][:dizzy:]
-- (2016) Multimodal Spontaneous Emotion Corpus for Human Behavior Analysis [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Multimodal_Spontaneous_Emotion_CVPR_2016_paper.pdf)][:dizzy:]
-- (2016) (workshop) Automatic Recognition of Emotions and Membership in Group Videos [[paper](http://openaccess.thecvf.com/content_cvpr_2016_workshops/w28/papers/Mou_Automatic_Recognition_of_CVPR_2016_paper.pdf)][:dizzy:]
-- (2016) (workshop) Extended DISFA Dataset: Investigating Posed and Spontaneous Facial
-Expressions [[paper](http://openaccess.thecvf.com/content_cvpr_2016_workshops/w28/papers/Mavadati_Extended_DISFA_Dataset_CVPR_2016_paper.pdf)][:dizzy:]
-- (2014) Learning Expressionlets on Spatio-Temporal Manifold for Dynamic Facial
-Expression Recognition [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Liu_Learning_Expressionlets_on_2014_CVPR_paper.pdf)][:dizzy::dizzy:]
-- (2014) Facial Expression Recognition via a Boosted Deep Belief Network [[paper](http://openaccess.thecvf.com/content_cvpr_2014/papers/Liu_Facial_Expression_Recognition_2014_CVPR_paper.pdf)][:dizzy:]
-- (2013) Capturing Complex Spatio-Temporal Relations among Facial
-Muscles for Facial Expression Recognition [[paper](http://f4k.dieei.unict.it/proceedings/CVPR13/data/papers/4989d422.pdf)][:dizzy:]
+### :small_orange_diamond: Association for the Advance of Artificial Intelligence (AAAI)
+- (2020) MIMAMO Net: Integrating Micro- and Macro-motion for Video Emotion
+Recognition [[paper](https://arxiv.org/pdf/1911.09784.pdf)]
+- (2020) M3ER: Multiplicative Multimodal Emotion Recognition Using Facial, Textual, and Speech Cues [[paper](https://arxiv.org/pdf/1911.05659.pdf)]
+- (2020) An End-to-End Visual-Audio Attention Network for Emotion Recognition in User-Generated Videos [[paper]()]
+- (2019) Mode Variational LSTM Robust to Unseen Modes of Variation: Application to
+Facial Expression Recognition [[paper](https://arxiv.org/pdf/1811.06937.pdf)]
+- (2019) Controllable Image-to-Video Translation: A Case Study on Facial Expression Generation [[paper](https://arxiv.org/pdf/1808.02992.pdf)]
+- (2019) CycleEmotionGAN: Emotional Semantic Consistency Preserved CycleGAN for Adapting
+Image Emotions [[paper]()]
+- (2018) ExprGAN: Facial Expression Editing with Controllable Expression Intensity [[paper](https://arxiv.org/pdf/1709.03842.pdf)],[[code](https://github.com/HuiDingUMD/ExprGAN)][:dizzy:]
+- (2018) Learning Spatio-temporal Features with Partial Expression Sequences for on-the-Fly Prediction [[paper](https://arxiv.org/pdf/1711.10914.pdf)]][:dizzy:]
+
+### :small_orange_diamond: ACM International Conference on Multimedia (ACM MM)
+- (2019) Occluded Facial Expression Recognition Enhanced through Privileged Information [[paper](https://dl.acm.org/citation.cfm?doid=3343031.3351049)]
+- (2019) Identity- and Pose-Robust Facial Expression Recognition through Adversarial Feature Learning [[paper](https://dl.acm.org/citation.cfm?id=3350872)]
+- (2019) Comp-GAN: Compositional Generative Adversarial Network in Synthesizing and Recognizing Facial Expression [[paper](https://dl.acm.org/citation.cfm?id=3351032)]
+- (2019) PDANet: Polarity-consistent Deep Attention Network for Fine-grained Visual Emotion Regression [[paper](https://arxiv.org/abs/1909.05693)]
+- (2018) Fast and Light Manifold CNN based 3D Facial Expression Recognition across Pose Variations [[paper](https://dl.acm.org/citation.cfm?id=3240568)]
+- (2018) Facial Expression Recognition in the Wild: A Cycle-Consistent Adversarial Attention Transfer Approach [[paper](https://dl.acm.org/citation.cfm?id=3240574)]
+- (2018) Facial Expression Recognition Enhanced by Thermal Images through Adversarial Learning [[paper](https://dl.acm.org/citation.cfm?id=3240608)]
+- (2018) Geometry Guided Adversarial Facial Expression Synthesis [[paper](https://arxiv.org/pdf/1712.03474.pdf)]
+- (2018) Conditional Expression Synthesis with Face Parsing Transformation [[paper](https://dl.acm.org/citation.cfm?id=3240647)]
+- (2017) Learning a Target Sample Re-Generator for Cross-Database
+Micro-Expression Recognition [[paper](https://arxiv.org/pdf/1707.08645.pdf)]
 
 ### :small_orange_diamond: International Joint Conference on Artificial Intelligence (IJCAI)
 - (2019) Fast Adaptation of Deep Models for Facial Action Unit Detection
@@ -190,10 +178,9 @@ for Video-Based Facial Expression Recognition [[paper](https://www.ijcai.org/Pro
 - （2019）A Personalized Affective Memory Model for Improving Emotion Recognition [[paper](https://arxiv.org/pdf/1904.12632.pdf)]
 
 ### :small_orange_diamond: British Machine Vision Conference (BMVC)
-- (2019) Expression, Affect, Action Unit Recognition: Aff-Wild2, Multi-Task Learning and ArcFace [[paper](https://bmvc2019.org/programme/detailed-programme/)]
-- (2019) Annealed Label Transfer for Face Expression Recognition [[paper](https://bmvc2019.org/programme/detailed-programme/)]
-- (2019) Automatic 4D Facial Expression Recognition via Collaborative Cross-domain Dynamic Image Network [[paper](https://bmvc2019.org/programme/detailed-programme/)]
-- (2019) An Unsupervised Subspace Ranking Method for Continuous Emotions in Face Images [[paper](https://bmvc2019.org/programme/detailed-programme/)]
+- (2019) Annealed Label Transfer for Face Expression Recognition [[paper](https://bmvc2019.org/wp-content/uploads/papers/0321-paper.pdf)]
+- (2019) Automatic 4D Facial Expression Recognition via Collaborative Cross-domain Dynamic Image Network [[paper](https://bmvc2019.org/wp-content/uploads/papers/0729-paper.pdf)]
+- (2019) An Unsupervised Subspace Ranking Method for Continuous Emotions in Face Images [[paper](https://bmvc2019.org/wp-content/uploads/papers/0831-paper.pdf)]
 - (2018) Feature Selection Mechanism in CNNs for Facial Expression Recognition [[paper](http://bmvc2018.org/contents/workshops/iahfar2018/0011.pdf)]
 
 ### :small_orange_diamond: IEEE Winter Conference on Applications of Computer Vision (WACV)
@@ -460,6 +447,11 @@ for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1707.05395.pdf
 Generative Adversarial Recognition Network [[paper](https://dl.acm.org/citation.cfm?id=3240613)]
 
 ### :small_orange_diamond: BMVC
+- (2019) Unmasking the Devil in the Details:What Works for Deep Facial Action Coding? [[paper](https://bmvc2019.org/wp-content/uploads/papers/0403-paper.pdf)]
+- (2019) Large Margin Loss for Learning Facial
+Movements from Pseudo-Emotions [[paper](https://bmvc2019.org/wp-content/uploads/papers/0498-paper.pdf)]
+- (2019) Attention-based Facial Behavior Analytics in
+Social Communication [[paper](https://bmvc2019.org/wp-content/uploads/papers/0491-paper.pdf)]
 - (2019) Expression, Affect, Action Unit Recognition: Aff-Wild2, Multi-Task Learning and ArcFace [[paper](https://bmvc2019.org/wp-content/uploads/papers/0399-paper.pdf)]
 - (2019) PAttNet: Patch-attentive deep network for action unit detection [[paper](https://www.jeffcohn.net/wp-content/uploads/2019/07/BMVC2019_PAttNet.pdf.pdf)]
 - (2018) Identity-based Adversarial Training of Deep
@@ -544,6 +536,7 @@ Deep Neural Network Evolution [[paper](https://www.sciencedirect.com/science/art
 
 ## :high_brightness: Affective Level Estimation
 
+
 ### :small_orange_diamond: Dataset
 - AffectNet [[Website](http://mohammadmahoor.com/affectnet/)]
 - (IEEE TRANSACTIONS ON AFFECTIVE COMPUTING) AffectNet: A Database for Facial Expression,
@@ -603,6 +596,8 @@ Smile Detector [[paper](https://arxiv.org/pdf/1807.10570.pdf)]
 Support Vector Machines [[paper](http://www.ijcte.org/papers/640-W00031.pdf)]
 
 ### :small_orange_diamond: Painful Expression Intensity Estimation
+- (CVPRW17) Personalized Automatic Estimation of Self-reported Pain Intensity
+from Facial Expressions [[paper](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w41/papers/Picard_Personalized_Automatic_Estimation_CVPR_2017_paper.pdf)][:dizzy::dizzy:]
 - (IEEE Transactions on Affective Computing 19) Multi-modal Pain Intensity Recognition based on the SenseEmotion Database [[paper](https://ieeexplore.ieee.org/document/8607037)]
 - (ICPR18) Deep Spatiotemporal Representation of the Face
 for Automatic Pain Intensity Estimation [[paper](https://arxiv.org/pdf/1806.06793.pdf)]
@@ -628,4 +623,11 @@ Units [[paper](https://ieeexplore.ieee.org/document/6977516)]
 Activity Descriptors [[paper](https://ieeexplore.ieee.org/document/7423704)]
 
 ### :small_orange_diamond: Valence-Arousal Level Estimation
-- (IEEE trans on Affective Computing11) Continuous Prediction of Spontaneous Affect from Multiple Cues and Modalities in Valence-Arousal Space [[paper](https://ieeexplore.ieee.org/document/5740839)]
+- (AAAI 2020) MIMAMO Net: Integrating Micro- and Macro-motion for Video Emotion
+Recognition [[paper](https://arxiv.org/pdf/1911.09784.pdf)]
+- (BMVC 2019) An Unsupervised Subspace Ranking Method
+for Continuous Emotions in Face Images [[paper](https://bmvc2019.org/wp-content/uploads/papers/0831-paper.pdf)]
+- (CVPRW 2017) Estimation of Affective Level in the Wild
+With Multiple Memory Networks [[paper](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w33/papers/Li_Estimation_of_Affective_CVPR_2017_paper.pdf)][:dizzy::dizzy:]
+- (CVPRW 2016) Automatic Recognition of Emotions and Membership in Group Videos [[paper](http://openaccess.thecvf.com/content_cvpr_2016_workshops/w28/papers/Mou_Automatic_Recognition_of_CVPR_2016_paper.pdf)][:dizzy:]
+- (IEEE trans on Affective Computing 2011) Continuous Prediction of Spontaneous Affect from Multiple Cues and Modalities in Valence-Arousal Space [[paper](https://ieeexplore.ieee.org/document/5740839)]
