@@ -12,7 +12,7 @@
 
 :high_brightness: [Affective Level Estimation](#affective-level-estimation)
 
-## :high_brightness: Datasets
+## Datasets
 - [Jaffe](http://www.kasrl.org/jaffe.html)
 - [FER-2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)
 - [MMI Facial Expression Database](https://www.mmifacedb.eu/)
@@ -35,7 +35,7 @@
 - [The UNBC-McMaster Shoulder Pain Expression
 Archive Database (UNBC)](https://ieeexplore.ieee.org/document/5771462)
 
-## :high_brightness: Challenges
+## Challenges
 - [Emotion Recognition in the Wild Challenge (EmotiW) @ ICMI](https://sites.google.com/view/emotiw2018)
 - [Group-level happiness intensity recognition @ ICMI](https://sites.google.com/site/emotiw2016/challenge-details)
 - [Multimodal Sentiment Analysis Challenge (MuSe) @ ACM MM](https://www.muse-challenge.org/)
@@ -49,8 +49,7 @@ Archive Database (UNBC)](https://ieeexplore.ieee.org/document/5771462)
 - [Affective Behavior Analysis in-the-wild (ABAW) @ FG](https://ibug.doc.ic.ac.uk/resources/fg-2020-competition-affective-behavior-analysis/)
 - [EmoPain Challenge: Pain-related Behavior Analysis @ FG](https://mvrjustid.github.io/EmoPainChallenge2020/)
 
-## :high_brightness: Related Reviews
-
+## Related Reviews
 - (IEEE Transactions on Affective Computing 20) Deep Facial Expression Recognition: A Survey [[paper](https://arxiv.org/pdf/1804.08348.pdf)]
 - (ACM Computing Surveys 19) Facial Expression Analysis under Partial Occlusion: A Survey [[paper](https://arxiv.org/pdf/1802.08784.pdf)]
 - (IEEE Transactions on Affective Computing 19) Deep Learning for Human Affect Recognition: Insights and New Developments [[paper](https://ieeexplore.ieee.org/document/8598999)]
@@ -62,7 +61,7 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 - (Image and Vision Computing 13) Categorical and dimensional affect analysis in continuous input: Current trends and future directions [[paper](https://www.sciencedirect.com/science/article/pii/S0262885612001084)]
 - (FG 11) Emotion representation, analysis and synthesis in continuous space: A survey [[paper](https://ieeexplore.ieee.org/document/5771357)]
 
-## :high_brightness: Related Conferences and Journals
+## Related Conferences and Journals
 
 ### :small_orange_diamond: Conferences 
 [CVPR](http://cvpr2019.thecvf.com/),[ICCV](http://iccv2019.thecvf.com/),[ECCV](https://eccv2018.org/),[FG](http://fg2019.org/),[ACM MM](https://www.acmmm.org/2019/),[AAAI](https://aaai.org/Conferences/AAAI-19/),[IJCAI](https://ijcai19.org/),[BMVC](https://bmvc2019.org/),[ACCV](http://accv2020.kyoto/),[WACV](http://wacv19.wacv.net/),[ICMI](http://icmi.acm.org/2019/),[ICPR](https://www.micc.unifi.it/icpr2020/),[ICIP](https://2020.ieeeicip.org/),[ACII](http://acii-conf.org/2019/),[ICB](https://www.icb2019.org/),[BIBM](https://ieeebibm.org/BIBM2019/),[ICASSP](https://2020.ieeeicassp.org/)
@@ -94,7 +93,7 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 - AAAI Workshop on Affective Content Analysis (AffCon) [[2020](https://sites.google.com/view/affcon2020)],[[2019](https://sites.google.com/view/affcon2019/home)],[[2018](https://sites.google.com/view/affcon18/home)]
 - CVPR Workshop on Deep Affective Learning and Context Modelling (DAL-COM) [[2017](https://sites.google.com/site/dalcom2017cvpr/home)]
 
-## :high_brightness: Facial Expression Recognition
+## Facial Expression Recognition
 
 ### :small_orange_diamond: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)
 - (2020) Label Distribution Learning on Auxiliary Label Space Graphs
@@ -213,6 +212,8 @@ Recognition with Small Training Sets [[paper](https://arxiv.org/pdf/1808.02668.p
 Expression [[paper](https://dl.acm.org/citation.cfm?id=3137034)][:dizzy:]
 
 ### :small_orange_diamond: IEEE International Conference on Automatic Face & Gesture Recognition (FG)
+- (2020) The FaceChannel: A Light-weight Deep Neural Network for Facial
+Expression Recognition [[paper](https://arxiv.org/abs/2004.08195)]
 - (2020) CLIFER: Continual Learning with Imagination for Facial Expression Recognition [[paper](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a693/1kecIRr1grK)]
 - (2020) Real-time Facial Expression Recognition “In The Wild” by
 Disentangling 3D Expression from Identity [[paper](https://arxiv.org/pdf/2005.05509.pdf)]
@@ -390,7 +391,7 @@ Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/7530
 - (2019) Deep spatial-temporal feature fusion for facial expression recognition
 in static images [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865517303902)]
 
-## :high_brightness:  Facial Action Unit Recognition
+## Facial Action Unit Recognition
 
 ### :small_orange_diamond: AAAI
 - (2020) Facial Action Unit Intensity Estimation via Semantic Correspondence Learning with Dynamic Graph Convolution [[paper](https://arxiv.org/pdf/2004.09681.pdf)][[Code](https://github.com/EvelynFan/FAU)]
@@ -538,7 +539,7 @@ Deep Neural Network Evolution [[paper](https://www.sciencedirect.com/science/art
 ### :small_orange_diamond: Journal of Visual Communication and Image Representation 
 - (2017) A joint dictionary learning and regression model for intensity estimation of facial AUs [[paper](https://www.sciencedirect.com/science/article/pii/S1047320317301025)]
 
-## :high_brightness: Affective Level Estimation
+## Affective Level Estimation
 
 ### :small_orange_diamond: Valence-Arousal Level Estimation
 - (CVPR 2020) Factorized Higher-Order CNNs
@@ -577,7 +578,7 @@ from Facial Expressions [[paper](https://ieeexplore.ieee.org/document/8015020)][
 Activity Descriptors [[paper](https://ieeexplore.ieee.org/document/7423704)]
 - (CVPR 2017) Personalized Automatic Estimation of Self-reported Pain Intensity
 from Facial Expressions [[paper](https://arxiv.org/pdf/1706.07154.pdf)]
-- (ICIP 2017) REGULARIZING FACE VERIFICATION NETS FOR PAIN INTENSITY REGRESSION [[paper](https://arxiv.org/pdf/1702.06925.pdf)]
+- (ICIP 2017) Regularizing Face Verification Nets for Pain Intensity Regression [[paper](https://arxiv.org/pdf/1702.06925.pdf)][[code](https://github.com/happynear/PainRegression)]
 - (CVPRW 2017) Personalized Automatic Estimation of Self-reported Pain Intensity
 from Facial Expressions [[paper](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w41/papers/Picard_Personalized_Automatic_Estimation_CVPR_2017_paper.pdf)][:dizzy::dizzy:]
 - (ICMI 2017) Cumulative Attributes for Pain Intensity Estimation [[paper](https://dl.acm.org/doi/10.1145/3136755.3136789)]
@@ -586,6 +587,5 @@ from Facial Expressions [[paper](http://openaccess.thecvf.com/content_cvpr_2017_
 Intensity Estimation in Video[[paper](https://ieeexplore.ieee.org/document/7789681)][:dizzy::dizzy::dizzy:]
 - (CVPRW 2015)Pain Recognition using Spatiotemporal Oriented Energy of Facial Muscles[[paper](https://ieeexplore.ieee.org/document/7301340)]
 - (FG 2015)Weakly Supervised Pain Localization using Multiple Instance Learning [[paper](https://ieeexplore.ieee.org/document/6553762)]
-- (ICIP 2017) REGULARIZING FACE VERIFICATION NETS FOR PAIN INTENSITY REGRESSION [[paper](https://ieeexplore.ieee.org/document/8296449)][[code](https://github.com/happynear/PainRegression)]
 - (ICPR 2014) Pain Intensity Evaluation Through Facial Action
 Units [[paper](https://ieeexplore.ieee.org/document/6977516)]
