@@ -1,6 +1,6 @@
-:high_brightness: [Datasets](#fer-datasets)
+:high_brightness: [Datasets](#datasets)
 
-:high_brightness: [Challenges](#fer-challenges)
+:high_brightness: [Challenges](#challenges)
 
 :high_brightness: [Related Reviews](#related-reviews)
 
