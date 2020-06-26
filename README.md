@@ -142,15 +142,16 @@ Facial Expressions of Mental States [[paper](http://openaccess.thecvf.com/conten
 Recognition [[paper](https://arxiv.org/pdf/1607.06997.pdf)][:dizzy::dizzy::dizzy:]
 
 ### :small_orange_diamond: Association for the Advance of Artificial Intelligence (AAAI)
+- (2020) Efficient facial feature learning with wide ensemble-based convolutional neural networks [[paper](https://www2.informatik.uni-hamburg.de/wtm/publications/2020/SMW20/SMW20.pdf)]
 - (2020) MIMAMO Net: Integrating Micro- and Macro-motion for Video Emotion
 Recognition [[paper](https://arxiv.org/pdf/1911.09784.pdf)]
 - (2020) M3ER: Multiplicative Multimodal Emotion Recognition Using Facial, Textual, and Speech Cues [[paper](https://arxiv.org/pdf/1911.05659.pdf)]
-- (2020) An End-to-End Visual-Audio Attention Network for Emotion Recognition in User-Generated Videos [[paper]()]
+- (2020) An End-to-End Visual-Audio Attention Network for Emotion Recognition in User-Generated Videos [[paper](https://arxiv.org/abs/2003.00832)]
 - (2019) Mode Variational LSTM Robust to Unseen Modes of Variation: Application to
 Facial Expression Recognition [[paper](https://arxiv.org/pdf/1811.06937.pdf)]
 - (2019) Controllable Image-to-Video Translation: A Case Study on Facial Expression Generation [[paper](https://arxiv.org/pdf/1808.02992.pdf)]
 - (2019) CycleEmotionGAN: Emotional Semantic Consistency Preserved CycleGAN for Adapting
-Image Emotions [[paper]()]
+Image Emotions [[paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4110)]
 - (2018) ExprGAN: Facial Expression Editing with Controllable Expression Intensity [[paper](https://arxiv.org/pdf/1709.03842.pdf)],[[code](https://github.com/HuiDingUMD/ExprGAN)][:dizzy:]
 - (2018) Learning Spatio-temporal Features with Partial Expression Sequences for on-the-Fly Prediction [[paper](https://arxiv.org/pdf/1711.10914.pdf)]][:dizzy:]
 
@@ -217,16 +218,16 @@ Expression Recognition [[paper](https://arxiv.org/abs/2004.08195)]
 - (2020) CLIFER: Continual Learning with Imagination for Facial Expression Recognition [[paper](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a693/1kecIRr1grK)]
 - (2020) Real-time Facial Expression Recognition “In The Wild” by
 Disentangling 3D Expression from Identity [[paper](https://arxiv.org/pdf/2005.05509.pdf)]
-- (2019) Discriminative Attention-based Convolutional Neural Network for 3D Facial Expression Recognition [[paper](https://ieeexplore-ieee-org/document/8756524)]
-- (2019) GF-CapsNet: Using Gabor Jet and Capsule Networks for Facial Age, Gender, and Expression Recognition [[paper](https://ieeexplore-ieee-org/document/8756552/)]
-- (2019) G2-VER: Geometry Guided Model Ensemble for Video-based Facial Expression Recognition [[paper](https://ieeexplore-ieee-org/document/8756600)]
-- (2019) A Graph-Structured Representation with BRNN for Static-based Facial Expression Recognition [[paper](https://ieeexplore-ieee-org/document/8756615)]
-- (2019) AFAR: A Deep Learning Based Tool for Automated Facial Affect Recognition [[paper](https://ieeexplore-ieee-org/document/8756623)]
-- (2019) Face and Emotion Recognition with Neural Networks on Mobile Devices: Practical Implementation on Different Platforms [[paper](https://ieeexplore-ieee-org/document/8756562)]
-- (2019) Hierarchical Group-level Emotion Recognition in the Wild [[paper](https://ieeexplore-ieee-org/document/8756573)]
+- (2019) Discriminative Attention-based Convolutional Neural Network for 3D Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8756524)]
+- (2019) GF-CapsNet: Using Gabor Jet and Capsule Networks for Facial Age, Gender, and Expression Recognition [[paper](https://ieeexplore.ieee.org/document/8756552)]
+- (2019) G2-VER: Geometry Guided Model Ensemble for Video-based Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8756600)]
+- (2019) A Graph-Structured Representation with BRNN for Static-based Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8756615)]
+- (2019) AFAR: A Deep Learning Based Tool for Automated Facial Affect Recognition [[paper](https://ieeexplore.ieee.org/document/8756623)]
+- (2019) Face and Emotion Recognition with Neural Networks on Mobile Devices: Practical Implementation on Different Platforms [[paper](https://ieeexplore.ieee.org/document/8756562)]
+- (2019) Hierarchical Group-level Emotion Recognition in the Wild [[paper](https://ieeexplore.ieee.org/document/8756573)]
 - (2019) Bounded Residual Gradient Networks (BReG-Net) for Facial Affect
 Computing [[paper](https://arxiv.org/pdf/1903.02110.pdf)]
-- (2019) Generalizing to unseen head poses in facial expression recognition and action unit intensity estimation [[paper](https://researchportal.port.ac.uk/portal/en/publications/generalizing-to-unseen-head-poses-in-facial-expression-recognition-and-action-unit-intensity-estimation(caeb70c3-0be9-4bf0-bee7-e6efe5b78b9f).html)]
+- (2019) Generalizing to unseen head poses in facial expression recognition and action unit intensity estimation [[paper](https://ieeexplore.ieee.org/document/8756596)]
 - (2018) Facial Expression Grounded Conversational Dialogue Generation[[paper](https://ieeexplore.ieee.org/document/8373852)]
 - (2018) Island Loss for Learning Discriminative Features in Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/8373844)]
 - (2018) Multi-Channel Pose-Aware Convolution Neural Networks for Multi-View Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/8373867)][:dizzy::dizzy::dizzy:]
