@@ -366,6 +366,7 @@ Networks [[paper](https://www.sciencedirect.com/science/article/pii/S09252312173
 in unconstrained scenarios [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231215014812)]
 
 ### :small_orange_diamond: IEEE Transactions on Multimedia
+- (2020) Orthogonalization-Guided Feature Fusion Network for Multimodal 2D+3D Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9115253)]
 - (2019) Joint Deep Learning of Facial Expression Synthesis and Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8943107)]
 - (2019) Facial Expression Recognition Using Hierarchical Features With Deep Comprehensive Multipatches Aggregation Convolutional Neural Networks [[paper](https://ieeexplore.ieee.org/document/8371638)]
 - (2018) MixedEmotions: An Open-Source Toolbox for
