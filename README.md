@@ -176,6 +176,8 @@ Image Emotions [[paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/411
 Micro-Expression Recognition [[paper](https://arxiv.org/pdf/1707.08645.pdf)]
 
 ### :small_orange_diamond: International Joint Conference on Artificial Intelligence (IJCAI)
+- (2020) Weakly Supervised Local-Global Relation Network
+for Facial Expression Recognition [[paper](https://www.ijcai.org/Proceedings/2020/0145.pdf)]
 - (2018) Personality-Aware Personalized Emotion Recognition from Physiological Signals [[paper](https://www.ijcai.org/proceedings/2018/0230.pdf)]
 - (2017) Approximating Discrete Probability Distribution of Image Emotions by
 Multi-Modal Features Fusion [[paper](https://www.ijcai.org/proceedings/2017/0651.pdf)]
