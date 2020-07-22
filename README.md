@@ -395,6 +395,9 @@ Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/7530
 - (2019) Adaptive Weighting of Handcrafted Feature Losses for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/8786929)]
 - (2015) Learning Multiscale Active Facial Patches for Expression Analysis[[paper](https://ieeexplore.ieee.org/document/6912969)]
 
+### :small_orange_diamond: IEEE Transactions on Information Forensics and Security
+- (2020) Fine-Grained Facial Expression Recognition in the Wild [[paper](https://ieeexplore.ieee.org/document/9133437)]
+
 ### :small_orange_diamond: Computer Vision and Image Understanding
 - (2019) Registration-free Face-SSD: Single shot analysis of smiles, facial attributes, and affect in the wild[[paper](https://www.sciencedirect.com/science/article/pii/S1077314219300128)]
 
