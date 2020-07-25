@@ -293,6 +293,7 @@ Expression Recognition [[paper](https://ieeexplore.ieee.org/document/7163101)][:
 - (2019) Pooling Map Adaptation in Convolutional Neural Network for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8785044)]
 
 ### :small_orange_diamond: IEEE Transactions on Affective Computing
+- (2020) Phase Space Reconstruction Driven Spatio-Temporal Feature Learning for Dynamic Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/9134869)]
 - (2020) Facial Expression Recognition with Deeply-Supervised Attention Network [[paper](https://ieeexplore.ieee.org/document/9075283)]
 - (2019) On-the-Fly Facial Expression Prediction using LSTM Encoded Appearance-Suppressed Dynamics [[paper](https://ieeexplore.ieee.org/abstract/document/8922646)] 
 - (2019) Dynamic Pose-Robust Facial Expression Recognition by Multi-View Pairwise Conditional Random Forests [[paper](https://ieeexplore.ieee.org/document/7934067)]
@@ -508,6 +509,7 @@ Spontaneous Facial Action Units [[paper](https://ieeexplore.ieee.org/document/65
 Action Unit and Holistic Expression Recognition [[paper](http://www.humansensing.cs.cmu.edu/sites/default/files/07471506.pdf)]
 
 ### :small_orange_diamond: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- (2020) Learning Representations for Facial Actions from Unlabeled Videos [[paper](https://www.computer.org/csdl/journal/tp/5555/01/09145674/1lE04DpfpyE)]
 - (2015) Discriminant Functional Learning of Color
 Features for the Recognition of Facial Action
 Units and their Intensities [[paper](https://ieeexplore.ieee.org/document/8454901)]
@@ -515,6 +517,7 @@ Units and their Intensities [[paper](https://ieeexplore.ieee.org/document/845490
 for Intensity Estimation of Facial Action Units [[paper](https://spiral.imperial.ac.uk/bitstream/10044/1/23471/2/tpamicscorffinal_rudovic.pdf)]
 
 ### :small_orange_diamond: IEEE Transactions on Affective Computing (TAC)
+- (2020) RFAU: A Database for Facial Action Unit Analysis in Real Classrooms [[paper](https://ieeexplore.ieee.org/document/9130811)]
 - (2019) Listen to Your Face: Inferring Facial Action
 Units from Audio Channel [[paper](https://ieeexplore.ieee.org/document/8025777)]
 - (2019) Deep Facial Action Unit Recognition and Intensity Estimation from Partially Labelled Data [[paper](https://ieeexplore.ieee.org/abstract/document/8705351)]
