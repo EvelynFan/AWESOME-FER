@@ -331,6 +331,8 @@ Analysis [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/kollias2020_
 - (2019) Blended Emotion in-the-Wild: Multi-label Facial Expression Recognition Using Crowdsourced Annotations and Deep Locality Feature Learning [[paper](https://link.springer.com/article/10.1007/s11263-018-1131-1)]
 
 ### :small_orange_diamond: IEEE Transactions on Image Processing (TIP)
+- (2020) Facial Expression Recognition in Videos
+using Dynamic Kernels [[paper](https://ieeexplore.ieee.org/abstract/document/9153096)]
 - (2020) Multi-modal Recurrent Attention Networks for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9102419)]
 - (2020) A Unified Deep Model for Joint Facial Expression Recognition, Face Synthesis, and Face Alignment [[paper](https://ieeexplore.ieee.org/document/9090326)]
 - (2020) Geometry Guided Pose-Invariant Facial
@@ -527,6 +529,8 @@ Units from Audio Channel [[paper](https://ieeexplore.ieee.org/document/8025777)]
 for Joint Estimation of Facial Action Unit Intensity[[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/07983431.pdf)]
 
 ### :small_orange_diamond: IEEE Transactions on Cybernetics
+- (2020) Dual Learning for Facial Action Unit Detection
+Under Nonfull Annotation [[paper](https://ieeexplore.ieee.org/abstract/document/9139271)]
 - (2017) Improving Speech Related Facial Action Unit
 Recognition by Audiovisual Information Fusion [[paper](https://arxiv.org/pdf/1706.10197.pdf)]
 - (2016) Intensity Estimation of Spontaneous Facial Action Units Based on Their Sparsity Properties [[paper](https://ieeexplore.ieee.org/document/7081360)]
