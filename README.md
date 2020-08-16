@@ -163,6 +163,8 @@ Image Emotions [[paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/411
 - (2018) Learning Spatio-temporal Features with Partial Expression Sequences for on-the-Fly Prediction [[paper](https://arxiv.org/pdf/1711.10914.pdf)]][:dizzy:]
 
 ### :small_orange_diamond: ACM International Conference on Multimedia (ACM MM)
+- (2020) DFEW: A Large-Scale Database for Recognizing Dynamic Facial
+Expressions in the Wild [[paper](https://arxiv.org/pdf/2008.05924.pdf)]
 - (2020) Adversarial Graph Representation Adaptation
 for Cross-Domain Facial Expression Recognition [[paper](https://arxiv.org/pdf/2008.00859.pdf)]
 - (2019) Occluded Facial Expression Recognition Enhanced through Privileged Information [[paper](https://dl.acm.org/citation.cfm?doid=3343031.3351049)]
