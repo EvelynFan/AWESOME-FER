@@ -469,6 +469,8 @@ Unit Detection and Face Alignment[[paper](https://arxiv.org/pdf/1803.05588.pdf)]
 for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1707.05395.pdf)] 
 
 ### :small_orange_diamond: ACM MM
+- (2020) Unsupervised Learning Facial Parameter Regressor for Action
+Unit Intensity Estimation via Differentiable Renderer [[paper](https://arxiv.org/pdf/2008.08862.pdf)]
 - (2018) Personalized Multiple Facial Action Unit Recognition through
 Generative Adversarial Recognition Network [[paper](https://dl.acm.org/citation.cfm?id=3240613)]
 
