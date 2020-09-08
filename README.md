@@ -475,6 +475,7 @@ Unit Intensity Estimation via Differentiable Renderer [[paper](https://arxiv.org
 Generative Adversarial Recognition Network [[paper](https://dl.acm.org/citation.cfm?id=3240613)]
 
 ### :small_orange_diamond: BMVC
+- (2020) Self-Supervised Learning for Facial Action Unit Recognition through Temporal Consistency [[paper](https://www.bmvc2020-conference.com/assets/papers/0861.pdf)][[code](https://github.com/intelligent-human-perception-laboratory/temporal-consistency)]
 - (2019) Unmasking the Devil in the Details:What Works for Deep Facial Action Coding? [[paper](https://bmvc2019.org/wp-content/uploads/papers/0403-paper.pdf)]
 - (2019) Large Margin Loss for Learning Facial
 Movements from Pseudo-Emotions [[paper](https://bmvc2019.org/wp-content/uploads/papers/0498-paper.pdf)]
