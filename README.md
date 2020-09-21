@@ -2,8 +2,6 @@
 
 :memo: :high_brightness: Top conferences & Journals focused on Facial expression recognition (FER)/ Facial action unit (FAU)
 
-（:white_small_square: Update: Another [repository](https://github.com/EvelynFan/AWESOME-MER) for papers on Multimodal Emotion Recognition (MER) is available :heavy_check_mark:）
-
 ***
 :high_brightness: [Datasets](#datasets)
 
