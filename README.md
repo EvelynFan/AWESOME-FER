@@ -295,6 +295,7 @@ Expression Recognition [[paper](https://ieeexplore.ieee.org/document/7163101)][:
 - (2019) Pooling Map Adaptation in Convolutional Neural Network for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8785044)]
 
 ### :small_orange_diamond: IEEE Transactions on Affective Computing
+- (2020) STCAM: Spatial-Temporal and Channel Attention Module for Dynamic Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9209166)]
 - (2020) Phase Space Reconstruction Driven Spatio-Temporal Feature Learning for Dynamic Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/9134869)]
 - (2020) Facial Expression Recognition with Deeply-Supervised Attention Network [[paper](https://ieeexplore.ieee.org/document/9075283)]
 - (2019) On-the-Fly Facial Expression Prediction using LSTM Encoded Appearance-Suppressed Dynamics [[paper](https://ieeexplore.ieee.org/abstract/document/8922646)] 
@@ -390,6 +391,7 @@ Multimodal Emotion Analysis [[paper](https://ieeexplore.ieee.org/document/826932
 Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/document/7530823)][:dizzy:]
 
 ### :small_orange_diamond: IEEE Transactions on Circuits and Systems for Video Technology 
+- (2020) Facial Expression Recognition with Two-branch Disentangled Generative Adversarial Network [[paper](https://ieeexplore.ieee.org/abstract/document/9197663)]
 - (2018) Learning Affective Features With a Hybrid Deep Model for Audio–Visual Emotion Recognition [[paper](https://ieeexplore.ieee.org/document/7956190)]
 - (2018) Mixture Statistic Metric Learning for Robust Human Action and Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8103056)]
 
