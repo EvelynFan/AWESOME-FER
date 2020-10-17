@@ -161,6 +161,11 @@ Image Emotions [[paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/411
 - (2018) Learning Spatio-temporal Features with Partial Expression Sequences for on-the-Fly Prediction [[paper](https://arxiv.org/pdf/1711.10914.pdf)]][:dizzy:]
 
 ### :small_orange_diamond: ACM International Conference on Multimedia (ACM MM)
+- (2020) IExpressNet: Facial Expression Recognition with Incremental Classes [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413718)]
+- (2020) Occluded Facial Expression Recognition with Step-Wise Assistance from Unpaired Non-Occluded Images [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413773)]
+- (2020) Uncertainty-aware Cross-dataset Facial Expression Recognition via Regularized Conditional Alignment [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413515)]
+- (2020) R-FENet: A Region-based Facial Expression Recognition Method Inspired by Semantic Information of Action Units [[paper](https://dl.acm.org/doi/abs/10.1145/3422852.3423482)]
+- (2020) A Novel Graph-TCN with a Graph Structured Representation for Micro-expression Recognition [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413714)]
 - (2020) DFEW: A Large-Scale Database for Recognizing Dynamic Facial
 Expressions in the Wild [[paper](https://arxiv.org/pdf/2008.05924.pdf)]
 - (2020) Adversarial Graph Representation Adaptation
@@ -469,6 +474,9 @@ Unit Detection and Face Alignment[[paper](https://arxiv.org/pdf/1803.05588.pdf)]
 for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1707.05395.pdf)] 
 
 ### :small_orange_diamond: ACM MM
+- (2020) Adaptive Multimodal Fusion for Facial Action Units Recognition [[paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413538)]
+- (2020) Region of Interest Based Graph Convolution: A Heatmap
+Regression Approach for Action Unit Detection [[paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413674)]
 - (2020) Unsupervised Learning Facial Parameter Regressor for Action
 Unit Intensity Estimation via Differentiable Renderer [[paper](https://arxiv.org/pdf/2008.08862.pdf)]
 - (2018) Personalized Multiple Facial Action Unit Recognition through
