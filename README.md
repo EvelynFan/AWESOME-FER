@@ -469,6 +469,8 @@ Action Unit Recognition [[paper](http://openaccess.thecvf.com/content_ECCV_2018/
 Unit Detection and Face Alignment[[paper](https://arxiv.org/pdf/1803.05588.pdf)] 
 
 ### :small_orange_diamond: NIPS
+- (2020) Knowledge Augmented Deep Neural Networks for
+Joint Facial Expression and Action Unit Recognition [[paper](https://papers.nips.cc/paper/2020/file/a51fb975227d6640e4fe47854476d133-Paper.pdf)]
 - (2019) Multi-label Co-regularization for Semi-supervised Facial Action Unit Recognition [[paper](https://nxsedson.github.io/paper/NeurIPS2019.pdf)]
 - (2016) Incremental Boosting Convolutional Neural Network
 for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1707.05395.pdf)] 
