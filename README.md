@@ -420,6 +420,7 @@ in static images [[paper](https://www.sciencedirect.com/science/article/abs/pii/
 ## Facial Action Unit Recognition
 
 ### :small_orange_diamond: AAAI
+- (2021) Uncertain Graph Neural Networks for Facial Action Unit Detection [[paper](https://www.researchgate.net/profile/Tengfei_Song5/publication/346853340_Uncertain_Graph_Neural_Networks_for_Facial_Action_Unit_Detection/links/5fd24e35299bf188d40af784/Uncertain-Graph-Neural-Networks-for-Facial-Action-Unit-Detection.pdf)]
 - (2020) Facial Action Unit Intensity Estimation via Semantic Correspondence Learning with Dynamic Graph Convolution [[paper](https://arxiv.org/pdf/2004.09681.pdf)][[Code](https://github.com/EvelynFan/FAU)]
 - (2019) Semantic Relationships Guided Representation Learning for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1904.09939.pdf)]
 - (2019) Dual Semi-Supervised Learning for Facial Action Unit Recognition [[paper](https://www.researchgate.net/publication/335270610_Dual_Semi-Supervised_Learning_for_Facial_Action_Unit_Recognition)]
