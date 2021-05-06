@@ -101,6 +101,8 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 ## Facial Expression Recognition
 
 ### :small_orange_diamond: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)
+- (2021) Feature Decomposition and Reconstruction Learning for Effective Facial Expression Recognition [[paper](https://arxiv.org/pdf/2104.05160.pdf)]
+- (2021) Affective Processes: Stochastic Modelling of Temporal Context for Emotion and Facial Expression Recognition [[paper](https://arxiv.org/pdf/2103.13372.pdf)]
 - (2020) Label Distribution Learning on Auxiliary Label Space Graphs
 for Facial Expression Recognition [[paper](http://palm.seu.edu.cn/xgeng/files/cvpr20.pdf)]
 - (2020) Suppressing Uncertainties for Large-Scale Facial Expression Recognition [[paper](https://arxiv.org/pdf/2002.10392.pdf)]
@@ -147,6 +149,7 @@ Facial Expressions of Mental States [[paper](http://openaccess.thecvf.com/conten
 Recognition [[paper](https://arxiv.org/pdf/1607.06997.pdf)][:dizzy::dizzy::dizzy:]
 
 ### :small_orange_diamond: Association for the Advance of Artificial Intelligence (AAAI)
+- (2021) Robust Lightweight Facial Expression Recognition Network with Label Distribution Training [[paper](https://zengqunzhao.github.io/doc/pdfs/AAAI2021.pdf)],[[code](https://github.com/zengqunzhao/EfficientFace)]
 - (2020) Efficient facial feature learning with wide ensemble-based convolutional neural networks [[paper](https://www2.informatik.uni-hamburg.de/wtm/publications/2020/SMW20/SMW20.pdf)]
 - (2020) MIMAMO Net: Integrating Micro- and Macro-motion for Video Emotion
 Recognition [[paper](https://arxiv.org/pdf/1911.09784.pdf)]
