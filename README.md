@@ -103,6 +103,7 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 ### :small_orange_diamond: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)
 - (2021) Feature Decomposition and Reconstruction Learning for Effective Facial Expression Recognition [[paper](https://arxiv.org/pdf/2104.05160.pdf)]
 - (2021) Affective Processes: Stochastic Modelling of Temporal Context for Emotion and Facial Expression Recognition [[paper](https://arxiv.org/pdf/2103.13372.pdf)]
+- (2021) Dive into Ambiguity: Latent Distribution Mining and Pairwise Uncertainty Estimation for Facial Expression Recognition [[paper](https://arxiv.org/pdf/2104.00232.pdf)]
 - (2020) Label Distribution Learning on Auxiliary Label Space Graphs
 for Facial Expression Recognition [[paper](http://palm.seu.edu.cn/xgeng/files/cvpr20.pdf)]
 - (2020) Suppressing Uncertainties for Large-Scale Facial Expression Recognition [[paper](https://arxiv.org/pdf/2002.10392.pdf)]
@@ -149,7 +150,7 @@ Facial Expressions of Mental States [[paper](http://openaccess.thecvf.com/conten
 Recognition [[paper](https://arxiv.org/pdf/1607.06997.pdf)][:dizzy::dizzy::dizzy:]
 
 ### :small_orange_diamond: Association for the Advance of Artificial Intelligence (AAAI)
-- (2021) Robust Lightweight Facial Expression Recognition Network with Label Distribution Training [[paper](https://zengqunzhao.github.io/doc/pdfs/AAAI2021.pdf)],[[code](https://github.com/zengqunzhao/EfficientFace)]
+- (2021) Robust Lightweight Facial Expression Recognition Network with Label Distribution Training [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16465)],[[code](https://github.com/zengqunzhao/EfficientFace)]
 - (2020) Efficient facial feature learning with wide ensemble-based convolutional neural networks [[paper](https://www2.informatik.uni-hamburg.de/wtm/publications/2020/SMW20/SMW20.pdf)]
 - (2020) MIMAMO Net: Integrating Micro- and Macro-motion for Video Emotion
 Recognition [[paper](https://arxiv.org/pdf/1911.09784.pdf)]
@@ -342,7 +343,8 @@ Analysis [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/kollias2020_
 - (2019) Blended Emotion in-the-Wild: Multi-label Facial Expression Recognition Using Crowdsourced Annotations and Deep Locality Feature Learning [[paper](https://link.springer.com/article/10.1007/s11263-018-1131-1)]
 
 ### :small_orange_diamond: IEEE Transactions on Image Processing (TIP)
-- (2020) Facial Expression Recognition in Videos
+- (2021) Learning Deep Global Multi-scale and Local Attention Features for Facial Expression Recognition in the Wild [[paper](https://doi.org/10.1109/TIP.2021.3093397)],[[code](https://github.com/zengqunzhao/MA-Net)]
+- (2020) Facial Expression Recognition in Videos 
 using Dynamic Kernels [[paper](https://ieeexplore.ieee.org/abstract/document/9153096)]
 - (2020) Multi-modal Recurrent Attention Networks for Facial Expression Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9102419)]
 - (2020) A Unified Deep Model for Joint Facial Expression Recognition, Face Synthesis, and Face Alignment [[paper](https://ieeexplore.ieee.org/document/9090326)]
