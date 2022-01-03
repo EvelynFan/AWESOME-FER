@@ -101,6 +101,9 @@ Registration, Representation, and Recognition [[paper](https://ieeexplore.ieee.o
 ## Facial Expression Recognition
 
 ### :small_orange_diamond: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)
+- (2021) Affective Processes: Stochastic Modelling of Temporal Context for Emotion and Facial Expression Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sanchez_Affective_Processes_Stochastic_Modelling_of_Temporal_Context_for_Emotion_and_CVPR_2021_paper.pdf)]
+- (2021) Dive Into Ambiguity: Latent Distribution Mining and Pairwise Uncertainty Estimation for Facial Expression Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/She_Dive_Into_Ambiguity_Latent_Distribution_Mining_and_Pairwise_Uncertainty_Estimation_CVPR_2021_paper.pdf)]
+- (2021) Feature Decomposition and Reconstruction Learning for Effective Facial Expression Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ruan_Feature_Decomposition_and_Reconstruction_Learning_for_Effective_Facial_Expression_Recognition_CVPR_2021_paper.pdf)]
 - (2020) Label Distribution Learning on Auxiliary Label Space Graphs
 for Facial Expression Recognition [[paper](http://palm.seu.edu.cn/xgeng/files/cvpr20.pdf)]
 - (2020) Suppressing Uncertainties for Large-Scale Facial Expression Recognition [[paper](https://arxiv.org/pdf/2002.10392.pdf)]
@@ -129,6 +132,9 @@ Expression Recognition [[paper](https://www.cv-foundation.org/openaccess/content
 Muscles for Facial Expression Recognition [[paper](http://f4k.dieei.unict.it/proceedings/CVPR13/data/papers/4989d422.pdf)][:dizzy:]
 
 ### :small_orange_diamond: International Conference on Computer Vision (ICCV)
+- (2021) Understanding and Mitigating Annotation Bias
+in Facial Expression Recognition [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Understanding_and_Mitigating_Annotation_Bias_in_Facial_Expression_Recognition_ICCV_2021_paper.pdf)]
+- (2021) TransFER: Learning Relation-Aware Facial Expression Representations With Transformers [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xue_TransFER_Learning_Relation-Aware_Facial_Expression_Representations_With_Transformers_ICCV_2021_paper.pdf)]
 - (2019) Context-Aware Emotion Recognition Networks [[paper](https://arxiv.org/pdf/1908.05913.pdf)]
 - (2019) Attention-Aware Polarity Sensitive Embedding for Affective Image Retrieval [[paper]()]
 - (2019) Zero-Shot Emotion Recognition via Affective Structural Embedding [[paper]()]
@@ -426,6 +432,10 @@ in static images [[paper](https://www.sciencedirect.com/science/article/abs/pii/
 - (2019) Dual Semi-Supervised Learning for Facial Action Unit Recognition [[paper](https://www.researchgate.net/publication/335270610_Dual_Semi-Supervised_Learning_for_Facial_Action_Unit_Recognition)]
 
 ### :small_orange_diamond: CVPR
+- (2021) Hybrid Message Passing With Performance-Driven Structures for Facial Action Unit Detection [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Hybrid_Message_Passing_With_Performance-Driven_Structures_for_Facial_Action_Unit_CVPR_2021_paper.pdf)]
+- (2021) Exploiting Semantic Embedding and Visual Feature for Facial Action Unit Detection [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Exploiting_Semantic_Embedding_and_Visual_Feature_for_Facial_Action_Unit_CVPR_2021_paper.pdf)]
+- (2021) Facial Action Unit Detection With Transformers [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jacob_Facial_Action_Unit_Detection_With_Transformers_CVPR_2021_paper.pdf)]
+- (2021) Dynamic Probabilistic Graph Convolution for Facial Action Unit Intensity Estimation [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Dynamic_Probabilistic_Graph_Convolution_for_Facial_Action_Unit_Intensity_Estimation_CVPR_2021_paper.pdf)]
 - (2019) Joint Representation and Estimator Learning for Facial Action Unit Intensity Estimation [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Joint_Representation_and_Estimator_Learning_for_Facial_Action_Unit_Intensity_CVPR_2019_paper.pdf)]
 - (2019) Self-Supervised Representation Learning From Videos for Facial Action Unit Detection [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Self-Supervised_Representation_Learning_From_Videos_for_Facial_Action_Unit_Detection_CVPR_2019_paper.pdf)]
 - (2019) Local Relationship Learning with Person-specific Shape Regularization for
@@ -454,6 +464,8 @@ for Joint Estimation of Facial Action Unit Intensity [[paper](https://ibug.doc.i
 - (2009) A framework for automated measurement of the intensity of non-posed Facial Action Units [[paper](https://ieeexplore.ieee.org/document/5204259)]
 
 ### :small_orange_diamond: ICCV
+- (2021) PIAP-DF: Pixel-Interested and Anti Person-Specific Facial Action Unit Detection
+Net with Discrete Feedback Learning [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Tang_PIAP-DF_Pixel-Interested_and_Anti_Person-Specific_Facial_Action_Unit_Detection_Net_ICCV_2021_paper.pdf)]
 - (2019) Context-Aware Feature and Label Fusion for Facial Action Unit Intensity Estimation With Partially Labeled Data [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Context-Aware_Feature_and_Label_Fusion_for_Facial_Action_Unit_Intensity_ICCV_2019_paper.pdf)]
 - (2017) DeepCoder: Semi-parametric Variational Autoencoders
 for Automatic Facial Action Coding [[paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/tran_deepcoder_semi-parametric_variational_iccv_2017_paper.pdf)]
