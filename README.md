@@ -202,7 +202,10 @@ via Deep Convolutional Neural Network [[paper](https://www.ijcai.org/proceedings
 for Video-Based Facial Expression Recognition [[paper](https://www.ijcai.org/Proceedings/16/Papers/316.pdf)]
 
 ### :small_orange_diamond: International Conference on Machine Learning (ICML)
-- （2019）A Personalized Affective Memory Model for Improving Emotion Recognition [[paper](https://arxiv.org/pdf/1904.12632.pdf)]
+-（2019）A Personalized Affective Memory Model for Improving Emotion Recognition [[paper](https://arxiv.org/pdf/1904.12632.pdf)]
+
+### :small_orange_diamond: Advances in Neural Information Processing Systems (NIPS)
+- (2021) Relative Uncertainty Learning for Facial Expression Recognition [[paper](https://proceedings.neurips.cc/paper/2021/file/9332c513ef44b682e9347822c2e457ac-Paper.pdf)][[code](https://github.com/zyh-uaiaaaa/Relative-Uncertainty-Learning)]
 
 ### :small_orange_diamond: British Machine Vision Conference (BMVC)
 - (2019) Annealed Label Transfer for Face Expression Recognition [[paper](https://bmvc2019.org/wp-content/uploads/papers/0321-paper.pdf)]
