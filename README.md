@@ -488,6 +488,9 @@ Joint Facial Expression and Action Unit Recognition [[paper](https://papers.nips
 - (2016) Incremental Boosting Convolutional Neural Network
 for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/1707.05395.pdf)] 
 
+### :small_orange_diamond: IJCAI
+- (2022) Learning Multi-dimensional Edge Feature-based AU Relation Graph for Facial Action Unit Recognition [[paper](https://arxiv.org/pdf/2205.01782.pdf)][[code](https://github.com/CVI-SZU/ME-GraphAU)]
+
 ### :small_orange_diamond: ACM MM
 - (2020) Adaptive Multimodal Fusion for Facial Action Units Recognition [[paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413538)]
 - (2020) Region of Interest Based Graph Convolution: A Heatmap
