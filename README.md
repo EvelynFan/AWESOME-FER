@@ -31,7 +31,7 @@
 - [The Radboud Faces Database (RaFD)](http://www.socsci.ru.nl:8180/RaFD2/RaFD)
 - [Aff-Wild data](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/)
 - [A novel database of Children’s Spontaneous Facial Expressions (LIRIS-CSE)](https://childrenfacialexpression.projet.liris.cnrs.fr/)
-- [FEAFA: A Well-Annotated Dataset for  Facial Expression Analysis and 3D Facial Animation](http://www.iiplab.net/feafa/)
+- [FEAFA: A Well-Annotated Dataset for Facial Expression Analysis and 3D Facial Animation](http://www.iiplab.net/feafa/)
 - [Facial Expression Research Group Database (FERG-DB)](http://grail.cs.washington.edu/projects/deepexpr/ferg-2d-db.html)
 - [Emotions In Context dataset (EMOTIC)](http://sunai.uoc.edu/emotic/)
 - [Denver Intensity of Spontaneous Facial Action Database (DISFA)](http://mohammadmahoor.com/disfa/)
@@ -167,6 +167,7 @@ Image Emotions [[paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/411
 - (2018) Learning Spatio-temporal Features with Partial Expression Sequences for on-the-Fly Prediction [[paper](https://arxiv.org/pdf/1711.10914.pdf)]][:dizzy:]
 
 ### :small_orange_diamond: ACM International Conference on Multimedia (ACM MM)
+- (2022) Towards Unbiased Visual Emotion Recognition via Causal Intervention [[paper](https://arxiv.org/abs/2107.12096)], [[code](https://github.com/donydchen/causal_emotion)][:dizzy:]
 - (2020) IExpressNet: Facial Expression Recognition with Incremental Classes [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413718)]
 - (2020) Occluded Facial Expression Recognition with Step-Wise Assistance from Unpaired Non-Occluded Images [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413773)]
 - (2020) Uncertainty-aware Cross-dataset Facial Expression Recognition via Regularized Conditional Alignment [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413515)]
