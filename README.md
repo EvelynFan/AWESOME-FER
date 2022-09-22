@@ -146,13 +146,17 @@ for Facial Expression Recognition [[paper](https://www.cv-foundation.org/openacc
 
 ### :small_orange_diamond: European Conference on Computer Vision (ECCV)
 - (2022) Learn From All: Erasing Attention Consistency for Noisy Label Facial Expression Recognition
- [[paper](https://arxiv.org/pdf/2207.10299.pdf)],[[:dizzy::dizzy::dizzy:](https://github.com/FFZhang1231/Facial-expression-recognition)]
+ [[paper](https://arxiv.org/pdf/2207.10299.pdf)],[[:dizzy::dizzy::dizzy:](https://github.com/zyh-uaiaaaa/Erasing-Attention-Consistency)]
 - (2018) Facial Expression Recognition with Inconsistently Annotated Datasets [[paper](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Jiabei_Zeng_Facial_Expression_Recognition_ECCV_2018_paper.pdf)]
 - (2018) Contemplating Visual Emotions: Understanding and Overcoming Dataset Bias [[paper](https://arxiv.org/pdf/1808.02212.pdf)]
 - (2018) Deep Multi-Task Learning to Recognise Subtle
 Facial Expressions of Mental States [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guosheng_Hu_Deep_Multi-Task_Learning_ECCV_2018_paper.pdf)]
 - (2016) Peak-Piloted Deep Network for Facial Expression
 Recognition [[paper](https://arxiv.org/pdf/1607.06997.pdf)][:dizzy::dizzy::dizzy:]
+
+### :small_orange_diamond: Conference on Neural Information Processing Systems (NIPS)
+- (2021) Relative Uncertainty Learning for Facial Expression Recognition
+ [[paper](https://proceedings.neurips.cc/paper/2021/file/9332c513ef44b682e9347822c2e457ac-Paper.pdf)],[[:dizzy::dizzy::dizzy:](https://github.com/zyh-uaiaaaa/Relative-Uncertainty-Learning)]
 
 ### :small_orange_diamond: Association for the Advance of Artificial Intelligence (AAAI)
 - (2020) Efficient facial feature learning with wide ensemble-based convolutional neural networks [[paper](https://www2.informatik.uni-hamburg.de/wtm/publications/2020/SMW20/SMW20.pdf)]
