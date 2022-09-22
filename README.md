@@ -145,6 +145,8 @@ for Facial Expression Recognition [[paper](https://www.cv-foundation.org/openacc
 - (2015) Pairwise Conditional Random Forests for Facial Expression Recognition [[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Dapogny_Pairwise_Conditional_Random_ICCV_2015_paper.pdf)][:dizzy:]
 
 ### :small_orange_diamond: European Conference on Computer Vision (ECCV)
+- (2022) Learn From All: Erasing Attention Consistency for Noisy Label Facial Expression Recognition
+ [[paper](https://arxiv.org/pdf/2207.10299.pdf)]
 - (2018) Facial Expression Recognition with Inconsistently Annotated Datasets [[paper](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Jiabei_Zeng_Facial_Expression_Recognition_ECCV_2018_paper.pdf)]
 - (2018) Contemplating Visual Emotions: Understanding and Overcoming Dataset Bias [[paper](https://arxiv.org/pdf/1808.02212.pdf)]
 - (2018) Deep Multi-Task Learning to Recognise Subtle
